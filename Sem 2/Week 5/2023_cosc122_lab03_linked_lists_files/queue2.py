@@ -83,29 +83,47 @@ class Queue2:
     def enqueue(self, item):
         """Add an item onto the tail of the queue."""
         # ---start student section---
-        pass
+        new_node = Node(item)
+        if self.head is None:
+            self.head = new_node
+            self.tail = new_node
+        else:
+            current = self.tail
+            current.next_node = new_node
+            self.tail = new_node
         # ===end student section===
 
     def dequeue(self):
         """Remove an item from the head of the queue and return it.
         If queue is empty you should raise an IndexError as per
         the comment below."""
-        # use the following line to raise error if stack is empty
-        # raise IndexError("Can't dequeue from empty queue.")
         # ---start student section---
-        pass
+        if self.head is None:
+            raise IndexError("Can't dequeue from empty queue.")
+        else:
+            current = self.head
+            self.head = current.next_node
+            if self.head is None:
+                self.tail = None  # Queue is now empty, update tail pointer
+            return current.item
         # ===end student section===
 
     def is_empty(self):
         """ Returns True if the Queue is empty """
         # ---start student section---
-        pass
+        if self.head is None:
+            return True
         # ===end student section===
 
     def __len__(self):
         """ Returns the length --- calling len(q) will invoke this method"""
         # ---start student section---
-        pass
+        current = self.head
+        count = 0
+        while current is not None:
+            count += 1
+            current = current.next_node
+        return count
         # ===end student section===
 
     def __str__(self):
@@ -128,7 +146,7 @@ class Queue2:
 def main():
     """ Mainly tests """
     # set verbose to False to get less doctest output
-    verbose = True
+    verbose = False
 
     # Can enter an infinite loop if Queue2 isn't implemented correctly
     result = doctest.testmod()

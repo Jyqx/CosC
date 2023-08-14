@@ -175,9 +175,19 @@ class UnsortedFreqList(FreqList):
           3:  'a' = 2
         """
         # ---start student section---
-        pass
-        # ===end student section===
+        # if the item is already in the list, increment its frequency
+        current = self.head
+        while current is not None:
+            if current.item == item:
+                current.increment()
+                return
+            current = current.next_node
 
+        # if the item is not in the list, add it to the front of the list
+        new_node = FreqNode(item)
+        new_node.next_node = self.head
+        self.head = new_node
+        # ===end student section===
 
 # -------------------------------------------------------------------------
 class NicerUnsortedFreqList(FreqList):
@@ -223,7 +233,21 @@ class NicerUnsortedFreqList(FreqList):
           3:  'c' = 1
         """
         # ---start student section---
-        pass
+        current = self.head
+        while current is not None:
+            if current.item == item:
+                current.increment()
+                return
+            current = current.next_node
+        
+        new_node = FreqNode(item)
+        if self.head is None:
+            self.head = new_node
+        else:
+            current = self.head
+            while current.next_node is not None:
+                current = current.next_node
+            current.next_node = new_node
         # ===end student section===
 
 
@@ -372,7 +396,29 @@ class SortedFreqList(FreqList):
         """
         # make sure you read the docstring for this method!
         # ---start student section---
-        pass
+        new_node = FreqNode(item)
+
+        # If the list is empty, add the new node at the head
+        if self.head is None:
+            self.head = new_node
+        else:
+            current = self.head
+            prev = None
+
+            # Traverse the list to find the appropriate position
+            while current is not None and current.frequency >= new_node.frequency:
+                prev = current
+                current = current.next_node
+
+            # Insert the new node at the correct position
+            if prev is None:
+                # Insert at the beginning
+                new_node.next_node = self.head
+                self.head = new_node
+            else:
+                # Insert in the middle or at the end
+                prev.next_node = new_node
+                new_node.next_node = current
         # ===end student section===
 
 
@@ -394,17 +440,17 @@ def main():
     # To process txt files use the run_tests function.
 
     # change to False to get less doctest output
-    with_verbose = True
+    with_verbose = False
 
     # Individual tests:
     # Uncomment ones that you want to run individually
     # doctest.run_docstring_examples(UnsortedFreqList.add, None, verbose=with_verbose)
     # doctest.run_docstring_examples(NicerUnsortedFreqList.add, None, verbose=with_verbose)
-    # doctest.run_docstring_examples(SortedFreqList.add, None, verbose=with_verbose)
+    doctest.run_docstring_examples(SortedFreqList.add, None, verbose=with_verbose)
 
     # Comment out the call to run_full_doctests if you just want to run one of the above
     # invidual class tests
-    run_full_doctests(with_verbose)
+    # run_full_doctests(with_verbose)
 
 
 if __name__ == '__main__':

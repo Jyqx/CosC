@@ -286,8 +286,8 @@ def run_tests():
 
     # To check just one class you can comment out the testmod above
     # and uncomment the relevant doc test run line below  with Debug
-    # doctest.run_docstring_examples(Stack, None, verbose=with_verbose)
-    doctest.run_docstring_examples(Queue, None, verbose=with_verbose)
+    doctest.run_docstring_examples(Stack, None, verbose=with_verbose)
+    # doctest.run_docstring_examples(Queue, None, verbose=with_verbose)
 
 
 if __name__ == '__main__':

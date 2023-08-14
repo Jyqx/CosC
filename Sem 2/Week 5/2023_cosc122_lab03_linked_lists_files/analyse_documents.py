@@ -151,16 +151,16 @@ def main():
     # ------------------------------------
 
     # Some analyses using an UnsortedFreqList - add your own
-    analyse_document('le_rire.txt', UnsortedFreqList, n_chars=1, verbose=True)
+    # analyse_document('le_rire.txt', UnsortedFreqList, n_chars=1, verbose=True)
     #analyse_document('ulysses.txt', UnsortedFreqList, n_chars=1, verbose=True)
 
     # some NicerUnsortedFreqList runs - add your own
-    #analyse_document('le_rire.txt', NicerUnsortedFreqList, n_chars=1, verbose=True)
-    #analyse_document('ulysses.txt', NicerUnsortedFreqList, n_chars=1, verbose=True)
+    # analyse_document('le_rire.txt', NicerUnsortedFreqList, n_chars=2, verbose=True)
+    # analyse_document('ulysses.txt', NicerUnsortedFreqList, n_chars=2, verbose=True)
 
     # some SortedFreqList runs - add your own
     #analyse_document('le_rire.txt', NicerUnsortedFreqList, n_chars=1, verbose=True)
-    #analyse_document('ulysses.txt', SortedFreqList, n_chars=1, verbose=True)
+    analyse_document('ulysses.txt', SortedFreqList, n_chars=1, verbose=True)
     #analyse_document('war_and_peace.txt', SortedFreqList, n_chars=1, verbose=True)
 
 
