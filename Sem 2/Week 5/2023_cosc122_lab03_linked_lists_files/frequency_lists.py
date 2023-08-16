@@ -396,31 +396,26 @@ class SortedFreqList(FreqList):
         """
         # make sure you read the docstring for this method!
         # ---start student section---
-        new_node = FreqNode(item)
-
-        # If the list is empty, add the new node at the head
-        if self.head is None:
-            self.head = new_node
+        if not self.head:
+            self.head = FreqNode(item)
         else:
             current = self.head
             prev = None
 
-            # Traverse the list to find the appropriate position
-            while current is not None and current.frequency >= new_node.frequency:
+            while current:
+                if current.item == item:
+                    current.frequency += 1
+
+                    if prev and prev.frequency < current.frequency:
+                        prev.next_node = current.next_node
+                        self._insert_in_order(current)
+                    break
+
                 prev = current
                 current = current.next_node
-
-            # Insert the new node at the correct position
-            if prev is None:
-                # Insert at the beginning
-                new_node.next_node = self.head
-                self.head = new_node
             else:
-                # Insert in the middle or at the end
-                prev.next_node = new_node
-                new_node.next_node = current
+                self._insert_in_order(FreqNode(item))
         # ===end student section===
-
 
 def run_full_doctests(with_verbose=True):
     # run all the doctests  -- comment this out if you are running individual
