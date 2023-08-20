@@ -168,7 +168,8 @@ class ChainingHashTable():
         # remember self._data[index] contains a list of items that hash to
         # the slot at the given index
         # ---start student section---
-        pass
+        index = self._hash(item)
+        return item in self._data[index]
         # ===end student section===
 
 
@@ -567,7 +568,12 @@ def spellcheck_with_list(
     start_check_time = perf_counter()
     # start
     # ---start student section---
-    pass
+    for word in document_word_list:
+        if word not in dictionary_word_list:
+            num_errors += 1
+            unique_errors.add(word)
+            if not quiet_mode:
+                print(word)
     # ===end student section===
     # end
     end_check_time = perf_counter()
@@ -695,6 +701,7 @@ def spellcheck_bin(document_word_list, dictionary_word_list, quiet_mode=False):
     dict_sort_start = perf_counter()
     dictionary = sorted(dictionary_word_list)
     dict_sort_end = perf_counter()
+    dict_sort_time = dict_sort_end - dict_sort_start
 
     dictionary_length = len(dictionary_word_list)
     document_length = len(document_word_list)
@@ -702,8 +709,12 @@ def spellcheck_bin(document_word_list, dictionary_word_list, quiet_mode=False):
     num_errors = 0
 
     # ---start student section---
+    start_check_time = perf_counter()
     pass
+    end_check_time = perf_counter()
     # ===end student section===
+    check_time = end_check_time - start_check_time
+    ms_per_word = (check_time /len(document_word_list)) *1000
     if not quiet_mode:
         print_line()
         print(f'Number of errors = {num_errors} words')
@@ -739,12 +750,9 @@ if __name__ == '__main__':
         # print(result)
 
     # Idividual tests:
-    doctest.run_docstring_examples(
-    ChainingHashTable, None, verbose=with_verbose)
-    doctest.run_docstring_examples(
-    # LinearHashTable, None, verbose=with_verbose)
-    doctest.run_docstring_examples(
-    # QuadraticHashTable, None, verbose=with_verbose)
+    # doctest.run_docstring_examples(ChainingHashTable, None, verbose=False)
+    # doctest.run_docstring_examples(LinearHashTable, None, verbose=with_verbose)
+    # doctest.run_docstring_examples(QuadraticHashTable, None, verbose=with_verbose)
 
     # run all the doctests:
     # doctest.testmod()
