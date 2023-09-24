@@ -1,0 +1,19 @@
+# Marker gene,disease:
+10
+caacgccgtacgatgcccaggctgatgaggct,variegate porphyria (a.b.16)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gaagtttgaggcggccacctatactgaggagc,Alström syndrome (a.a.12)
+gacctagggcgccccggctcgaacgctatcag,Phenylketonuria (a.a.19)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+tcgttgtctgaccttactggatcgtacgtgcc,Di George's syndrome (a.a.5)
+ttagccactactgtatcaagtcaatcatggaa,factor V Leiden thrombophilia (a.a.28)
+# Number of genes in patient's genome:
+2
+tagggaattctagaatcgtacggtatatactc
+tcctcgcgccgccacggagtgagcaccacgca
+# Expected result (diseases patient could have): 
+0
+

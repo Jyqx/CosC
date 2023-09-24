@@ -1,0 +1,14 @@
+# Marker gene,disease:
+5
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+# Number of genes in patient's genome:
+2
+catagggaattctagaatcgtacggtatatac
+tctcctcgcgccgccacggagtgagcaccacg
+# Expected result (diseases patient could have): 
+0
+

@@ -1,0 +1,69 @@
+# Marker gene,disease:
+10
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gaagtttgaggcggccacctatactgaggagc,Alström syndrome (a.a.12)
+tcgttgtctgaccttactggatcgtacgtgcc,Di George's syndrome (a.a.5)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+gacctagggcgccccggctcgaacgctatcag,Phenylketonuria (a.a.19)
+ttagccactactgtatcaagtcaatcatggaa,factor V Leiden thrombophilia (a.a.28)
+caacgccgtacgatgcccaggctgatgaggct,variegate porphyria (a.b.16)
+# Number of genes in patient's genome:
+50
+aacaattctaaatgtacccagtagggactagc
+aacacaactacctccttcgtttactcatatcc
+aactatattacctttcccaatgttcagactca
+aagtatgtataggttgcgctagtcccgttgga
+aatgcggaagaggcctaagcaacgagacaacc
+acctcaaaaggcatcttattgtcggattcctt
+actatccggatgaagtcaaattctggtaagcg
+actatggggggacgatcgcgcaccctctgcac
+agaactttggcaaatataaccgacgtcaccga
+agatgggcgcaccgggggggaaactgaccgta
+aggttatccggacgctgtcaaaggctcccctt
+atacgtatcagtccgctctgatgctgtgcccg
+atcaaaagtattgccacgttctcgtcagcgtt
+atcaggttcaatgacattaatagatggggctt
+atcttatgcgcacaggttgacagaccggtaag
+caaagcgacggtgttaacactgtaccgtccca
+caaaggcctcaggggcctgaaagccgacacta
+caacgccgtacgatgcccaggctgatgaggct
+caatgcgtaaccagatcttttgggtaccaaac
+cagagtttaggggccaagaatgtagatacagc
+cagtcctgatagcatagatagttagtagaacg
+cagtttttttttcggaacctcccgggccctgt
+cataccaggctaccaatggtcggacagataga
+catgattactaattcggcgccaaatagaaccc
+ccattgactatggtgttgttaaaagtatggtt
+cccctcgacatcacatgagaggcagcttattt
+ccgcgagtatgaaaggcgtcatgggttattcg
+ccgctccgtagacactgtgttgctgtcgtctg
+cgccattatctgcctctggtgcgttaataatg
+cgcctctattgggctccgagtctgccttgggg
+cgtcggtttataccagaagtgaggctcagtga
+ctcaggtgcaagtttctgaactgcgacgtgat
+ctcgcagagcatagattcgtgcattaagagta
+ctcgcgccgccacggagtgagcaccacgcatt
+ctctaacctcactgttgtcgagtgggactgcc
+ctctgaggtccgcgaaagtaccttacgtcctc
+cttctgagcggatagctacgattagttcgtta
+gagtggcatcacgacctcggatatggctaccc
+ggatgccacgccacaataggaatcacgcctac
+gggaattctagaatcgtacggtatatactctc
+gggtgatttgtgaagacattgaatgggcgtct
+gtgcgatggattgcattccgggcttcgctact
+gttaacccagcgtgacgcggaaagccctgggc
+tacaccttgttgtaatgtggtaacgatatagg
+tactccgctgaatggtgcttactgctcctaga
+tagacgcccgcacgcgacctgttcgcggaaga
+tagtgactcgccaacaacaagtcatggttcag
+tcatggtactacagacttgcaggctagtgccc
+tcattgtcaagtttttaccggctcagtatgag
+tcccttcaatttaaatcctagtgagaggcagc
+# Expected result (diseases patient could have): 
+2
+variegate porphyria (a.b.16)
+Alpha 1-antitrypsin deficiency (a.a.19)
+

@@ -1,0 +1,67 @@
+# Marker gene,disease:
+5
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+# Number of genes in patient's genome:
+50
+aaagtatgtataggttgcgctagtcccgttgg
+aactatggggggacgatcgcgcaccctctgca
+aagatgggcgcaccgggggggaaactgaccgt
+aatcttatgcgcacaggttgacagaccggtaa
+acagtcctgatagcatagatagttagtagaac
+acatgattactaattcggcgccaaatagaacc
+acccctcgacatcacatgagaggcagcttatt
+accgcgagtatgaaaggcgtcatgggttattc
+aggatgccacgccacaataggaatcacgccta
+agggaattctagaatcgtacggtatatactct
+agttaacccagcgtgacgcggaaagccctggg
+caactatattacctttcccaatgttcagactc
+cagaactttggcaaatataaccgacgtcaccg
+catacgtatcagtccgctctgatgctgtgccc
+ccaaaggcctcaggggcctgaaagccgacact
+ccataccaggctaccaatggtcggacagatag
+cccaccagtgccctgttcagtgttcgaaatta
+cccattgactatggtgttgttaaaagtatggt
+cccgctccgtagacactgtgttgctgtcgtct
+cctcgcagagcatagattcgtgcattaagagt
+cctcgcgccgccacggagtgagcaccacgcat
+cctctgaggtccgcgaaagtaccttacgtcct
+ccttctgagcggatagctacgattagttcgtt
+cgagtggcatcacgacctcggatatggctacc
+cgggtgatttgtgaagacattgaatgggcgtc
+cgtcggtttataccagaagtgaggctcagtga
+ctcattgtcaagtttttaccggctcagtatga
+ctcccttcaatttaaatcctagtgagaggcag
+gaacaattctaaatgtacccagtagggactag
+gaatgcggaagaggcctaagcaacgagacaac
+gactatccggatgaagtcaaattctggtaagc
+gcaaatataaccaaatggttgaccaactcaca
+gcagagtttaggggccaagaatgtagatacag
+gcagtttttttttcggaacctcccgggccctg
+gctcaggtgcaagtttctgaactgcgacgtga
+gctctaacctcactgttgtcgagtgggactgc
+gtaacaggccagcttaacggtagttgcgacca
+gtacaccttgttgtaatgtggtaacgatatag
+gtggggcttattcacaggccagccccccccaa
+taacacaactacctccttcgtttactcatatc
+tacctcaaaaggcatcttattgtcggattcct
+taggttatccggacgctgtcaaaggctcccct
+tatcaaaagtattgccacgttctcgtcagcgt
+tatcaggttcaatgacattaatagatggggct
+tcaaagcgacggtgttaacactgtaccgtccc
+tcaatgcgtaaccagatcttttgggtaccaaa
+tcgcctctattgggctccgagtctgccttggg
+tgtgcgatggattgcattccgggcttcgctac
+ttagacgcccgcacgcgacctgttcgcggaag
+ttcatggtactacagacttgcaggctagtgcc
+# Expected result (diseases patient could have): 
+5
+McCune–Albright syndrome (a.b.20)
+Alpha 1-antitrypsin deficiency (a.a.19)
+JPLS (a.a.28)
+Marfan syndrome (a.b.23)
+Achondrogenesis (a.b.6)
+
