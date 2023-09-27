@@ -12,7 +12,7 @@ See the handout for how to do this.
 
 
 # Uncomment the following line to be able to make your own testing Genes
-# from classes2 import Gene
+from classes2 import Gene
 
 
 class LinearProbingGeneHashTable:
@@ -46,6 +46,7 @@ class LinearProbingGeneHashTable:
         # Calculate the initial hash index for the gene
         initial_index = hash(gene) % self.table_size
         index = initial_index
+        self.hashes += 1
 
         # Keep probing linearly until we find the gene or an empty slot
         while self.hash_table[index] is not None:
@@ -72,8 +73,13 @@ class LinearProbingGeneHashTable:
         """
         # ---start student section---
 
+        # Check if the table is now full
+        # if self.hashes == self.table_size:
+        #     raise IndexError("The table is now full.")
+
         # Calculate the initial hash index for the gene
         initial_index = hash(gene) % self.table_size
+        self.hashes += 1
         index = initial_index
 
         # Find the next available slot for insertion (linear probing)
@@ -82,41 +88,44 @@ class LinearProbingGeneHashTable:
 
         # Insert the gene-disease pair into the table
         self.hash_table[index] = (gene, disease)
-        self.hashes += 1  # Increment the hash count
 
-        # Check if the table is now full
-        if self.hashes == self.table_size:
-            raise IndexError("The table is now full.")
-        
         # ===end student section===
 
 
-if __name__ == "__main__":
-    # Create a LinearProbingGeneHashTable with a small table size for testing
-    gene_table = LinearProbingGeneHashTable(5)
+# if __name__ == "__main__":
+#     # Create a LinearProbingGeneHashTable with a small table size for testing
+#     gene_table = LinearProbingGeneHashTable(5)
 
-    # Insert gene-disease pairs
-    gene_table.insert("GeneA", "DiseaseA")
-    gene_table.insert("GeneB", "DiseaseB")
-    gene_table.insert("GeneC", "DiseaseC")
+#     geneA = Gene('atcg')
+#     geneB = Gene('tcga')
+#     geneC = Gene('cgta')
+#     geneD = Gene('agct')
+#     geneE = Gene('gcta')
 
-    # Test the __getitem__ method
-    print(gene_table["GeneA"])  # Output: DiseaseA
-    print(gene_table["GeneB"])  # Output: DiseaseB
-    print(gene_table["GeneC"])  # Output: DiseaseC
-    print(gene_table["GeneD"])  # Output: None (not found)
+#     # Insert gene-disease pairs
+#     gene_table.insert(geneA, "DiseaseA")
+#     gene_table.insert(geneB, "DiseaseB")
+#     gene_table.insert(geneC, "DiseaseC")
+    
+#     print(gene_table)
 
-    # Test collision handling and linear probing
-    gene_table.insert("GeneD", "DiseaseD")
-    print(gene_table["GeneD"])  # Output: DiseaseD
+#     # Test the __getitem__ method
+#     print(gene_table[geneA])  # Output: DiseaseA
+#     print(gene_table[geneB])  # Output: DiseaseB
+#     print(gene_table[geneC])  # Output: DiseaseC
+#     print(gene_table[geneD])  # Output: None (not found)
 
-    # Test inserting a gene when the table is full (should raise IndexError)
-    try:
-        gene_table.insert("GeneE", "DiseaseE")
-    except IndexError as e:
-        print("Error:", e)  # Output: Error: The table is now full.
+#     # Test collision handling and linear probing
+#     gene_table.insert(geneD, "DiseaseD")
+#     print(gene_table[geneD])  # Output: DiseaseD
 
-    # Display the hash table
-    print(gene_table)
-    # Check the number of comparisons made
-    print("Comparisons:", gene_table.comparisons)
+#     # Test inserting a gene when the table is full (should raise IndexError)
+#     try:
+#         gene_table.insert(geneE, "DiseaseE")
+#     except IndexError as e:
+#         print("Error:", e)  # Output: Error: The table is now full.
+
+#     # Display the hash table
+#     print(gene_table)
+#     # Check the number of comparisons made
+#     print("Comparisons:", gene_table.comparisons)

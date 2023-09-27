@@ -1,5 +1,5 @@
 """
-Author: your name should probably go here :)
+Author: Luke Donaldson-Scott
 
 This is a module that implements a GeneBst and various supporting functions.
 
@@ -46,7 +46,28 @@ class GeneBst:
         Python to blow-up when testing large, worst case, data sets.
         """
         # ---start student section---
-        pass
+        if self.root is None:
+            self.root = GeneBstNode(gene, disease)
+        else:
+            current = self.root
+            while True:
+                self.comparisons += 1
+                if gene < current.gene:  # Access 'gene' directly
+                    if current.left is None:
+                        current.left = GeneBstNode(gene, disease)
+                        break
+                    else:
+                        current = current.left
+                elif gene > current.gene:  # Access 'gene' directly
+                    if current.right is None:
+                        current.right = GeneBstNode(gene, disease)
+                        break
+                    else:
+                        current = current.right
+                else:  # Gene already exists, update the disease
+                    current.disease = disease  # Access 'disease' directly
+                    break
+
         # ===end student section===
 
     def __getitem__(self, gene):
@@ -63,7 +84,15 @@ class GeneBst:
         """
         value = None
         # ---start student section---
-        pass
+        current = self.root
+        while current:
+            self.comparisons += 1
+            if gene < current.gene:  # Access 'gene' directly
+                current = current.left
+            elif gene > current.gene:  # Access 'gene' directly
+                current = current.right
+            else:  # Gene found
+                return current.disease  # Access 'disease' directly
         # ===end student section===
         return value
 
@@ -81,7 +110,9 @@ def num_nodes_in_tree(root):
     """
     num_nodes = 0
     # ---start student section---
-    pass
+    if root is None:
+        return 0
+    num_nodes = 1 + num_nodes_in_tree(root.left) + num_nodes_in_tree(root.right)
     # ===end student section===
     return num_nodes
 
@@ -99,7 +130,9 @@ def bst_depth(root):
     """
     depth = 0
     # ---start student section---
-    pass
+    if root is None:
+        return 0
+    depth = 1 + max(bst_depth(root.left), bst_depth(root.right))
     # ===end student section===
     return depth
 
@@ -116,7 +149,10 @@ def bst_in_order(root, result_list=None):
     if result_list is None:
         result_list = []
     # ---start student section---
-    pass
+    if root:
+        result_list = bst_in_order(root.left, result_list)
+        result_list.append((root.gene, root.disease))
+        result_list = bst_in_order(root.right, result_list)
     # ===end student section===
     return result_list
 

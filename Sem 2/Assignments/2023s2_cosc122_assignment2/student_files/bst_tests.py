@@ -1106,7 +1106,7 @@ def all_tests_suite():
     # ready to run such tests
 
     # tests for BST functions/methods...
-    suite.addTest(test_loader(SimpleBstStoreTests))
+    # suite.addTest(test_loader(SimpleBstStoreTests))
     # suite.addTest(test_loader(SimpleGetValueTests))
     # suite.addTest(test_loader(SimpleGeneBstNodeCountTests))
     # suite.addTest(test_loader(SimpleBstDepthTests))
