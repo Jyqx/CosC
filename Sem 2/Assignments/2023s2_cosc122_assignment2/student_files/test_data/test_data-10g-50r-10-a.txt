@@ -1,0 +1,77 @@
+# Marker gene,disease:
+10
+caacgccgtacgatgcccaggctgatgaggct,variegate porphyria (a.b.16)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gaagtttgaggcggccacctatactgaggagc,Alström syndrome (a.a.12)
+gacctagggcgccccggctcgaacgctatcag,Phenylketonuria (a.a.19)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+tcgttgtctgaccttactggatcgtacgtgcc,Di George's syndrome (a.a.5)
+ttagccactactgtatcaagtcaatcatggaa,factor V Leiden thrombophilia (a.a.28)
+# Number of genes in patient's genome:
+50
+gatagcatagatagttagtagaacgcagagtt
+ctaaatgtacccagtagggactagcccattga
+actacagacttgcaggctagtgcccctcgcag
+taggggccaagaatgtagatacagcctctgag
+cagcgtgacgcggaaagccctgggcccgctcc
+gcaaatataaccaaatggttgaccaactcaca
+tttttcggaacctcccgggccctgtatcaaaa
+gaagtttgaggcggccacctatactgaggagc
+tataggttgcgctagtcccgttggaagatggg
+acgccacaataggaatcacgcctaccaaaggc
+tcagtccgctctgatgctgtgcccgactatcc
+ttgtgaagacattgaatgggcgtctaggttat
+acatcacatgagaggcagcttatttcaaagcg
+ttagccactactgtatcaagtcaatcatggaa
+gtccgcgaaagtaccttacgtcctcaactata
+gtattgccacgttctcgtcagcgttatcaggt
+acggtgttaacactgtaccgtcccacagtcct
+ccggacgctgtcaaaggctcccctttcatggt
+cccaccagtgccctgttcagtgttcgaaatta
+tggcaaatataaccgacgtcaccgacatgatt
+ggatgaagtcaaattctggtaagcgtacacct
+cgtcggtttataccagaagtgaggctcagtga
+cgcaccgggggggaaactgaccgtaactatgg
+gacctagggcgccccggctcgaacgctatcag
+atcacgacctcggatatggctacccgggtgat
+tcgttgtctgaccttactggatcgtacgtgcc
+attgggctccgagtctgccttggggaacaatt
+cgccacggagtgagcaccacgcattcgcctct
+ggctaccaatggtcggacagatagaggatgcc
+taaccagatcttttgggtaccaaactcattgt
+aatttaaatcctagtgagaggcagccatacca
+ttacctttcccaatgttcagactcagttaacc
+aagaggcctaagcaacgagacaaccagaactt
+gcggatagctacgattagttcgttacccctcg
+caacgccgtacgatgcccaggctgatgaggct
+tatgaaaggcgtcatgggttattcgaatgcgg
+gtagacactgtgttgctgtcgtctgctcaggt
+actaattcggcgccaaatagaaccccttctga
+caagtttttaccggctcagtatgagctctaac
+ctatggtgttgttaaaagtatggttcaatgcg
+ggggacgatcgcgcaccctctgcacatacgta
+ctacctccttcgtttactcatatcctcccttc
+ctagaatcgtacggtatatactctcctcgcgc
+gtggggcttattcacaggccagccccccccaa
+tgttgtaatgtggtaacgatataggcagtttt
+agcatagattcgtgcattaagagtaaagtatg
+ctcactgttgtcgagtgggactgccgagtggc
+tcaatgacattaatagatggggcttaacacaa
+gtaacaggccagcttaacggtagttgcgacca
+ctcaggggcctgaaagccgacactaccgcgag
+# Expected result (diseases patient could have): 
+10
+JPLS (a.a.28)
+Alström syndrome (a.a.12)
+factor V Leiden thrombophilia (a.a.28)
+McCune–Albright syndrome (a.b.20)
+Alpha 1-antitrypsin deficiency (a.a.19)
+Phenylketonuria (a.a.19)
+Di George's syndrome (a.a.5)
+variegate porphyria (a.b.16)
+Achondrogenesis (a.b.6)
+Marfan syndrome (a.b.23)
+

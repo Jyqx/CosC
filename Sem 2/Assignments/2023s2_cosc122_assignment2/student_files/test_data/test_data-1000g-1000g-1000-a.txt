@@ -1,0 +1,3007 @@
+# Marker gene,disease:
+1000
+aaaacaccagtatacgcggctgtcatattttg,Nonketotic hyperglycinemia (a.a.9)
+aaaacgtgctgtaggcctgtgaaagggtgggg,Wilson disease (a.a.3)
+aaaatttttgctgcaactttccccccggcagt,Hemophilia (a.a.13)
+aaacaacataactgagctcgaacagccgggtc,see Tuberous sclerosis (a.b.12)
+aaacataatttattgcatcgactcaacacagg,Treacher Collins syndrome (a.a.8)
+aaagcatgagcgcccgtcctcagctgttcaac,Adenylosuccinate lyase deficiency (a.a.27)
+aaaggacctaggtgttacccaagcaacagttt,see Tuberous sclerosis (a.b.9)
+aaaggtactgcctgccatgcacagaggtgatt,Marfan syndrome (a.a.28)
+aaatatgtaatacctaggggtaccaccacgtt,Acrocephaly (a.a.6)
+aaatcacgcacaggctagtcatgcccgcgcaa,Gaucher disease (a.a.29)
+aacaaagcaaattggctgcgcgggcctaatgc,Bloom syndrome (a.a.19)
+aacaataacgtccgcagaagtacctaccagtg,HNPP (a.b.18)
+aaccacttggggtctaaacgtcggcgtgtagg,Cowden syndrome (a.b.21)
+aaccataaaaggtggctgatatctactgaacg,Chondrodystrophy with dysplasia (a.a.15)
+aaccattccttctctatacttcaaatcagtta,Neurofibromatosis type II (a.b.20)
+aaccccccagcgaacacaggacctgattatag,Osteogenesis imperfecta (a.a.15)
+aaccggtacttgtgtgtcaagcaggttgcgaa,Mowat-Wilson syndrome (a.b.3)
+aaccgtcatactcgccagctcggtccaggtcg,see Down syndrome (a.b.2)
+aacgaagcagttgttattttagtcctgttgca,Amelogenesis imperfecta (a.a.21)
+aacgcctgggagcgacgatggcgagaggatca,Patau Syndrome (Trisomy 13) (a.a.5)
+aacggacgttcactcctagcgatgtagcagtc,Charcot–Marie–Tooth disease (a.a.5)
+aacgtggatcgcgtcctgctgtgattaactga,CHARGE syndrome (a.a.23)
+aactatcttagaaccaaacgagctccgttagg,Glioma, retinal (a.b.10)
+aactctcgcttgctttcggctatacgcctgtg,Myotonic dystrophy (a.b.17)
+aactgatcgcgaatatcctagatttgttcacc,Prion disease (a.b.16)
+aactgcgctatgtgaatcggcccgagtggggc,Mowat-Wilson syndrome (a.a.23)
+aagagatgtaccaataagctgtcggcgagcta,McLeod syndrome (a.a.25)
+aagaggcttaatctgtataataatgcgcaggg,Galactosemia (a.b.11)
+aagatagtcagtactagcactctgtattggtt,Acrocephaly (a.a.9)
+aagcacaagctacagcactggggctgctcaaa,Kniest dysplasia (a.a.10)
+aagcacgttccagtgctttgataacgcaaggc,Anemia (a.a.12)
+aagcatgcagtcctacaagcaagctaccccta,Hypochondrogenesis (a.a.2)
+aagcccaggagctcttcccacgtaccctgggg,variegate porphyria (a.b.2)
+aagcgctctgtgggaggctaactctcgagaag,Osteogenesis imperfecta (a.a.30)
+aagcggattgcagtgacggatggcttatgcgc,Alexander disease (a.a.4)
+aagctgcgtgtgtccgactatctgtcgtggat,JPLS (a.a.3)
+aagctggtgtgattggctgaagctacgcacta,Sphingomyelin phosphodiesterase (a.a.24)
+aaggacacttacagacgagtccccacgtgcgt,Beare-Stevenson cutis gyrata syndrome (a.b.13)
+aaggcctgatggtggcaagccccaggtgtgtc,Kniest dysplasia (a.b.10)
+aaggctagttccaacctcgagagcgggatgcc,Gaucher disease (a.b.10)
+aagggggtcgatgtcgtatatggtttactagg,CPO deficiency (a.a.19)
+aaggtagaaagggccgcgagcgcgctcttact,Trisomy 21 (a.a.13)
+aaggtcgtcaaggaagtactttagttgggact,Ehlers–Danlos syndrome (a.a.29)
+aaggtctaagaggatatgcaactcctacgcta,Hereditary coproporphyria (a.b.11)
+aaggtctgaataggtccagaatctacgagaca,Strudwick syndrome (a.a.6)
+aagtactgagtagtgaagggtagacccagcat,Lesch-Nyhan syndrome (a.b.26)
+aagtagacagcggcggctttaggcgtcatgcc,Smith-Lemli-Opitz syndrome (a.a.21)
+aagtagagagccgtaggtaatggtcggcatgt,Mediterranean fever (a.b.13)
+aagtcactgaacaatggtcatgctatgccact,Erythroblastic anemia (a.b.16)
+aagtgaaagcgatcttagtggaatggctcaga,Muenke syndrome (a.b.16)
+aataaccgatgaagttctcgtactaccggcat,Williams Syndrome (a.a.2)
+aatcagcgatcctatggtcacattccggggtc,Kniest dysplasia (a.a.29)
+aatcccatttcagctggctgcgtatgcgttat,Angelman syndrome (a.b.12)
+aatccccacaacactacggccgcagtctaatt,Marfan syndrome (a.b.18)
+aatcccgctagctacgtaagtcccttgctacc,Friedreich's ataxia (a.b.23)
+aatccgatgggcgggtaatattcttacccgtc,Triple X syndrome (a.a.22)
+aatcggacgaaaaggtaatatcatcgaggtga,Keloid disorder (a.b.4)
+aatctagcattggggctttatgtacataatac,Biotinidase deficiency (a.a.21)
+aatctggaggaaagggagcagtaaagatcgta,Muscular dystrophy (a.b.11)
+aatcttaactttccgagtgtgccatcacgtat,Niemann-Pick (a.a.14)
+aatgctccgcggaagaaaactattcgcgtgtg,Siderius X-linked mental retardation syndrome (a.a.11)
+aatggcctaaaatgccaggagtacaccgcgtt,see Tuberous sclerosis (a.b.17)
+aatgtatgggggttgtgacaacgaaaagtatc,Joubert syndrome (a.b.28)
+aatgtctattagggcaagtatcatggccacga,Wilson disease (a.b.17)
+aatgttctcatttgtgaatgtcaccgtttggg,Wolf–Hirschhorn syndrome (a.a.28)
+aatgttgaataagctataactcggttcactac,Gaucher disease (a.a.22)
+aattacggtcgagcagagtgtggatcaagaca,Micro syndrome (a.a.5)
+aattccaccggggtcatatggcgctaggggtg,Cri du chat (a.a.16)
+aattcgttgtgcatcaggtcgctttgcacatt,primary pulmonary hypertension (a.b.6)
+aattgtgatcttacctgcattatcggacttca,familial adenomatous polyposis (a.b.13)
+acaaagggcgtcgaactttcacgccacccatg,factor V Leiden thrombophilia (a.b.7)
+acaacatgttaagcccccacaattggcatccc,Birt–Hogg–Dubé syndrome (a.a.23)
+acacaggatctccttttgtgaggttgggaggt,Acute intermittent porphyria (a.a.15)
+acactggccaggtatgcagctcgtgaacgatc,Coffin–Lowry syndrome (a.b.3)
+acagcaggggtgattttcggatgtcaacgccc,Caylor cardiofacial syndrome (a.a.13)
+acagctggcattttaatcagtaaagttaccaa,Incontinentia pigmenti (a.a.8)
+acagtggcgaaccgtaagcatgtccgacgccg,von Hippel-Lindau disease (a.a.3)
+acagtgtatctcgacactccgattattattgt,Hereditary spastic paraplegia (a.a.19)
+acatccgccagatagatctttctaaggttacc,Sickle cell anemia (a.b.9)
+acatcgggccactttggacccctggtttaaat,Beare-Stevenson cutis gyrata syndrome (a.a.5)
+acattttagataaactgtaagtgcttagtggc,Ataxia telangiectasia (a.b.26)
+accaaggctcagaagcttagggcacgtatgcc,Charcot–Marie–Tooth disease (a.b.7)
+accaccaggtcggcagcaggatgtgtgcagat,Polycystic kidney disease (a.b.6)
+accagatgacaagtttcccaaagatagatgtt,Fanconi anemia (a.a.2)
+accattggttttcgactgaacccgggttgaac,Acrocephaly (a.a.2)
+acccacaagcttactagggtgttttctcaaac,Coffin–Lowry syndrome (a.a.25)
+acccactataaaatttacccgggctggcaaac,Genetic hypercalciuria (a.a.4)
+acccgcgaaaatcctggccggcccggtaaccg,Acute intermittent porphyria (a.a.23)
+accgcactcccaaccatagattcgagttgctg,Pantothenate kinase-associated neurodegeneration (a.a.25)
+accgttccaacgtcgatgctacgacgtttacc,Adrenoleukodystrophy (a.a.11)
+acctagcgtaggttgacgcttctccctggtct,JPLS (a.a.13)
+acctataaactcatgcgcaccctgcagagccg,Hepatoerythropoietic porphyria (a.b.24)
+acctcccttgccataccatgtgatatctggcc,Achondrogenesis (a.a.15)
+acctcgtatgcacctgtccgcattaatagcta,Crouzon syndrome with acanthosis nigricans (a.b.22)
+acctctttattgcacactaataaagcggttcc,Hypochondrogenesis (a.b.8)
+acctgaaaccataatcatagcaattcccacct,Caylor cardiofacial syndrome (a.a.23)
+acctgcacttgcgcaattgccttggacccagg,Haemochromatosis (a.a.2)
+acctgtatttacgcgctatggatcgattggag,Hereditary Inclusion Body Myopathy (a.b.28)
+accttaacagattacttcctgctcagtagcct,Harlequin type ichthyosis (a.a.2)
+acctttgccccgtacgatcctaagtacaagtc,Patau Syndrome (Trisomy 13) (a.a.12)
+acgcaggatagagaccgtattagtcgccacgt,Nonsyndromic deafness (a.a.18)
+acgcctccattctaactaggactcccacctac,Keloid disorder (a.a.23)
+acgcctctcacggagtgtccctgcataacaca,Hypochondroplasia (a.b.23)
+acgctaatcccgactagtgcttactgtataag,Nonsyndromic deafness (a.b.7)
+acgctgtgtgcctggccttttggaaaaggtct,Tuberous Sclerosis Complex (TSC) (a.a.14)
+acggcatccgaattgaggagagactcgcatga,de Grouchy syndrome (a.a.19)
+acgggctgaaatcagcacgacagggtgctaaa,Hyperoxaluria, primary (a.b.11)
+acgggttatttgataaagtgtactgcttacat,Muscular dystrophy (a.b.20)
+acgtcactgcaccaccgttgttgctcaaacca,Albinism (a.a.18)
+acgtcctatgtcatgttatcttcgcttcaatt,Alpha 1-antitrypsin deficiency (a.a.26)
+acgtctattcgtctccttaaattcgactagtc,Harlequin type ichthyosis (a.a.9)
+acgtggcctcacaagttaattcatgacccgct,Isodicentric 15 (a.a.4)
+acgtgtgagagctcaatattctgggagtgctt,primary pulmonary hypertension (a.a.17)
+acgttagtttctgtcggcctggagtttcgcgg,Glycine encephalopathy (a.a.13)
+actaaacagtccctcacgcttggtgctatgcg,CHARGE syndrome (a.b.18)
+actaaatcggaagagagcatgtagggttcgac,Galactosemia (a.a.22)
+actagaatgtcagaacatgctgtcagattaaa,Crouzon syndrome (a.b.18)
+actagtaagttggggtatgagactacgattcg,Cockayne syndrome (a.b.4)
+actatagagagttagggagggccatgcattct,Spinocerebellar ataxia (a.a.16)
+actatggcggctcggccgggagttactctatt,see Tuberous sclerosis (a.b.14)
+actcacctgttgaatgaaggttttccgacttc,Trisomy 21 (a.b.2)
+actcaggtacagattagggaagcaacggatac,Prion disease (a.b.24)
+actctgaactgacagtccgggatcgaagcgtc,Benjamin syndrome (a.b.9)
+actctggagccatcaacggcccagtatgggac,Genetic hypercalciuria (a.a.15)
+actgcgcaaaagtacaatggtggtgacatcgc,Rett syndrome (a.a.23)
+actgcttccgggcacccaccattctaagctct,FG syndrome (a.a.2)
+actggatctgagacttacgctcagggccgcct,Williams Syndrome (a.b.2)
+acttccatgtttcatatgaacgaatcactgac,Weissenbacher-Zweymüller syndrome (a.a.11)
+acttccgctccgcttaacagcggccactggca,Cockayne syndrome (a.a.28)
+acttcgatatgcagaaatgagggggcggcggc,Bloom syndrome (a.b.3)
+acttctcttgttagtcctttcatacataggcc,PCC deficiency (a.a.2)
+agaaatagtccaaaactcaacgaaaagtgctg,de Grouchy syndrome (a.a.4)
+agaacggcaacccgtgtcagagagggcagaca,Glioma, retinal (a.a.18)
+agacagtagccagcaaactcaaacccaagggg,Neurofibromatosis type I (a.b.19)
+agacccgaccaattggtacgttcgccaaggtc,SED congenita (a.a.8)
+agacggttgttctgatgccaagctagctcata,Alzheimer's disease (a.a.12)
+agagagaggggggaccatgtcttctggcacga,Joubert syndrome (a.a.1)
+agagcaataacgccacaaggatacagtcatga,thanatophoric dysplasia (a.b.4)
+agagtgaaggatagcattgagttgatgtacac,G6PD deficiency (a.b.11)
+agagtgtaggacattgctcctgaaagcggaca,Glioma, retinal (a.a.5)
+agatcccaatgtgccgtaaccaacgtcgcaag,G6PD deficiency (a.a.16)
+agatcctatgttgcctctgttggacacatagg,Trisomy 21 (a.b.18)
+agatgctgtaacgatcacatgaatgggcgagg,Beare-Stevenson cutis gyrata syndrome (a.b.16)
+agattcacgtggatccccaagtgtggggggga,Pseudo-Gaucher disease (a.a.7)
+agcataacccaacatattgcgcgatcatacca,Birt–Hogg–Dubé syndrome (a.b.16)
+agcatacgcacctcgaatcaagatagcatttc,Triple X syndrome (a.b.5)
+agcctgaaggagggtactattaagttgcccct,CGD Chronic granulomatous disorder (a.a.14)
+agcctgactcggctgggaccacgtagcagccc,Trisomy 21 (a.b.4)
+agccttattgtcagacacagcttcgcttgtct,infantile-onset ascending hereditary spastic paralysis (a.a.9)
+agcgcataattcggacccgtttcagaggtcac,Fabry disease (a.b.21)
+agcgcggccacagcggggggtccaatcttcat,Charcot–Marie–Tooth disease (a.b.14)
+agcgctactggtctagcaaaacaatgacagca,Schwartz–Jampel syndrome (a.a.16)
+agcgtccgaaatacggcggttcaaagctgtac,von Hippel-Lindau disease (a.a.4)
+agcgtttttttctggacccgcatcagtagcga,Mowat-Wilson syndrome (a.b.23)
+agctaaagtgatgccaacgtgcctgcgtctac,Schwartz–Jampel syndrome (a.b.25)
+agctatcagctcctgttcaatctgtggactca,McLeod syndrome (a.a.15)
+agctgaccttgtcggctgtgccccaaggagga,Alström syndrome (a.b.21)
+agctggcaagttgttgaccgaacgtctgtatc,Schwartz–Jampel syndrome (a.a.6)
+agcttgtttaagccatcacttgcgagccgact,Methemoglobinemia (a.a.5)
+aggagcctggctgttcgtgcgggtctcggaga,Crohn's disease (a.a.22)
+aggatagtgcttaggagtccttgacgcggtgg,Collagenopathy, types II and XI (a.b.14)
+aggcaagggcgagtcaataaagattgctttat,SED congenita (a.a.16)
+aggcccgccggcgtttcatcagcaccgagaat,Hereditary spastic paraplegia (a.b.17)
+agggatcttgcggtccgtcgataaacatctgc,Turner's syndrome (a.a.30)
+agggcaagtcaataccgcgtaatcgaggcctt,Galactosemia (a.a.18)
+aggggatactcactatcccctgtacgagcacg,infantile-onset ascending hereditary spastic paralysis (a.b.13)
+aggggtatagagctttctcaaaccctgtgaat,McLeod syndrome (a.a.16)
+agggttcccggacgctagctatcactcgcggc,Angelman syndrome (a.a.18)
+aggtaattaaagcacatgagttgaagtaactc,Primary ciliary dyskinesia (PCD) (a.a.23)
+aggtacattatatgcgccgcgatagacacctc,Crouzon syndrome (a.b.15)
+aggtagcgaaatcatgccgctgcgcattttcc,Di George's syndrome (a.b.7)
+aggttcccggagctagtaaatgcggaatgcaa,Androgen insensitivity syndrome (a.b.5)
+agtaaggtagtggagcatctcaactattgcgt,Hutchinson–Gilford progeria syndrome (a.b.18)
+agtaccacttatcggtgcgtggcctggtgggg,Phenylketonuria (a.a.7)
+agtactagtctcgcacgacctcgtgtctaccg,Alström syndrome (a.b.19)
+agtatcgcctccgtttcaggtccggcgtctag,Achondroplasia (a.a.30)
+agtcatggatcgtcagtctcatcaattactcc,Friedreich's ataxia (a.b.22)
+agtccggcaacggcgaaacagcgcggttgact,Microcephaly (a.a.23)
+agtcggagaatctccgtatattgacagcgcgg,Ehlers–Danlos syndrome (a.a.27)
+agtcgtcgccaaagaagtcgcctgggaccatt,Kniest dysplasia (a.b.24)
+agtctgatattgcgcagagataattagttcag,Siderius X-linked mental retardation syndrome (a.a.22)
+agtggcccagacgacttgctcaagcagaacgg,von Hippel-Lindau disease (a.a.17)
+agtgggcgcggggtctcctattatcaggccgg,Distal hereditary motor neuropathy (a.a.6)
+agtgtcacctaaagacgtcgctatccattttc,McLeod syndrome (a.a.3)
+agttcgggattaccaaattccacccctagttg,Achondrogenesis (a.b.22)
+agttcggtactaacggctctccgcgttgcgtc,Smith Magenis Syndrome (a.a.18)
+agttctggaagtgatatggatcagtcccatat,Hypochondrogenesis (a.b.14)
+agttggcattaagcttctgtttggtaacggtg,Prader-Willi syndrome (a.a.24)
+agtttgagacccggctgtctaacaggaacgct,Crouzon syndrome with acanthosis nigricans (a.b.28)
+agtttttaccgcgctttcgtcctgttagttag,infantile-onset ascending hereditary spastic paralysis (a.a.5)
+ataaatcggtcggactggtagccaagtggtgc,Beare-Stevenson cutis gyrata syndrome (a.b.28)
+ataagaaatagcagcatggggcgcaactgccg,Hereditary spastic paraplegia (a.a.13)
+ataaggtaatgggaacttatgtgcctttaacc,Treacher Collins syndrome (a.a.24)
+ataattagccttctcgcactggtggacggagt,Strudwick syndrome (a.a.5)
+atacagtggacgatttatttgtctagaaatca,Nonketotic hyperglycinemia (a.b.27)
+ataccgtttgagcgaatgcgacaacgagatgt,Siderius X-linked mental retardation syndrome (a.a.5)
+atacctcctaggcaaggatttcgtaaattagt,ICF syndrome (a.a.9)
+atacggagctatggtgatgcttacgtctaccg,Lesch-Nyhan syndrome (a.a.1)
+atagatttgatcaaagtgcccaggcctaagaa,Protein S deficiency (a.a.10)
+ataggtggctggattctattcaatgtagtgct,Alexander disease (a.a.18)
+atagtggttccgactcaggtacgccataaagg,Alagille syndrome (a.b.4)
+atatcacagcctcccataagacggctcgaaat,Mowat-Wilson syndrome (a.a.27)
+atatccattgcggggttacgcaaatctcaaga,Osteogenesis imperfecta (a.b.16)
+atattagctcgatacaggggtaatttcggtgc,factor V Leiden thrombophilia (a.a.20)
+atcactacagaactcacttaagatgttgtcat,Distal hereditary motor neuropathy (a.b.6)
+atcactccaaggtataccgcggaagcagaaat,Fanconi anemia (a.a.19)
+atccacgacgacgctgtctttatcgattacgt,Beare-Stevenson cutis gyrata syndrome (a.b.18)
+atcctataggccgcgcttcttggtcgagaacc,Chondrodystrophy with dysplasia (a.a.2)
+atccttacggatttagataggctggtacttat,Gaucher disease (a.b.13)
+atcgcgtagtgttatgataactgaatctcctc,porphyria (a.a.15)
+atcgtaggcagaatgcctttggccttagggtc,Neurofibromatosis type I (a.a.30)
+atctaatccggtttggacacagggacccgtgg,Galactosemia (a.a.29)
+atctatccgaggttgcgttcctcggcttagaa,Angelman syndrome (a.b.7)
+atctattccggcttcacagagctttatacaga,Stickler syndrome (a.a.26)
+atctccagggtcgctgcctgggtcgcatcgct,Prion disease (a.a.5)
+atctgtcgaggccataaagctagcattttcga,Hypochondrogenesis (a.b.7)
+atcttatgcccagagataagaggagatagctg,Ataxia telangiectasia (a.a.11)
+atcttctagtgatggcatattcaactccggcc,Alzheimer's disease (a.a.11)
+atcttggagcttttattggacggacaaaggaa,Phenylketonuria (a.b.18)
+atgaaccatcgggtcacgtcattgtcaatcct,Alström syndrome (a.b.11)
+atgagcacaaaatccacgcacgtcaagtcgtc,Gaucher disease (a.b.24)
+atgaggctggggcgcctattcagactgcatgg,Myotonic dystrophy (a.b.10)
+atgcctatccctataaacacgatctcattaac,Androgen insensitivity syndrome (a.a.10)
+atgcgtaagcaggccgggatcctgcccgagtg,Haemochromatosis (a.a.7)
+atgcgttgcatacaatgcagtcatacatgtct,HNPP (a.b.23)
+atgctccgcgtaagacgtagtcggatggcttg,Phenylketonuria (a.a.26)
+atgggactcgttatttcggaaaaaggtagcag,Patau Syndrome (Trisomy 13) (a.b.27)
+atggtcgggtggttgtttacccttaccactaa,Pantothenate kinase-associated neurodegeneration (a.a.8)
+atgtcactctacttcgatttagggagctgggg,Acrocephaly (a.a.19)
+atgtccttactgtaccgatagcgaacttcagc,Weissenbacher-Zweymüller syndrome (a.b.12)
+atgtcgctacccatgcgttccttgctcccact,Coffin–Lowry syndrome (a.a.21)
+atgtcgttgtgctgcgttccatcacggcacgg,Hereditary multiple exostoses (a.a.9)
+atgttgcaactcgcagtcggcatgtttgtcac,Ogden syndrome (a.b.28)
+attacatgtcgaacgagcttttaacatttagc,Di George's syndrome (a.b.12)
+attacgattctttgacagagtgtaaattacaa,Gaucher disease (a.a.11)
+attcaactcgcgtcaagggccgatcgctcgac,Hereditary Inclusion Body Myopathy (a.b.23)
+attcactgctccatagtaagcatgacccgacc,primary pulmonary hypertension (a.a.26)
+attcataacgaagggtcatacttgctatagga,Birt–Hogg–Dubé syndrome (a.a.4)
+attccccatcgcggaatcgcaagcccactggc,Methylmalonic acidemia (a.a.27)
+attcggtggttgtaagcacgatggcatagggt,Kniest dysplasia (a.a.23)
+attctccggcgcgcgagctctttcacatatac,Prader-Willi syndrome (a.b.11)
+attgaccattgtggactgactattttgaagcc,Keloid disorder (a.a.26)
+attggagcgagacgatgagtcctccagtgtca,Hereditary spastic paraplegia (a.b.13)
+attggagggtgtacgtctacgacgtatgacag,Nonsyndromic deafness (a.a.8)
+attggctagtcgcgcactcgtggtgagaactc,Wilson disease (a.b.11)
+attgggttgcgacgatcgtagaggatctacca,Microcephaly (a.a.12)
+attgtcgcaatagaccggagtgctgtttttac,factor V Leiden thrombophilia (a.a.4)
+attgttagaggaatcatcgggagatacattca,de Grouchy syndrome (a.a.5)
+atttatttagtaggtggggctcctcggtagcg,JPLS (a.b.22)
+atttcgttccacctagccaagctatactctca,Adrenoleukodystrophy (a.b.2)
+atttgagtggtggtgccttggccactatgcca,Beare-Stevenson cutis gyrata syndrome (a.b.22)
+atttgcagaggagccccagggcacgagacatg,Schwartz–Jampel syndrome (a.a.8)
+atttgccgggctgataggtatttaaccgacgg,Biotinidase deficiency (a.b.3)
+atttttcaagatgttatgcgcaaaccttcatg,PCT (a.a.30)
+attttttcccatccaagcgtggagagagttgc,Acrocephaly (a.a.26)
+caaagcctaactcaccattcaggccccccgtg,Waardenburg syndrome (a.a.13)
+caaaggacacctgttgcgcaccgcgtgcacac,Fanconi anemia (a.b.10)
+caaataggatccaataaagactcatggtcttc,Pseudoxanthoma elasticum (a.a.4)
+caaatttccgctccgacgtaggctataatgtt,Tay-Sachs disease (a.a.11)
+caacatccgttcgatatagctcctgtacgtat,Prader-Willi syndrome (a.a.14)
+caacatctcgaatctgagtccacggagcggga,Chondrodystrophy with dysplasia (a.a.19)
+caaccctcgaattggtcgaatcccgagtgcct,Joubert syndrome (a.b.5)
+caacgccgtacgatgcccaggctgatgaggct,variegate porphyria (a.b.16)
+caactatatcttcaaacgacgagacctgaaca,Anemia (a.a.4)
+caactcatgctgcaacataatctttacggtgc,variegate porphyria (a.b.20)
+caactgagggagatggaggaaaacggcgcgag,Noonan syndrome (a.b.28)
+caagaattgcatccttccacaatggccgtatt,Niemann-Pick (a.a.17)
+caagcctagctgaaccatatcatacctctccc,Androgen insensitivity syndrome (a.a.12)
+caagttaaaagacaaaaacacgcgttattggt,Alström syndrome (a.a.25)
+caagttccatttgtgcggcctcaaagtgatcg,Polycystic kidney disease (a.b.21)
+caatagccaagccaaatgtcgtcgcaatcgtg,Weissenbacher-Zweymüller syndrome (a.a.2)
+caatcctggcaaggcttagaggagggccagat,Pseudoxanthoma elasticum (a.b.4)
+caatggcagacgatggcctagatgcaatgtta,Joubert syndrome (a.b.19)
+caatggtatctattcttatcccatactttaaa,de Grouchy syndrome (a.a.17)
+caatggtcgccggcatggtccggtcatattta,Microcephaly (a.a.18)
+caattcaactctaatattagcgcggtcctgaa,Fanconi anemia (a.a.15)
+cacacatgccaaggtgatagggcgccactaca,Sandhoff disease (a.a.1)
+cacacctgcgcgacccattgccaaggcttata,Coffin–Lowry syndrome (a.a.23)
+cacactgggttgtaggcaaaaaggcaagtaaa,Crouzon syndrome (a.a.22)
+cacataagataagtcctgtaaacagtctgatc,Spinocerebellar ataxia (a.b.24)
+cacataggccaggagcggccttgtcgaaaata,Cri du chat (a.a.23)
+cacatcaaatgtgggggcatcatggtggcgga,familial adenomatous polyposis (a.a.14)
+cacatgcgatgggctgtataacgccaggctga,Angelman syndrome (a.b.21)
+caccacgttgtcggtttttctggcgcgaggaa,PCT (a.b.2)
+caccagacgcaatcagtgtcttacgttcgtac,Sandhoff disease (a.a.3)
+cacccaaaatcaacggttacgctgtcgtagaa,Aceruloplasminemia (a.b.12)
+cacccagcagtgccgtgtaggatctatgatac,Microcephaly (a.a.30)
+caccccaactatctgaccatcattgccacttt,see Tuberous sclerosis (a.a.17)
+caccgagattcgcttcaccaacctgaggccat,CGD Chronic granulomatous disorder (a.a.26)
+caccggtaagaccgtcgcaaagcaccgttcga,Bloom syndrome (a.a.15)
+cacctgtggcgcaatttgaggtttcccatgga,Muscular dystrophy (a.a.8)
+cacgagaggtctcactgcaatcattcgattct,Protoporphyria (a.b.10)
+cacggaacgagttcacgacaacgaacttgata,Alström syndrome (a.a.21)
+cactaggcactaggttggcactgtgttttccc,Smith-Lemli-Opitz syndrome (a.a.23)
+cagcaaccaccggcgcttacgtaggacttgtc,JPLS (a.a.5)
+cagcagtgctggcactatcgacccggatgata,Adrenoleukodystrophy (a.a.13)
+cagcataacgcaatagtaggacatcactaccg,de Grouchy syndrome (a.b.19)
+cagctcaatactggttcgattgctcgcggttc,Cancer (a.a.1)
+cagctgtcattcgcaaggcggagacccgtccg,Alzheimer's disease (a.b.24)
+caggcgttatatcggttgcagcgtgggcgaac,Coffin–Lowry syndrome (a.b.19)
+cagggcccacaaccgggtggcacggatttaaa,Harlequin type ichthyosis (a.b.15)
+caggtagggctaccgataccgactagggtagt,Mucopolysaccharidosis (MPS I) (a.a.13)
+cagtcgcgctacgtcgggttgcagagcatgag,Osteogenesis imperfecta (a.a.1)
+cagtctcgcctactttggtgatgatgccgcta,Gaucher disease (a.a.17)
+cagtgtacagcacggaagtcactccgggacct,Pseudoxanthoma elasticum (a.a.30)
+cagttctgaacctacgagcgggcctggtagct,Galactosemia (a.a.23)
+cataccgacactttttgttggtgaaccatgat,Joubert syndrome (a.b.20)
+catagcagttaaatttttaccgtaaaccaaag,Li-Fraumeni syndrome (a.a.21)
+cataggttaaatggtaacaggtacgcagcggg,HNPP (a.b.8)
+catccttcgaagctagagaacgtctagggaga,Hutchinson–Gilford progeria syndrome (a.b.22)
+catcgaggtatagtgagcagtcgatggacaac,Pseudo-Gaucher disease (a.b.8)
+catcgctgaggtacatctctcatgccgacaca,Harlequin type ichthyosis (a.a.7)
+catcgtttcggacgtagtgtcatgaccgattt,de Grouchy syndrome (a.b.21)
+catctattaggacattacggaggaccaattaa,Cri du chat (a.b.13)
+catcttgtgttataacgggccgtgggtcaatc,Genetic hypercalciuria (a.a.26)
+catgaatactggggtttagtggtctaagactg,Amelogenesis imperfecta (a.a.4)
+catgacgtgtcattgtttgaaaacacatactc,Osteogenesis imperfecta (a.a.4)
+catgcaaacgaagctgctcatcagtacacttc,Cowden syndrome (a.b.9)
+catgtgaaaccgatccgtggacaatagtgaga,Angelman syndrome (a.b.22)
+catttctggaacgacagagtgcaccatccgtt,Peutz-Jeghers syndrome (a.b.17)
+cattttctaagttgatcctaaatctatccata,Nonketotic hyperglycinemia (a.a.26)
+cattttgctaaggcgatctattcgacacgttg,Beare-Stevenson cutis gyrata syndrome (a.b.15)
+ccaactgtctgggccaacagctcaactgattt,Muenke syndrome (a.b.25)
+ccaaggccatatcaccttcgcccacctttcat,Klinefelter syndrome (a.b.19)
+ccaagttgttccaggcagtgtctctgcaaaac,Ogden syndrome (a.b.3)
+ccaatatttgagtcacgttcggttaacttcca,JPLS (a.b.24)
+ccacgccgatgcctttttctgagctcatgctg,Coffin–Lowry syndrome (a.a.19)
+ccacgccttccgggggtaaacgcacagcgaag,Charcot–Marie–Tooth disease (a.a.2)
+ccacgggcacgccgattatttccactgcggct,Phenylketonuria (a.a.12)
+ccactctcagcttttcctacggcgggcgttcg,Weissenbacher-Zweymüller syndrome (a.b.8)
+ccacttactataataggtttgtagatcgctag,Broad Thumb-Hallux syndrome (a.a.9)
+ccacttccttcctagtttaactggccttaaag,Turner's syndrome (a.b.26)
+ccagaagggtataggactggactgaaagacgc,Sickle cell anemia (a.a.8)
+ccaggcgataacgtcttgtcaagggattagct,Treacher Collins syndrome (a.b.24)
+ccaggtctcttatcgcgtccgatgaaagatgg,PCC deficiency (a.a.11)
+ccatcatgatgacgggagcactaagtcatata,Waardenburg syndrome (a.b.16)
+ccattcgtccagctcctggagtttgatcgacc,Joubert syndrome (a.a.3)
+cccaacaacatgattcgttcaccgctgttctc,Haemochromatosis (a.a.25)
+cccaagattaacttccccagtagctaaccaac,Wilson disease (a.a.14)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+cccacgccacatgcttctatgattgcgcctca,Lipoprotein lipase deficiency (a.a.2)
+ccccaatgagtccgcaacatagcacaagtcag,Zollinger-Ellison syndrome (a.b.3)
+ccccactgcttcgtgtcagtgacgattttatt,Trisomy 21 (a.a.30)
+ccccccagtgttttgttccctcttcgagttcc,Achondrogenesis (a.a.5)
+ccccgtgaattctcaactcaaagtttggatgg,thanatophoric dysplasia (a.a.1)
+ccccgtgttataaacccgactacactcccgga,Klinefelter syndrome (a.a.11)
+cccgtggggggcgtgatctggggctatgctac,Friedreich's ataxia (a.b.10)
+cccgttgtctttgggtggtattggagaattca,Incontinentia pigmenti (a.b.27)
+ccctattctaacgacttgcaaatgttactagc,Aceruloplasminemia (a.a.18)
+ccctattgaagaacggtttctcgccctcagtg,Rubinstein-Taybi syndrome (a.a.29)
+ccctcctggtgtcgcgtgggggtcgataaatt,Canavan disease (a.b.26)
+ccctcttctgtagcgctcgctttgctactctt,Benjamin syndrome (a.a.11)
+ccctcttttccagttcaagtagccgcttcatt,Alkaptonuria (a.b.8)
+ccctgtcaacaacgctccggaccctcggaaag,Incontinentia pigmenti (a.a.28)
+ccgaacaataacagaacgatcatcacttagag,Genetic hypercalciuria (a.a.10)
+ccgagttcagcctaaagttggggtgcgggtca,see Down syndrome (a.a.2)
+ccgagttcctcatggcgggcaggtgccgctcg,Adenylosuccinate lyase deficiency (a.b.11)
+ccgcagaagtagccttgtttcgccgcttagcc,tetrahydrobiopterin deficiency (a.b.5)
+ccgcagaggcctagggaggtctgattaccccc,Hereditary spinal ataxia (a.a.18)
+ccgcataatcacgattcaactcgtgcattagg,Galactosemia (a.a.27)
+ccgcatctgagatcgctcacacgctatggacg,Acute intermittent porphyria (a.a.26)
+ccgcgtccgacctcaagtatgctatgatttta,Strudwick syndrome (a.a.27)
+ccggcccatgaccgagatatactgtaacctgc,Kniest dysplasia (a.a.2)
+ccggcccctcatatagatcgagagtcctggtg,Benjamin syndrome (a.b.19)
+ccgtcggtcggctattggttccaccgagtttt,Alagille syndrome (a.a.29)
+ccgtgatgatggttagaacagtcgaacctctg,Primary ciliary dyskinesia (PCD) (a.a.7)
+ccgtgcgtcgcaaggacaaccctcaaaagcta,Pseudoxanthoma elasticum (a.b.24)
+ccgttcgggtcgtgggacgcgggctaggtctg,Hereditary coproporphyria (a.b.6)
+ccgttgaataccaagtggatggctcgtcccgc,Muenke syndrome (a.b.26)
+ccgttgacgccagccgcgccggttccatatta,Keloid disorder (a.b.18)
+ccgtttatgcgtttctataggaactcacccaa,Protein C deficiency (a.a.10)
+cctaacacgatctaatataatcagcttccgcc,CHARGE syndrome (a.b.8)
+cctaagcttttatggggctgtattgcggatac,Bloom syndrome (a.b.13)
+cctaatatcaaaggattgcgcttgagatgtgg,Polycystic Ovarian Syndrome (PCOS) (a.b.16)
+cctacgccctcataagttttaatgatgacgct,Pfeiffer syndrome (a.a.2)
+cctacgggtatcattaagcaacagggcccctt,porphyria (a.b.20)
+cctactggccgtttctaacgtatcctctttgc,see Tuberous sclerosis (a.b.10)
+cctagcgactcgtcgagcatcgtaaactagac,Crohn's disease (a.b.3)
+cctagtaaggaaggcgtgaaacgatgtcgggc,Biotinidase deficiency (a.b.21)
+cctcatcactcatttgcccgttgtgtagcacg,Krabbe disease (a.b.16)
+cctcgcggaacaagggcaaacatatgacatgt,Keloid disorder (a.b.1)
+cctctgaatctcaaaatactggcaaggatgtg,Achondroplasia (a.b.1)
+cctgattcaaacagagtcgcataagccctaag,Canavan disease (a.a.3)
+cctgctagtgactatctcctggcgcaaccaac,Albinism (a.a.21)
+cctggacagtttaaacggccacagaattgtat,Li-Fraumeni syndrome (a.b.10)
+cctggggcaagatcttatctgcctctacaagt,Kniest dysplasia (a.a.11)
+cctggtctcgcatacctgccaggcgtggcctg,Prader-Willi syndrome (a.b.3)
+cctgtcggtatttgtccatcatcaggatacaa,Amelogenesis imperfecta (a.a.29)
+cctgttaccccggaatcgcctgacttccccga,Distal hereditary motor neuropathy (a.a.18)
+ccttacgtagccctcagcgactgggtatagtc,Alpha 1-antitrypsin deficiency (a.a.4)
+ccttagaataccatcataataggcaagcgaaa,Charcot–Marie–Tooth disease (a.b.28)
+ccttcgggataagttcgaactcaataagtatg,Albinism (a.b.12)
+cgaaagtagggtcactcccgaaggtgtaccat,Lesch-Nyhan syndrome (a.b.19)
+cgaacacacatttaaacacttgttggtaaaag,Wolf–Hirschhorn syndrome (a.a.23)
+cgaacgctattgtcaacatagttaaaggtagg,Polycystic Ovarian Syndrome (PCOS) (a.a.29)
+cgaagatctaatgctctaactgtgggagttcc,Benjamin syndrome (a.a.6)
+cgacacaagaaccccctgattgtggacgaaca,Gaucher disease (a.a.23)
+cgacgatgaagtgcgaggcggccctaagattg,Menkes disease (a.b.27)
+cgactcttacccagattgtcagatggacgtct,CADASIL syndrome (a.b.23)
+cgagactaggcgcaggtcgatcgttgctgccc,Niemann-Pick (a.b.11)
+cgagcccccgtgggccgctatgatggcgcacc,Prader-Willi syndrome (a.b.9)
+cgagcctggtattagtcgtttctagaccgtca,Collagenopathy, types II and XI (a.a.25)
+cgagctttggcttcgaaaccgcctttcatcag,Peutz-Jeghers syndrome (a.b.19)
+cgagtccccagcactacgggattcttaggacc,McLeod syndrome (a.a.21)
+cgagttacaattagggggccttacagaccaag,Acute intermittent porphyria (a.b.2)
+cgagttagaacccaacggaaacggccgttcag,Benjamin syndrome (a.a.14)
+cgagttgaggtgcactgagggtcctggttgat,Protein C deficiency (a.b.14)
+cgatagcgcaaacgtttaatccgcaacgtaca,Coffin–Lowry syndrome (a.b.12)
+cgattccttcatatggaagagggttcgcgaga,Strudwick syndrome (a.a.14)
+cgattgtcggtatagcgggtagacgacaccac,familial dysautonomia (a.a.29)
+cgcaatttttcgctaaatcggggcgataggtc,CGD Chronic granulomatous disorder (a.a.27)
+cgcagaggattgaacatccggatgggtgatca,Androgen insensitivity syndrome (a.b.27)
+cgcagctgactcctctccacctgttgttagca,Krabbe disease (a.a.27)
+cgcaggtgtttcagtacactccgcccggagct,Osteogenesis imperfecta (a.b.7)
+cgcatccaatcagtggtcaacttaatgcccat,Crouzon syndrome (a.b.27)
+cgccaaattgtgtttcgccttgggtaggacct,Hereditary Inclusion Body Myopathy (a.a.18)
+cgccatgggttacagaataacgacaaccatta,Birt–Hogg–Dubé syndrome (a.b.25)
+cgccctaccactgatgaggtgacaaggcggca,Galactosemia (a.b.9)
+cgcgcatgtgactgccacagcatgggccgatc,Charcot–Marie–Tooth disease (a.a.4)
+cgcggacgggtgctttccaggaggactagcta,Friedreich's ataxia (a.a.16)
+cgcggcttcagtctggtccccccgcctcaaaa,Hereditary Inclusion Body Myopathy (a.a.26)
+cgcggggtaagtttgtcatgagagcaatgtga,Triple X syndrome (a.a.6)
+cgcgggtaccgctaaccagttcagtagaaaaa,Hepatoerythropoietic porphyria (a.b.2)
+cgcggtcgcgaggacctagaagtgcatggttt,von Hippel-Lindau disease (a.b.6)
+cgcgtacgatggcaatcctcgtgcctagtatt,Di George's syndrome (a.b.1)
+cgcgttgcccgtaaggtaatacgaatcagtac,Waardenburg syndrome (a.a.26)
+cgctactctcactttctgcaccatgtcccggc,Adrenoleukodystrophy (a.a.1)
+cgctattgcactcttcaggacgagaatgtatc,familial dysautonomia (a.b.22)
+cgctcgcgaagagcgttcggcccgctcgacga,Caylor cardiofacial syndrome (a.a.30)
+cgctctctagataagcttgctaatagaagcac,porphyria (a.a.14)
+cgctcttgccatcgcgggataaagtccgttgc,Williams Syndrome (a.a.24)
+cgcttgtaattggcccgtacgatctagcttac,Fanconi anemia (a.b.5)
+cggaacaattggcctaaatctaccgcggtatg,Cockayne syndrome (a.a.25)
+cggaccgcgcttggccatttctatagtaatcc,Harlequin type ichthyosis (a.a.11)
+cggagacatgagagttcggtttccacctcgag,Glioma, retinal (a.a.27)
+cggagtgtgggtggccgacgatcgtagatgag,Patau Syndrome (Trisomy 13) (a.a.15)
+cggcgtaactagtcgcttgccccagcacccct,Harlequin type ichthyosis (a.a.23)
+cgggagctcaacgtgggtggcatcatcgttcg,Muenke syndrome (a.a.14)
+cgggcttggccgtgtctcagaggagtactgta,thanatophoric dysplasia (a.a.5)
+cgggtcttcccccctatacatcctctttacat,CGD Chronic granulomatous disorder (a.a.19)
+cggttaataaattgccgatttcactcataagc,Turner's syndrome (a.b.4)
+cgtagacagactcatacgtgccaaacatatag,Smith Magenis Syndrome (a.b.22)
+cgtcatgcagctaattttccgataggtgtcct,Jackson–Weiss syndrome (a.b.20)
+cgtcgagttaaaagactgcgcttaggggctca,Broad Thumb-Hallux syndrome (a.b.19)
+cgtcgggagtgattcaaacagaactaatgtta,Coffin–Lowry syndrome (a.a.29)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+cgtgacaaccccggccgtcgtatcgaaaaggt,Spinocerebellar ataxia (a.b.15)
+cgtgcacagaggcccttattgacgatacagca,Galactosemia (a.b.21)
+cgtgggaactagtggtaacctcgcgtccgcgg,Hepatoerythropoietic porphyria (a.a.14)
+cgttaaggttatgctcacccagtgctacagcg,Lipoprotein lipase deficiency (a.a.10)
+cgttctcatatttggtgcgtcttagatccggt,Stickler syndrome (a.a.2)
+cgttgctccttgtagaaggtggcgctgcgaat,Crohn's disease (a.b.15)
+cgttttgataacttgccgacatgaggaggtta,Tay-Sachs disease (a.b.5)
+ctaaatagcggggatgcgtaaattcaatcaat,CGD Chronic granulomatous disorder (a.a.18)
+ctaaattcctgttcatccttgccgttataggg,Protoporphyria (a.a.21)
+ctaactacatgaaggtccccggtataatgcgg,tetrahydrobiopterin deficiency (a.a.19)
+ctaatacttccacaattgagcacaatatggcg,Hereditary coproporphyria (a.a.7)
+ctaccgcctcttcggagtttctggaacaatga,Tuberous Sclerosis Complex (TSC) (a.b.13)
+ctactacatgaatagcttaacaatttatacta,Alpha 1-antitrypsin deficiency (a.a.17)
+ctagcccgtgccgactcggttgtcgatcatac,Spinal muscular atrophy (a.a.28)
+ctaggaaaccgaaggaacatctcaacgcacct,thanatophoric dysplasia (a.a.15)
+ctagttgcgatcgccccatccgtggtaactag,Hypochondroplasia (a.a.6)
+ctatagcctctgacttgcgtcaacagcaccat,Pantothenate kinase-associated neurodegeneration (a.b.7)
+ctatagtctccattggtgaccacaacccgtat,Primary ciliary dyskinesia (PCD) (a.b.21)
+ctatcagccactgaccaggctcatcccaagtt,Muscular dystrophy (a.a.1)
+ctatggcttacgggttctgggaagtgtaagac,Mowat-Wilson syndrome (a.b.27)
+ctatttaagccgaccatcggaaaccggcgttc,CHARGE syndrome (a.a.1)
+ctcaatgttccttcaaagagatgggccaagtg,Genetic hypercalciuria (a.b.14)
+ctcagagactatttgcaaatttaaacgacaac,Hutchinson–Gilford progeria syndrome (a.b.24)
+ctcatcggtgttttcggttattcaaggtcggt,Prader-Willi syndrome (a.b.25)
+ctcattatagctatcgtctgtgttctatgccg,Hemophilia (a.a.22)
+ctcattgcagcttagcctaggaggagcagcgc,PCC deficiency (a.a.19)
+ctcattgtaaatcattgcccctgaagtatgat,de Grouchy syndrome (a.b.3)
+ctccaattatcccggagcgcactctgaagacg,Chondrodystrophy with dysplasia (a.b.3)
+ctccacataaagggcaccgtctctaaatagct,Prion disease (a.a.14)
+ctcccagtatactaacgattaatcgggatttc,Strudwick syndrome (a.b.21)
+ctccgtatcgttgtgtcaatgacattcgctcg,Hemophilia (a.a.6)
+ctcctccctcatgattttaaggctggggtccg,Klinefelter syndrome (a.b.14)
+ctccttggcctgctcaaactgggcaaagtcgc,Neurofibromatosis type I (a.a.2)
+ctcgattgatctgtgcctctagagaaactcgg,Hereditary hemorrhagic telangiectasia (HHT) (a.a.25)
+ctcgggcaaatctacgaaaacccataggtgta,Hereditary hemorrhagic telangiectasia (HHT) (a.b.15)
+ctcggtagcatgtgccagaagctaaaggaggt,Usher syndrome (a.b.13)
+ctcggtatgaaagccccgaaatacggctaggt,infantile-onset ascending hereditary spastic paralysis (a.a.29)
+ctctagcgaatccagtcatttaaaacgagacg,Methemoglobinemia (a.a.3)
+ctctcagtagaggggcttgggggtcagcattg,Alpha 1-antitrypsin deficiency (a.b.10)
+ctcttaccgagctatcaaattcgtggtcttaa,Crohn's disease (a.b.14)
+ctcttgagcaaaaattcggcaatattagcaca,Wilson disease (a.a.23)
+ctcttttatgaacactctaatagaggagcaag,Birt–Hogg–Dubé syndrome (a.b.4)
+ctgaacgcagcgagccttcatggctgggttca,Mucopolysaccharidosis (MPS I) (a.b.24)
+ctgaagacgcacttactataaggctgggcttt,Muscular dystrophy (a.a.9)
+ctgcactgggtgggtcttcggggtgttacttg,variegate porphyria (a.b.15)
+ctgcagatgcgattctcatccagtaccctgag,Campomelic dysplasia (a.a.25)
+ctgccccgttcactgcgagtacttctcgcgaa,Stickler syndrome (a.a.5)
+ctgccgaatattaatgagggcataaaacccac,Prader-Willi syndrome (a.b.14)
+ctgcgtcggttgactagaaaagtaggcaagaa,Hereditary spinal ataxia (a.b.12)
+ctgctagtacgtatcctggtctaacctagaac,Hyperphenylalaninemia (a.b.11)
+ctgctcgctgacgctcgtgcatgttcagggca,Alagille syndrome (a.a.13)
+ctggaacgggtttgttgcagtatgtttgcctg,Usher syndrome (a.a.29)
+ctggcttgccccctcgtttttctggtttaaag,Wilson disease (a.a.6)
+ctggtgttcacacgccttaccttaggggaaat,CGD Chronic granulomatous disorder (a.b.21)
+ctgtattagacctcctaagaacggttaacaag,Pfeiffer syndrome (a.a.23)
+ctgtcacccggagcgtagccggagcggagagc,Hutchinson–Gilford progeria syndrome (a.a.22)
+ctgtgacatcatccggtccccataggcaactc,Protein S deficiency (a.b.6)
+ctgtggtacgccggacttaacggggatcattt,Alpha 1-antitrypsin deficiency (a.a.21)
+ctgtgtgtgattctatgctgatcagtatttct,Smith Magenis Syndrome (a.a.30)
+ctgttgcatgatagcaggattattcagcaact,Strudwick syndrome (a.b.1)
+cttaattagaacgggggaaggaccagcaccga,Williams Syndrome (a.a.13)
+cttagacgatcagattcctagttcgagtcgcc,Amelogenesis imperfecta (a.a.28)
+cttagtccacgatccggggattgactttctaa,Collagenopathy, types II and XI (a.b.20)
+cttatgcggcccatgcagtccaagtaaaatac,Pendred syndrome (a.a.20)
+cttcggaacgaagtttcctcattcgcaatgac,Albinism (a.b.17)
+cttgaaataatgtacctgtaaccaattgttac,Hypochondroplasia (a.b.2)
+cttgatcactacgggacagatccagggacagc,Adrenoleukodystrophy (a.b.28)
+cttggtgaagtggcgcgagcatatgcgcgatt,Hereditary Inclusion Body Myopathy (a.a.29)
+ctttccttgactgattctaacccggtgcagga,Pantothenate kinase-associated neurodegeneration (a.a.1)
+cttttcccactaagctcttgtaccccttcccg,Di George's syndrome (a.b.28)
+cttttcgacttaaatgaatcggtatccctcgc,Rett syndrome (a.b.12)
+ctttttttcgagtccatggtctagcaacagaa,McLeod syndrome (a.a.6)
+gaaaataccattttcgaatgccgggagcgcag,Ehlers–Danlos syndrome (a.a.28)
+gaaagggtatgtgcacgccagtacgacgcact,Polycystic kidney disease (a.a.6)
+gaaatgccggagcgcaaaaaagtacaggttgg,Broad Thumb-Hallux syndrome (a.a.17)
+gaaatgtacatgcaggtcaccatttaatacat,Crouzon syndrome with acanthosis nigricans (a.a.9)
+gaaccgagcggggtttagaatcgggtattcct,Ataxia telangiectasia (a.b.24)
+gaacttgctgtcgcgaagaacggaaagatcaa,Benjamin syndrome (a.b.18)
+gaagagattgcaatcataacagttctagtggg,Primary ciliary dyskinesia (PCD) (a.a.28)
+gaagattggccaggagtacaattatgatggct,Hepatoerythropoietic porphyria (a.b.6)
+gaaggagcttaactttgtattaacgctcgaat,Charcot–Marie–Tooth disease (a.a.21)
+gaaggcgcgaactgaataaggccgtctcgcgc,Sickle cell anemia (a.a.29)
+gaagtttgaggcggccacctatactgaggagc,Alström syndrome (a.a.12)
+gaatactccaggagccgggcgtatgaaaaaaa,Birt–Hogg–Dubé syndrome (a.a.10)
+gaatggcattcgcagtaccactccggtgatca,Wilson disease (a.b.16)
+gaattttcttatgtggtagcgtatccggttac,Biotinidase deficiency (a.a.26)
+gacaaactgagaagaatgagtggcgacagcgc,PCC deficiency (a.b.12)
+gacaaagtgtagaaatccagtttctgacagct,Benjamin syndrome (a.b.4)
+gacaacacgcaaggatttatggatttcaacct,Friedreich's ataxia (a.b.16)
+gacaaccaatgtctcgcctgtagcttggaacg,Nonketotic hyperglycinemia (a.a.18)
+gacaacgaagcttaaagtgtgaggttttctac,Pseudoxanthoma elasticum (a.b.20)
+gacaagccaacccggcgttatcgcccgtggtg,factor V Leiden thrombophilia (a.a.27)
+gacaatgaggcgagcccacgatccagtctctc,Cowden syndrome (a.b.8)
+gacaccgagaagaagcgcaatgcagctttgcc,Sphingomyelin phosphodiesterase (a.b.14)
+gacattttctatccaatgcggtccacctgtaa,Menkes disease (a.a.28)
+gacctaactcaaggccatttctcccggccatt,Angelman syndrome (a.b.26)
+gacctagggcgccccggctcgaacgctatcag,Phenylketonuria (a.a.19)
+gacctagtagtcaccggcccaggccacttatg,Methemoglobinemia (a.a.1)
+gaccttcctggcacggcgtcccgtggtgacac,Phenylketonuria (a.b.27)
+gacgtacttgtcccgataaccacccctactcc,Birth Defects (a.b.23)
+gacgtcggcacgatcaatcctgggcaaagggc,Galactosemia (a.b.5)
+gacgtgttaaactaggtaccaactgtgggcag,Micro syndrome (a.a.25)
+gactaagtgcgctcgtgacgacaggattccac,Homocystinuria (a.a.19)
+gactcacccgctagtgtagttagactaatcca,Harlequin type ichthyosis (a.b.6)
+gactcagggggcggagttctcgagcgatggcc,Ataxia telangiectasia (a.b.5)
+gactggagtggaactggcttttgcgacctggt,Rett syndrome (a.b.21)
+gactgggtcggtcgagcgcttccctcccggcc,Neurofibromatosis type II (a.a.14)
+gagaattggtccagcgccgctttcaagacgag,Usher syndrome (a.b.14)
+gagacgaagttcgtgcgtcatcctgcaggtgg,Nonketotic hyperglycinemia (a.a.20)
+gagacgctacggtctcgtgagcggcccgtgag,Incontinentia pigmenti (a.a.22)
+gagagcttcacgtgatccgtgcatagatctta,Spinocerebellar ataxia (a.a.24)
+gagatcattcgttagaatctcgggttgattcg,Cystic fibrosis (a.a.11)
+gagcctagtattactaatccagatatggaaat,Angelman syndrome (a.a.2)
+gagcgttcaagcacatatgtagtcaacaataa,Acrocephaly (a.a.10)
+gagctatgacgggaattagagtctattcgtga,Campomelic dysplasia (a.b.6)
+gagctggataggcagggtgagctgctttagaa,Methemoglobinemia (a.a.12)
+gagcttgaccgcaactggggggtcagctgggg,Huntington's disease (a.b.20)
+gaggagagctctgctgtgattaaatcacactg,Lactose intolerance (a.a.25)
+gaggcaattggcgtgcgccgttgcataggtag,Polycystic Ovarian Syndrome (PCOS) (a.a.10)
+gagtccttgcgcaacccccgagacaacgttag,Genetic hypercalciuria (a.a.16)
+gagtcgaaggaaattgcctagccgggcctcaa,SSB syndrome (a.b.6)
+gagtcgataaccagtagttgcttctcgcggag,Hereditary spastic paraplegia (a.a.3)
+gagtgcctcgagtccgcaagtttatttaattg,Biotinidase deficiency (a.a.9)
+gagttatcgcgtctgcgataagtgggggattc,Muenke syndrome (a.a.20)
+gagttcacaaataaagttggcagagcattacg,Hereditary Inclusion Body Myopathy (a.a.21)
+gatacataccaaatttgctacaatggacgtga,Caylor cardiofacial syndrome (a.a.22)
+gatactggatatgttcacacctaataagattc,Triple X syndrome (a.b.24)
+gatagcctagctcagagctcaggttgcagcgc,Cancer (a.b.1)
+gatagcggtgctactctgatgattcagaagtc,Harlequin type ichthyosis (a.b.22)
+gatataacgaagagacccgaaggaactgcgcc,Mowat-Wilson syndrome (a.a.1)
+gatatgatagcaaataccgcggaggcctctgg,Homocystinuria (a.b.11)
+gatatgggcagtccgacttgacacgacgcctg,Prion disease (a.b.25)
+gatatggtactaagtttaatcgtatttgtggc,Albinism (a.b.9)
+gatattggtctccggtttatcttcagagtcct,Sphingomyelin phosphodiesterase (a.b.23)
+gatcagatccggccaatggaaattgctagtat,Myotonic dystrophy (a.b.12)
+gatccgggggatacatactaaccagctggttt,Achondroplasia (a.a.29)
+gatcggaggcgctaatctccaatccgacaaac,Protein S deficiency (a.a.26)
+gatgcttgtggtgaatacttcttcaccttgac,Schwartz–Jampel syndrome (a.b.12)
+gatggggtgtttccttagcccaacgtgctact,variegate porphyria (a.a.28)
+gattacgcatcctgagcaatcaaatttacgag,Hypochondrogenesis (a.b.15)
+gattcgaccgcattgcgattgttatgatggga,Beare-Stevenson cutis gyrata syndrome (a.a.2)
+gattctgaattccatctaacagtcgttgggcg,Crouzon syndrome with acanthosis nigricans (a.a.12)
+gcaaaacaacggaccctagagtaatactacag,Hereditary spinal ataxia (a.b.24)
+gcaaagctttcccctcatgaaccgaaatcgaa,Albinism (a.b.21)
+gcaaatacacgttcggtctatttatagaatgt,Nonsyndromic deafness (a.a.26)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+gcaatcggaaatcaacaggttcaagtcgattt,Williams Syndrome (a.b.5)
+gcaattataaggcgttctaagcgatatcacgt,Genetic hypercalciuria (a.a.29)
+gcaattttgctggtagctgtctagtggtcgga,Crouzon syndrome (a.a.30)
+gcacaggtcctaaccgccctcgggcgatggcc,Peutz-Jeghers syndrome (a.b.21)
+gcacgcgacaaatgtgctttgttgttttgggc,Biotinidase deficiency (a.a.27)
+gcacgtctaatatgtcgatgtacctagtaatt,Biotinidase deficiency (a.b.9)
+gcactgagctgcgatcaccaattgtttcgtcc,Muscular dystrophy (a.a.29)
+gcacttggcggaatggggtgccaccctgtgtg,Hereditary hemorrhagic telangiectasia (HHT) (a.b.26)
+gcagccatcgggttattaagtcatgaggtaca,Weissenbacher-Zweymüller syndrome (a.a.24)
+gcataagccagaattctctacataagtgcttt,Distal hereditary motor neuropathy (a.b.13)
+gcataggtggtgatccgttctgtaagatgcag,Pfeiffer syndrome (a.b.21)
+gcatcactccgtgtcagaggtgtggcactaaa,Prion disease (a.a.25)
+gcatccgcgcactggcttcggagaagtggcag,Friedreich's ataxia (a.a.22)
+gccaaagcaggcggagcaatcgggatgactac,tetrahydrobiopterin deficiency (a.b.27)
+gccaagcattctaggctgagacacaattgggt,Triple X syndrome (a.b.19)
+gccacggcccagtggtatatacatggcgattc,Stickler syndrome (a.b.21)
+gcccaaaaagtcacttttctggaactctatct,Canavan disease (a.b.14)
+gcccaagggggaactgctcgcttggattctct,Microcephaly (a.a.19)
+gcccaccgagggtagacccgcgatgatatggc,Myotonic dystrophy (a.a.15)
+gccccataaaaaacaggctgctacaaataaaa,FG syndrome (a.b.22)
+gccccctaacccgtgtcaggttctcgtgtatg,Alzheimer's disease (a.b.11)
+gcccctaatggatacaaggcatcaaacccctt,Gaucher disease (a.b.1)
+gccctaaatgcacgagaacgggcaccaccacc,Ataxia telangiectasia (a.a.22)
+gccctgtaaatacaagacattggaaaatgcct,Mucopolysaccharidosis (MPS I) (a.b.19)
+gccgcaattcaagtaaaagaagcgcatgctat,Pfeiffer syndrome (a.b.10)
+gccgcatctgcgttcacttcccgtgagtggtt,Charcot–Marie–Tooth disease (a.b.17)
+gccgcgggaagtaagtccgtgaataacatgca,Patau Syndrome (Trisomy 13) (a.b.10)
+gccggccggcattacattttgtacttcgggaa,Spinal muscular atrophy (a.a.23)
+gcctcctcttgggacccatttttaacaaatta,Protein C deficiency (a.b.22)
+gcctctcgtttccatatttccgcgctaacgtt,Beare-Stevenson cutis gyrata syndrome (a.b.3)
+gcctggatttgcttgcttttcaccgcgaatat,Smith Magenis Syndrome (a.a.5)
+gcgaagacagggcggtgaactttgagggttgc,Methemoglobinemia (a.a.4)
+gcgaccaagcccgagtaacaactgcgtaagat,Pfeiffer syndrome (a.b.7)
+gcgaccgagttgactggtgtaggagcagcagg,Rubinstein-Taybi syndrome (a.b.3)
+gcgagatgttcttagaaattaccctcgaggca,Trisomy 21 (a.a.28)
+gcgatctaactcgaacgaccagagtaggttac,Albinism (a.a.23)
+gcgatgggttattctcggctggtgtatacaca,Trisomy 21 (a.b.15)
+gcgccgtaaatgttcatttttacactcggcct,Pendred syndrome (a.a.11)
+gcgcgcccttagcgagataacgctctggaaca,Cystic fibrosis (a.b.6)
+gcgcggggacagcgtaactaagttaaaataag,Weissenbacher-Zweymüller syndrome (a.a.19)
+gcgctcggtcgaccacaagatctatcaaacta,de Grouchy syndrome (a.a.11)
+gcggagacttcctcaattgtctttgagacata,Di George's syndrome (a.b.23)
+gcggtccgatagtcaatgcatcctgcagtgct,Siderius X-linked mental retardation syndrome (a.a.10)
+gcggttgtggtgattgccacgtcttaccggag,von Hippel-Lindau disease (a.b.3)
+gctagccttgccctacggaaaaacggatacat,SED congenita (a.a.21)
+gctagctcggcggagcggacgcttgtcgggcc,Erythroblastic anemia (a.b.9)
+gctataccccccgttaatccgacgctaaggta,Smith-Lemli-Opitz syndrome (a.a.25)
+gctatatataaggctagcactcgttacacact,see Down syndrome (a.b.1)
+gctccactgatcgttctactggcgtcctcgag,tetrahydrobiopterin deficiency (a.b.24)
+gctcccaccgtgagatggccaagtaacctttg,Pseudoxanthoma elasticum (a.a.18)
+gctcctacgtagcatacggccatccgcacagt,Hypochondroplasia (a.a.8)
+gctctcggttcttcattgcaaacttgtttagc,Osteogenesis imperfecta (a.a.3)
+gctcttggcgatgagcgatgcgacagcctgga,Galactosemia (a.b.26)
+gctgaaataataccctcgaatacacggtaaga,Haemochromatosis (a.b.9)
+gctgagctggctcttcttcctcggcacctcgg,Pendred syndrome (a.b.17)
+gctgccaactacactgttcctagcacagacgc,HNPP (a.a.18)
+gcttaatgtgcttatgatcacacaaagagccc,Protein C deficiency (a.b.21)
+gcttagagccccccgcgtgtcccgtacccgtc,Rubinstein-Taybi syndrome (a.b.20)
+gcttccggtcccgctggcgggaaattgcggag,Hemophilia (a.b.23)
+gcttcggtgcaaatctgtgatgatagcagcgc,Osteogenesis imperfecta (a.a.12)
+gctttcctacaagtccaataaccgggtcgaaa,Fabry disease (a.b.17)
+ggaaagacggttccgggtcaaggatctgcgct,familial dysautonomia (a.a.27)
+ggaacatgacttattcctcattggaaatcttt,Alström syndrome (a.b.28)
+ggaactggggcggaaatgcgtaggtcaagcaa,von Hippel-Lindau disease (a.a.23)
+ggaattatgtaggggcgacgggcgtgggctag,CADASIL syndrome (a.a.22)
+ggacccactaatgatcgcaataccatgccaac,Anemia (a.b.4)
+ggaccgctgagctactgagaagagttgcgcac,Androgen insensitivity syndrome (a.a.7)
+ggacgactcccggaatatctggctagccagta,Polycystic Ovarian Syndrome (PCOS) (a.b.26)
+ggatagcaaggtataataactgagacactcac,Hemophilia (a.a.21)
+ggatggctagtcgcatgatgagtgacgatggt,Acute intermittent porphyria (a.b.10)
+ggatgtctaccttggatagcgtattcttatct,Crouzon syndrome with acanthosis nigricans (a.b.3)
+ggatgttgcagaacagggcgaacatcttttga,Myotonic dystrophy (a.a.28)
+ggcataaaacctaggcccgacgttagaaggat,Hyperoxaluria, primary (a.b.21)
+ggcatgtcttgtcacgaaatctcatggtaggg,Acute intermittent porphyria (a.b.16)
+ggccactgcgatcaactcttcttgtctactat,Microcephaly (a.b.24)
+ggccatgtatgctaggccattactttcgtaac,Nonketotic hyperglycinemia (a.a.22)
+ggcccctgtgagatggattgtgttcagtgtat,see Down syndrome (a.b.19)
+ggccctagtgttaggtggtgcattgtattacc,Hepatoerythropoietic porphyria (a.b.20)
+ggcccttcttacagttatggatagttgactct,CPO deficiency (a.a.9)
+ggcctaccctccggcacacatgagcgagacac,infantile-onset ascending hereditary spastic paralysis (a.b.14)
+ggcctggtatggcccaatgcgtccagtgaaac,Hyperphenylalaninemia (a.b.28)
+ggcgacaccctatagacaataccgtcctatac,Schwartz–Jampel syndrome (a.b.22)
+ggcgatcgtattacgtttgttaactattggct,Homocystinuria (a.a.22)
+ggcgctcaactactcgtgtactttagtcattc,Sandhoff disease (a.b.21)
+ggcggatagcggactcagttatatcttgctag,Klinefelter syndrome (a.a.2)
+ggcgtacacgttcacaaccctgtaactagtct,Spinocerebellar ataxia (a.a.1)
+ggcgtacgcgggcactgaccttattgaacacg,de Grouchy syndrome (a.b.20)
+ggctattaatccagaactcggaaaaaatacgg,Hereditary multiple exostoses (a.b.21)
+ggctggatccctaggtcttttcgttccgtctg,von Hippel-Lindau disease (a.a.26)
+ggcttcgtggtttctgtgtatagagctgttat,Mediterranean fever (a.a.11)
+gggaactacaaacactgcggagtggacatgag,Beare-Stevenson cutis gyrata syndrome (a.b.21)
+gggaccccacggtgccgccttgcaatcctgct,Huntington's disease (a.b.22)
+gggacttgtgggggaaaagatggagacgattc,Triple X syndrome (a.b.9)
+gggcgtttggaacagcaaaagatagctagtgc,Micro syndrome (a.b.6)
+ggggaacatgctggaacccgttacacagtccg,Hypochondrogenesis (a.b.27)
+ggggatgtttagccgactaggctgtgctcgat,Krabbe disease (a.b.28)
+ggggggcgctgtgaggtttgaatacaaacccg,Hepatoerythropoietic porphyria (a.b.7)
+gggggggaccggaattccccccatgacggaaa,Methemoglobinemia (a.b.26)
+ggggttgtaagttccacgtgctgtatactatg,Incontinentia pigmenti (a.a.10)
+gggtaattattgtacggttaacgaatacaagt,Coffin–Lowry syndrome (a.a.26)
+gggtaccctcaaggcgacctccctgaccaata,Albinism (a.a.7)
+gggtagtgattctctgctacctgggagaagag,Hereditary hemorrhagic telangiectasia (HHT) (a.b.18)
+ggtaaggtttgctcgggaggaggtgttcgcat,Mediterranean fever (a.a.24)
+ggtaatcacggatactaccaagagatgtcgac,Hereditary coproporphyria (a.b.1)
+ggtactcgggtcgttccaaatgaaaagtacac,Adenylosuccinate lyase deficiency (a.a.23)
+ggtatcgattccatcgagtgggattaaattaa,porphyria (a.b.2)
+ggtatttgctcgatgatttttgtgcactggac,Li-Fraumeni syndrome (a.a.24)
+ggtcaacgtccttttagtgatagtgacccgtt,Hereditary coproporphyria (a.a.26)
+ggtcaccaaggcatgagcttcacagggaggtt,Hyperphenylalaninemia (a.a.14)
+ggtccacgaggtcatatctcggctaccgcttt,Protein C deficiency (a.b.27)
+ggtcctgatcaatgatcgactacgtggtccat,Joubert syndrome (a.a.19)
+ggtcgtaccctctagcaaccgttgaagaggcc,Di George's syndrome (a.a.30)
+ggtctatattaatgacactggcccggctccaa,Cri du chat (a.b.9)
+ggtctcaaccgacgcgtctagcgtttcgagta,Lesch-Nyhan syndrome (a.a.26)
+ggtgggccagggctcgtgggagcgtcgcgaca,Niemann-Pick (a.a.1)
+ggtgggtgaacgtatagacctctagacataag,Ogden syndrome (a.b.7)
+ggtggtcacgaagttagtagttacgattaaga,PCC deficiency (a.b.1)
+ggtgtcacgcggacacaatgcggtacggtgct,Homocystinuria (a.a.28)
+ggttagtggaacgcgcagtggatcaactgtgg,Alagille syndrome (a.a.19)
+ggttataggtgataatgacgttgttcaaactg,Erythroblastic anemia (a.b.14)
+ggttcacaattttcaagccataggctgtagat,Krabbe disease (a.b.20)
+ggttggctagctcagcagaatccttttgaccc,Hyperphenylalaninemia (a.b.4)
+ggttgtagccttgcgaaacgacagaatgcggt,Collagenopathy, types II and XI (a.a.7)
+ggttgtgggcccactgtcggggtgttagagct,Huntington's disease (a.a.21)
+ggtttatgtatacggattcatatgactgataa,ICF syndrome (a.a.18)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+gtaagtgtatgcatgtgagtctacaaacgtgg,infantile-onset ascending hereditary spastic paralysis (a.b.15)
+gtacaagaacgctagcattatcgagattcatc,Homocystinuria (a.b.9)
+gtacaggaatccagtggtttagagatctcagt,G6PD deficiency (a.a.21)
+gtacctctgctcgcagcaatgcgagaaaactt,Smith-Lemli-Opitz syndrome (a.a.15)
+gtactaagtaagtagtctagattcttgaagtg,Fabry disease (a.b.14)
+gtagctcggtcatggtgggtcaccatcttggc,Schwartz–Jampel syndrome (a.a.23)
+gtagtgcttttcctatactgtcagacattccc,Niemann-Pick (a.b.28)
+gtatagctgcaaagctaacaccttcccagatg,Klinefelter syndrome (a.a.3)
+gtatatcaggccggtaacagaaacgactacat,Methemoglobinemia (a.b.5)
+gtatatgagccagaatgcgttacgtcggtaag,Harlequin type ichthyosis (a.a.4)
+gtatatgggtttattcaggtttatctgccgcc,Incontinentia pigmenti (a.a.17)
+gtatgatctaatggtacctctacatttttgta,Pfeiffer syndrome (a.a.10)
+gtatggaaacgcacattaattgtcttaaacga,Cockayne syndrome (a.a.15)
+gtattcccctataaaatcggttgactatgtaa,Methylmalonic acidemia (a.b.20)
+gtattcgccccgcgaggagaattgcattcggt,Neurofibromatosis type I (a.b.28)
+gtcaggcagaggatacttgctctgaccctagg,Hereditary Inclusion Body Myopathy (a.a.22)
+gtcattgcgtcctccctgcgggagtttgacct,Phenylketonuria (a.a.21)
+gtccctccccttgtcttgtggcgctggctacg,Hutchinson–Gilford progeria syndrome (a.a.5)
+gtcgcgtggaggcagactcaagaggctggtca,Adrenoleukodystrophy (a.b.3)
+gtcggtagtagacgaatgaaagtctgggaaac,Hereditary Inclusion Body Myopathy (a.a.30)
+gtctagaattggtagaaataagctatgctctc,see Down syndrome (a.b.20)
+gtctattgcatcggaatgcggaaaaggatgct,Hypochondrogenesis (a.a.8)
+gtctgcgagcgatgtcatcgctcccgaacttc,Incontinentia pigmenti (a.b.9)
+gtctgggatgagtccgttcggtcggttgtcgg,Adenylosuccinate lyase deficiency (a.b.16)
+gtcttaaacttgatcgccgttgggtaactggc,Crohn's disease (a.a.5)
+gtcttaatagtccacaccagggggaaggacac,Trisomy 21 (a.a.8)
+gtcttatcgcgtgttgggcctttcgtcggacc,Cri du chat (a.b.20)
+gtcttccgcagagtatccaataatcagattaa,Galactosemia (a.a.6)
+gtcttgaccctgcatctttcagtggacgtaag,Achondroplasia (a.b.26)
+gtcttttacccccaatcgcgcaagcggggtag,Achondroplasia (a.b.2)
+gtgaatgacctgcagcgaaatagaagtgcgga,Harlequin type ichthyosis (a.b.8)
+gtgaccacaggagcgcggtcaccatcatgcag,Aceruloplasminemia (a.b.1)
+gtgatgtgtattccctagtcccttacagagtt,Mediterranean fever (a.b.27)
+gtgccaacaagggccgcctggctggcacctac,porphyria (a.a.7)
+gtgctttagggggccttggagctaggctcggc,FG syndrome (a.b.13)
+gtggatatggcggaccttcacaggtaatatct,Usher syndrome (a.a.22)
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+gtggtattagtgaagatacatgatgagggccc,Crouzon syndrome (a.b.24)
+gtgtcagtgatattctgccttgcaaatctcct,PCT (a.a.20)
+gtgttaccaaaacataaggagatacgcatttt,Caylor cardiofacial syndrome (a.a.26)
+gtgttatgtagttagacaaaaagcatccatgc,Waardenburg syndrome (a.b.14)
+gttaaagcgagctgaacttgggatgttactaa,Cri du chat (a.b.22)
+gttagcttgggcggtctattgttctgtttgta,Siderius X-linked mental retardation syndrome (a.a.13)
+gttccgggccacatctcactaagcccagcctg,Fanconi anemia (a.a.9)
+gttcgtgaatcaggagagttcacagtgccggt,Incontinentia pigmenti (a.a.1)
+gttgaaccaacaaacaagcatagggagagcag,Spinocerebellar ataxia (a.a.6)
+gttggcggctctattgcccgggctcgttcaac,PCC deficiency (a.a.30)
+gttgtaaacacggtgcccaacatggtcgacat,Huntington's disease (a.b.13)
+gtttccgacactggacgtccgtcagtcgattt,Prader-Willi syndrome (a.b.5)
+gtttcgggacgaagtggacgtgtaaacctcat,Primary ciliary dyskinesia (PCD) (a.a.15)
+gtttgtaggagtagcgtgggagggcgtatcta,Stickler syndrome (a.b.13)
+gttttgctttgagctaacagtctatgagctat,Schwartz–Jampel syndrome (a.b.21)
+gttttgtcagacctagatgagacactgctgca,Cowden syndrome (a.a.5)
+taaacctatctatatcttccaatgatagccga,Osteogenesis imperfecta (a.a.23)
+taaaccttctaactagatataggttgggactc,Amyotrophic lateral sclerosis (a.a.29)
+taaccaacttagcatgtagttgagaccattac,Benjamin syndrome (a.a.9)
+taacctgtccccagatcctttccggtatacca,Wolf–Hirschhorn syndrome (a.a.13)
+taacggaacggcacggtagatggtagacctag,Ataxia telangiectasia (a.b.4)
+taagtaccggaaggctggggccaacacagcct,Niemann-Pick (a.a.7)
+taatagttaaagcgaggcctcacttagtcggt,Mowat-Wilson syndrome (a.a.26)
+taatatggagcctcccacttcttcgtagcaca,Birth Defects (a.b.5)
+taatccacacatcacgattccgtcagagagct,Spinal muscular atrophy (a.a.25)
+taatgcccggcactggctattgggctgaatcc,Erythroblastic anemia (a.a.26)
+taatggggttatctgcaacgttgagtggaaag,porphyria (a.a.6)
+taatgtatcccatggatccacccccgagagat,Hypochondroplasia (a.b.17)
+tacaccgttcatctgtcgccgtatctgagtca,Androgen insensitivity syndrome (a.a.4)
+tacactgcacagaattaaagcgttgatgaagt,Lactose intolerance (a.a.1)
+tacactgggttcatcggacagaatgactccaa,Marfan syndrome (a.b.16)
+tacagcaggaagatctttcaccgtaggggaaa,Li-Fraumeni syndrome (a.a.14)
+tacagtcacactccgtggccaacacatccccg,Klinefelter syndrome (a.b.8)
+tacatgttctccaattgcacgtcatgaagcgt,Benjamin syndrome (a.a.12)
+taccaatggcaactgcgcccctactgttcata,Pendred syndrome (a.a.29)
+taccgcaagcaacacaggcatccggataataa,Neurofibromatosis type I (a.b.7)
+tacctcaccgactatatatccttgggagtgct,CADASIL syndrome (a.b.28)
+tacgtccgtcgtttataattgatttgtggctt,Li-Fraumeni syndrome (a.b.5)
+tactaagcaacggaattgcccctttgataact,Myotonic dystrophy (a.b.16)
+tacttcaattgatggcattcaagcgcgttacg,PCC deficiency (a.b.20)
+tagaaaagcgctcgttgttgagctcagtttcg,Achondrogenesis (a.b.3)
+tagaacatttggctagacgccgcgtagcaaat,PCT (a.b.14)
+tagaagctactaaaggtggagcctgagtctat,Canavan disease (a.a.28)
+tagacactttacttgccgctttaaacaattac,Distal hereditary motor neuropathy (a.b.23)
+tagacgggcatcactcgtccgcctgaaaattg,Polycystic Ovarian Syndrome (PCOS) (a.a.23)
+tagactatggcgtatattcatcgtacgattat,Micro syndrome (a.b.10)
+tagatcggtacgtaataacgtaagaatcatta,Di George's syndrome (a.b.3)
+tagattgtcaaggtaaccacgagcgtcttagg,Glycine encephalopathy (a.a.30)
+tagcaagacccttcgcggcatggcgcctgttg,Kniest dysplasia (a.a.22)
+tagcacgcatttgaagtcacgcaagttaaggc,ICF syndrome (a.a.1)
+tagcgattttcggatgttcgggtaaacattct,Pendred syndrome (a.a.24)
+tagcgtgaaatgactctgccgtctatgatcgt,Hereditary spastic paraplegia (a.a.12)
+taggacccctgcacatttagagtcactacaga,Microcephaly (a.b.13)
+taggagcctaatgcgtgactttctttttggga,Genetic hypercalciuria (a.b.2)
+tagggttgcgatacgttagccgggcgtggact,Patau Syndrome (Trisomy 13) (a.a.3)
+taggtaacttgctcttctcagactctgctcta,Usher syndrome (a.a.4)
+tagtcctaagaccaaaagctcaccttagtgcc,Methylmalonic acidemia (a.b.26)
+tataacattgtatcacatgcttatgtcccaga,Micro syndrome (a.a.29)
+tatataaggtagccagcgtatattctcgaact,Pfeiffer syndrome (a.b.24)
+tatatacgctgcataagttgcgactttattcg,Prader-Willi syndrome (a.a.2)
+tatatatacggaatcttgaggcgcttcggtct,Lesch-Nyhan syndrome (a.a.8)
+tatcaccctgttgtctcgttttggcctgagac,Crohn's disease (a.b.20)
+tatcatatcacgtggttctttctctgcgtttt,Waardenburg syndrome (a.b.3)
+tatcattcggattgatcctgggggaaaggaca,Sandhoff disease (a.a.16)
+tatccggctaggccaacggacgccatccggga,Gaucher disease (a.b.22)
+tatcgtgctgcatactgctcataacatagagt,CPO deficiency (a.a.28)
+tatgaaaatgcctactaaaataaagcttcttg,Gaucher disease (a.b.23)
+tatgaacccgatactaatttgccaggttcacc,Wilson disease (a.a.2)
+tatgaatctcatcttcgtttgggtatcagcgt,Muscular dystrophy (a.a.28)
+tatgacgttggaagcgagcgagcatatctaag,Muenke syndrome (a.b.3)
+tatgcacaggaggggcatctcgaaccggttgc,Bloom syndrome (a.a.10)
+tatgtatggagttgggccgaggtaatcgccgc,Harlequin type ichthyosis (a.b.11)
+tatgtcacggtgtgtatacattcggccatgcc,Alkaptonuria (a.b.19)
+tattcacgccctgaatatttcagatgtgtatc,HNPP (a.b.25)
+tattccaccggtgacagttgtagtacagcatg,Adrenoleukodystrophy (a.b.5)
+tattctacgatgctaatactctgcaccctcca,infantile-onset ascending hereditary spastic paralysis (a.a.8)
+tattgagtagtattcatgggatcacaggatat,tetrahydrobiopterin deficiency (a.b.14)
+tattttcggggagggtaccacactgtagcaag,Coffin–Lowry syndrome (a.a.24)
+tcaaatgaatcctctatcgcctctcggtctga,Schwartz–Jampel syndrome (a.b.17)
+tcaagatttatgcgcgattggtaataatctca,Pendred syndrome (a.a.3)
+tcaaggatggaccttgcaacttcttgcgtcta,primary pulmonary hypertension (a.a.29)
+tcaatcgtgcgggcttggccacgctcttatcg,Lipoprotein lipase deficiency (a.b.4)
+tcacgtccccctgtttgcaccaagccgattcc,CPO deficiency (a.a.8)
+tcagaatcctgggacttgctcgctgatttcgc,Hemophilia (a.b.3)
+tcagaattctaaggctcctagggtcaagctgg,Triple X syndrome (a.a.2)
+tcagctcctgcattacggttcagtttaggtaa,Hereditary multiple exostoses (a.a.6)
+tcatacccaatagagcttaacgtcggtgcgcc,Cancer (a.a.21)
+tcatcaagtcgatttgcctggatcacgcatga,Alpha 1-antitrypsin deficiency (a.a.27)
+tcatctaaatatgagtagacctcttgcctact,Alagille syndrome (a.a.26)
+tcatttagaattgataggtacataagaccagt,Alzheimer's disease (a.a.20)
+tccatggagtagaccaggcaccgcgagttgca,Aceruloplasminemia (a.b.17)
+tccatgggggcttcatcaagtattcccgtgct,Phenylketonuria (a.a.14)
+tcccaacgtccgattacatggctagtaccagc,Krabbe disease (a.b.27)
+tcccacgcgcgcgtgcttctgtgcattggaca,Hereditary multiple exostoses (a.a.7)
+tcccggaaccggagcatattgcccgggccaag,Coffin–Lowry syndrome (a.a.17)
+tcccgggaaaatggacgacatacgatgtttgt,Muenke syndrome (a.b.19)
+tccctacgatactgggctgttattggtgggaa,Alzheimer's disease (a.b.28)
+tccgaggcaattcacccgaaacctcggtagga,primary pulmonary hypertension (a.a.8)
+tccgatcctagtatgccttcaaacgggtaatg,Cancer (a.b.12)
+tccgtttcaaactaccaccctcagtagttggg,Rett syndrome (a.b.5)
+tcctaaaacgtttttagatacagacatagctc,Campomelic dysplasia (a.b.7)
+tcctgacgggggatttaagatccgagttctct,Alpha 1-antitrypsin deficiency (a.b.1)
+tccttgaccagacgtagcaacccgcggtccct,primary pulmonary hypertension (a.b.4)
+tcgacggtagcccatttacgtaccatagggct,Hereditary coproporphyria (a.b.25)
+tcgatttcgtcaggaccgtgtatcccggagcc,Mucopolysaccharidosis (MPS I) (a.b.28)
+tcgccgcctgtctctagctacgtgtcctaact,Ehlers–Danlos syndrome (a.a.7)
+tcgcgatattcctgcggagacgccccagatac,Neurofibromatosis type II (a.b.27)
+tcggcgcttcgtttgccgaactgtgagctacc,Nonsyndromic deafness (a.a.2)
+tcggctgaattgctcttcaacacgatccgact,CADASIL syndrome (a.b.15)
+tcggctgcgcatctcgtgggcagggtgaagac,Rett syndrome (a.a.2)
+tcggggcccgcaaactttaatgtagtctagcg,Micro syndrome (a.b.2)
+tcggtgcattatggaatcaatactattctctc,Glycine encephalopathy (a.b.8)
+tcggtgggacccgggggccttgagatatatac,Cowden syndrome (a.a.11)
+tcgtcccactcttggctcctgcgagcgctttc,Fabry disease (a.a.5)
+tcgtgcagttaacaatgttatctcaccaaaag,Microcephaly (a.b.26)
+tcgtgttaaccgagctctactactggtgtaga,Bloom syndrome (a.a.7)
+tcgttgtctgaccttactggatcgtacgtgcc,Di George's syndrome (a.a.5)
+tctaactactttcagaggggccaagtttggtc,Haemochromatosis (a.a.8)
+tctacttattgtgcgcagtagatcgcttctag,Hereditary coproporphyria (a.a.9)
+tctagtcagagaaaggctcttcacgagcctcg,PCC deficiency (a.a.14)
+tctagtctgtgtggttcttggacgttttaaag,Pantothenate kinase-associated neurodegeneration (a.a.29)
+tctatagaggggtcgcgtttgtctagggggag,Weissenbacher-Zweymüller syndrome (a.b.4)
+tctatcgatactcacgtgatacaaaagatcgg,Marfan syndrome (a.b.28)
+tctattcagcagctcaggtggtactgaagagc,Menkes disease (a.a.19)
+tctattccgtctccccaaagcttcagggagag,Tay-Sachs disease (a.b.4)
+tctcagatctacaacttaggaagattataacc,Erythroblastic anemia (a.a.27)
+tctccgcacctgacttcacgagagttaaacgt,Usher syndrome (a.a.14)
+tctgatcttggcattcgctacgcaatttgtgg,Cystic fibrosis (a.b.19)
+tctgcccgacctacatccttcgggacgaagct,Protein C deficiency (a.a.13)
+tctgcggacgggactcaagtcagagcctaaga,Lipoprotein lipase deficiency (a.a.3)
+tctggccgcgccggcacccagtttgctgccct,Glycine encephalopathy (a.a.24)
+tcttcatagtcgttctgcatctgttttgactt,Siderius X-linked mental retardation syndrome (a.b.24)
+tcttccttagttcaaagatcttaaactgaagg,Rett syndrome (a.a.8)
+tcttcgacgctgtgccatcttggcttggatgt,Distal hereditary motor neuropathy (a.a.5)
+tgaactgaggtgcccaaaatgtacatattata,Collagenopathy, types II and XI (a.b.11)
+tgacactaacgacatattcacgtaagccatgc,Patau Syndrome (Trisomy 13) (a.b.5)
+tgacactgcatcgtaaatcgcccgaatcgatc,Hyperphenylalaninemia (a.b.5)
+tgaccggagactcacggaacttgcttatatcc,Prion disease (a.b.2)
+tgactagttgtccgggatccttcaaacgggag,Adrenoleukodystrophy (a.b.25)
+tgacttttcttctgtcggtctacctaagactc,PCC deficiency (a.a.1)
+tgatagcacgcccagtcgagacgatacgcttt,Prion disease (a.b.15)
+tgatgttggccatattcttagtgaagttgcgg,Jackson–Weiss syndrome (a.b.24)
+tgcatgaggaacgggcggatccctaatgtatc,Hereditary multiple exostoses (a.b.22)
+tgcatttgcgtcaatatccttatggccacacc,PCT (a.a.27)
+tgccaaacactaaaaaatcttggaatttttca,Collagenopathy, types II and XI (a.b.7)
+tgccagttcccgacgcagtccgaagtcaactt,Smith Magenis Syndrome (a.a.9)
+tgccctatgggactaacctactactgcgcggc,Cowden syndrome (a.b.23)
+tgccgagttgtccaaggaatgcgtattacgga,Methylmalonic acidemia (a.b.23)
+tgccgatacgatgcagttcgccgctgattctt,Weissenbacher-Zweymüller syndrome (a.a.22)
+tgcgctcagcgaaccgcgtcatatctgatatc,Achondrogenesis (a.a.30)
+tgcggacaatggcgcacctctaggtgacgctt,Schwartz–Jampel syndrome (a.b.16)
+tggaatgcagtcaacctaggactaaactggtg,Methemoglobinemia (a.b.27)
+tggacgcaataactgcctattgccctcttgta,infantile-onset ascending hereditary spastic paralysis (a.a.23)
+tggagacgcaagtgaaaccctagttccctaac,Amyotrophic lateral sclerosis (a.b.21)
+tggaggaagacggtcttgttaaattataactt,SSB syndrome (a.a.26)
+tggaggtttctggtgactggtctttgatgaag,Triple X syndrome (a.b.26)
+tggagtttgcgaacacttgagacatcaaacgt,Muscular dystrophy (a.b.25)
+tggatcccagacggcatgctgcatcgactcgc,Hereditary hemorrhagic telangiectasia (HHT) (a.b.12)
+tggcaacatcacaccgctatccgcacaggggt,Pseudo-Gaucher disease (a.b.6)
+tggcatctgggcggaccgagtgtcatcagcgt,Cancer (a.b.25)
+tggcggtccctaaagtctccaccatagtaccc,Rett syndrome (a.b.22)
+tggcgtcacgtagccctgggtgcgcatggcat,Hepatoerythropoietic porphyria (a.b.25)
+tgggaccgctgcagaaagataccttggaacgt,Spinal muscular atrophy (a.b.11)
+tgggacgtgttgcggtccgcctagcgttcgac,Micro syndrome (a.b.17)
+tgggagtccattcccgataatcggcattggtg,Benjamin syndrome (a.a.2)
+tgggtgttttatgacctaatgaacatctgttt,Crouzon syndrome (a.a.5)
+tgggttcgacgggcttgacacagatactacac,Microcephaly (a.b.17)
+tggtagacattcgacatcaaaaagctggtcgt,Neurofibromatosis type II (a.b.5)
+tggtagagacaacctttgactttagaactgac,infantile-onset ascending hereditary spastic paralysis (a.b.18)
+tggtatgtactatacgtacatatccaatcgga,Protein C deficiency (a.b.12)
+tggtctcaggtcatgcctgatgcccccacgtg,Pendred syndrome (a.b.18)
+tggtgactacgtctggctctcgagagctgatt,Genetic hypercalciuria (a.b.20)
+tggtgtggaacgcgggagatcagctgacgtgt,Methemoglobinemia (a.a.2)
+tggtttacaagaccactgggctttccgcgctc,Ataxia telangiectasia (a.a.4)
+tgtaagatctcgcgatggggtttctaggcctg,Methylmalonic acidemia (a.a.17)
+tgtaatataggagaatgtcaatgaaacagtcg,Rubinstein-Taybi syndrome (a.a.24)
+tgtacgggggttgaatatacttgtatccagcg,Mowat-Wilson syndrome (a.a.24)
+tgtacgtgatttttctcgttcctgggccccag,Pendred syndrome (a.b.3)
+tgtatatacaataggccaatctcatttcctcg,Birt–Hogg–Dubé syndrome (a.a.2)
+tgtcacatctcgccacatgctaacattcaacg,Erythroblastic anemia (a.b.13)
+tgtcgagattgtctttgcgcggggtgagttgg,Polycystic kidney disease (a.b.4)
+tgtctcgccgataccaggcggacatccggttt,McLeod syndrome (a.b.24)
+tgtctcgtaacatgcgagacaccatagggtgg,Benjamin syndrome (a.b.25)
+tgtgaagccgatcgctttgttgacgccgactc,Polycystic Ovarian Syndrome (PCOS) (a.a.15)
+tgtggaggacaactaattcccttaccctaatg,Treacher Collins syndrome (a.b.1)
+tgtgtcacgccactaggatataagagcttgat,Spinocerebellar ataxia (a.b.21)
+tgttaaacttcgcaatacagatagtcgagcgt,Nonketotic hyperglycinemia (a.b.4)
+tgttggctacagcctcgctataaaacttgata,variegate porphyria (a.b.26)
+tgtttcacatttatgcacaggcatggttttta,Muenke syndrome (a.b.14)
+ttaacgtattgcttcgtgataaaggcgtcaaa,Hereditary spastic paraplegia (a.b.26)
+ttaagcatgtgacatcatgaccaaccacgtgg,Menkes disease (a.b.13)
+ttaagtatatcagagtgtcaactctcttggtt,HNPP (a.a.20)
+ttaagtgatattatatgttagtgccaattgcg,Adrenoleukodystrophy (a.b.21)
+ttaatcaaataatgaaagtaaggggtagtcaa,see Down syndrome (a.a.28)
+ttaatgttatggggtatcggctcagacccctc,Chondrodystrophy with dysplasia (a.a.5)
+ttacaaccacgcacgcggttatccgcacccct,Alzheimer's disease (a.b.16)
+ttactggatagtgggaaatctgcgcgtagcga,Pseudoxanthoma elasticum (a.b.26)
+ttagactatcgcacttatataaagaactagcg,Protoporphyria (a.b.12)
+ttagagtcagaggtctgacgacatcgggcaga,Aceruloplasminemia (a.b.28)
+ttagcaacaaagcagtctttccactcatcggg,Gaucher disease (a.a.24)
+ttagccactactgtatcaagtcaatcatggaa,factor V Leiden thrombophilia (a.a.28)
+ttagcgtctatagattgtccccaatagtgaca,variegate porphyria (a.a.26)
+ttatagaacaacaaaggcttgccgaactcatc,Campomelic dysplasia (a.b.3)
+ttatccgcatacatctgtctccaaaccgagta,Di George's syndrome (a.a.28)
+ttattcactgattatataatatatgggactaa,PCT (a.a.14)
+ttattcgagattatgatcattaaatgtaataa,Hereditary multiple exostoses (a.a.30)
+ttcaattaagttcagacgcactctgacgctct,SSB syndrome (a.a.6)
+ttcactattccacggattgcttgattcatcgt,Albinism (a.b.20)
+ttcagcggtaaattaagcgacagaacggagat,Weissenbacher-Zweymüller syndrome (a.a.16)
+ttcaggctagctgtaatccaagcacatctgag,Weissenbacher-Zweymüller syndrome (a.a.15)
+ttcagtaagtgaacgcataactcaggttacct,Cockayne syndrome (a.b.13)
+ttcagtggttaatcggtgtatgtgcatttgta,Lipoprotein lipase deficiency (a.b.10)
+ttcataggcttccttgacccggacaacgtcac,Birth Defects (a.a.13)
+ttcattatgccggctcggtccatgtgcggagg,McCune–Albright syndrome (a.a.4)
+ttcccatacttgccctaaaccataatactttt,Biotinidase deficiency (a.a.19)
+ttcgagtaggagaaggagaaacgtcgaatcgt,Benjamin syndrome (a.a.21)
+ttcgcggaatttgcatacactggacctcctat,Lipoprotein lipase deficiency (a.a.9)
+ttcgtatctatcttggcatagtttgacctgcg,Methemoglobinemia (a.a.11)
+ttctcaaggtaacgactggttgcagtgagaat,Osteogenesis imperfecta (a.b.28)
+ttgaataccatacttatcacctgggtgcgcat,Amelogenesis imperfecta (a.b.14)
+ttgagtgaaagaaatacggagctacctcttcg,Cockayne syndrome (a.a.26)
+ttgcatcctcccgaagctaggggctacctccc,Marfan syndrome (a.b.19)
+ttgccaaggaatcgagtgtcggctatgattta,Mediterranean fever (a.b.6)
+ttgcccgttgaccggatcgatcctgaggcgat,Neurofibromatosis type I (a.b.16)
+ttgccgctcatccttattgatggtcgccggta,Rubinstein-Taybi syndrome (a.b.2)
+ttgcggccccccgccttagttgaaggtacgat,porphyria (a.b.11)
+ttggaaacttctgacgtactttgtttagtcct,Pendred syndrome (a.a.10)
+ttggatgttgcgccatgagatcatggccctag,Strudwick syndrome (a.b.15)
+ttggcggtcgccggccttacaattgccagcat,G6PD deficiency (a.a.7)
+ttggggttatgtgaagatggcattaaggtacc,Kniest dysplasia (a.b.3)
+ttggttcgaattctgagtctacgaataaattg,Harlequin type ichthyosis (a.b.3)
+ttgtataatgctcatggacctgcgcatgttgt,Albinism (a.b.25)
+tttaaaggcattctattcgggaaactatatac,Di George's syndrome (a.a.24)
+tttaataaaaaaccgagacttttcctacccag,von Hippel-Lindau disease (a.b.15)
+tttacgttatctcgtagtcaccatctactgcc,Lipoprotein lipase deficiency (a.b.21)
+tttccagtcagttggtcctgaaaagtcttaat,thanatophoric dysplasia (a.b.8)
+tttccattctaagcctttgggagttcgtatac,Distal hereditary motor neuropathy (a.a.9)
+tttcgtgtcgctgcccaccgtctcacaatgtt,PCC deficiency (a.b.8)
+tttctgaggttcagttctgaccttttcgtaag,CPO deficiency (a.b.27)
+tttctgcggttacaggaaagtatctatgaggc,Crouzon syndrome with acanthosis nigricans (a.b.15)
+tttgaaggttagcaagccatccagcggccatg,Niemann-Pick (a.b.18)
+ttttacgtccaacttgattttgcgagaacctc,Cystic fibrosis (a.a.6)
+ttttggcattagggactccgaatgcctatctg,Hemophilia (a.b.22)
+ttttgggagtgagtacgggccgacaacaggga,Birt–Hogg–Dubé syndrome (a.a.3)
+ttttgttggaggtacggacatacataccgttg,Acute intermittent porphyria (a.a.6)
+# Number of genes in patient's genome:
+1000
+aaaacaccagtatacgcggctgtcatattttg
+aaaacgtgctgtaggcctgtgaaagggtgggg
+aaaatttttgctgcaactttccccccggcagt
+aaacaacataactgagctcgaacagccgggtc
+aaacataatttattgcatcgactcaacacagg
+aaagcatgagcgcccgtcctcagctgttcaac
+aaaggacctaggtgttacccaagcaacagttt
+aaaggtactgcctgccatgcacagaggtgatt
+aaatatgtaatacctaggggtaccaccacgtt
+aaatcacgcacaggctagtcatgcccgcgcaa
+aacaaagcaaattggctgcgcgggcctaatgc
+aacaataacgtccgcagaagtacctaccagtg
+aaccacttggggtctaaacgtcggcgtgtagg
+aaccataaaaggtggctgatatctactgaacg
+aaccattccttctctatacttcaaatcagtta
+aaccccccagcgaacacaggacctgattatag
+aaccggtacttgtgtgtcaagcaggttgcgaa
+aaccgtcatactcgccagctcggtccaggtcg
+aacgaagcagttgttattttagtcctgttgca
+aacgcctgggagcgacgatggcgagaggatca
+aacggacgttcactcctagcgatgtagcagtc
+aacgtggatcgcgtcctgctgtgattaactga
+aactatcttagaaccaaacgagctccgttagg
+aactctcgcttgctttcggctatacgcctgtg
+aactgatcgcgaatatcctagatttgttcacc
+aactgcgctatgtgaatcggcccgagtggggc
+aagagatgtaccaataagctgtcggcgagcta
+aagaggcttaatctgtataataatgcgcaggg
+aagatagtcagtactagcactctgtattggtt
+aagcacaagctacagcactggggctgctcaaa
+aagcacgttccagtgctttgataacgcaaggc
+aagcatgcagtcctacaagcaagctaccccta
+aagcccaggagctcttcccacgtaccctgggg
+aagcgctctgtgggaggctaactctcgagaag
+aagcggattgcagtgacggatggcttatgcgc
+aagctgcgtgtgtccgactatctgtcgtggat
+aagctggtgtgattggctgaagctacgcacta
+aaggacacttacagacgagtccccacgtgcgt
+aaggcctgatggtggcaagccccaggtgtgtc
+aaggctagttccaacctcgagagcgggatgcc
+aagggggtcgatgtcgtatatggtttactagg
+aaggtagaaagggccgcgagcgcgctcttact
+aaggtcgtcaaggaagtactttagttgggact
+aaggtctaagaggatatgcaactcctacgcta
+aaggtctgaataggtccagaatctacgagaca
+aagtactgagtagtgaagggtagacccagcat
+aagtagacagcggcggctttaggcgtcatgcc
+aagtagagagccgtaggtaatggtcggcatgt
+aagtcactgaacaatggtcatgctatgccact
+aagtgaaagcgatcttagtggaatggctcaga
+aataaccgatgaagttctcgtactaccggcat
+aatcagcgatcctatggtcacattccggggtc
+aatcccatttcagctggctgcgtatgcgttat
+aatccccacaacactacggccgcagtctaatt
+aatcccgctagctacgtaagtcccttgctacc
+aatccgatgggcgggtaatattcttacccgtc
+aatcggacgaaaaggtaatatcatcgaggtga
+aatctagcattggggctttatgtacataatac
+aatctggaggaaagggagcagtaaagatcgta
+aatcttaactttccgagtgtgccatcacgtat
+aatgctccgcggaagaaaactattcgcgtgtg
+aatggcctaaaatgccaggagtacaccgcgtt
+aatgtatgggggttgtgacaacgaaaagtatc
+aatgtctattagggcaagtatcatggccacga
+aatgttctcatttgtgaatgtcaccgtttggg
+aatgttgaataagctataactcggttcactac
+aattacggtcgagcagagtgtggatcaagaca
+aattccaccggggtcatatggcgctaggggtg
+aattcgttgtgcatcaggtcgctttgcacatt
+aattgtgatcttacctgcattatcggacttca
+acaaagggcgtcgaactttcacgccacccatg
+acaacatgttaagcccccacaattggcatccc
+acacaggatctccttttgtgaggttgggaggt
+acactggccaggtatgcagctcgtgaacgatc
+acagcaggggtgattttcggatgtcaacgccc
+acagctggcattttaatcagtaaagttaccaa
+acagtggcgaaccgtaagcatgtccgacgccg
+acagtgtatctcgacactccgattattattgt
+acatccgccagatagatctttctaaggttacc
+acatcgggccactttggacccctggtttaaat
+acattttagataaactgtaagtgcttagtggc
+accaaggctcagaagcttagggcacgtatgcc
+accaccaggtcggcagcaggatgtgtgcagat
+accagatgacaagtttcccaaagatagatgtt
+accattggttttcgactgaacccgggttgaac
+acccacaagcttactagggtgttttctcaaac
+acccactataaaatttacccgggctggcaaac
+acccgcgaaaatcctggccggcccggtaaccg
+accgcactcccaaccatagattcgagttgctg
+accgttccaacgtcgatgctacgacgtttacc
+acctagcgtaggttgacgcttctccctggtct
+acctataaactcatgcgcaccctgcagagccg
+acctcccttgccataccatgtgatatctggcc
+acctcgtatgcacctgtccgcattaatagcta
+acctctttattgcacactaataaagcggttcc
+acctgaaaccataatcatagcaattcccacct
+acctgcacttgcgcaattgccttggacccagg
+acctgtatttacgcgctatggatcgattggag
+accttaacagattacttcctgctcagtagcct
+acctttgccccgtacgatcctaagtacaagtc
+acgcaggatagagaccgtattagtcgccacgt
+acgcctccattctaactaggactcccacctac
+acgcctctcacggagtgtccctgcataacaca
+acgctaatcccgactagtgcttactgtataag
+acgctgtgtgcctggccttttggaaaaggtct
+acggcatccgaattgaggagagactcgcatga
+acgggctgaaatcagcacgacagggtgctaaa
+acgggttatttgataaagtgtactgcttacat
+acgtcactgcaccaccgttgttgctcaaacca
+acgtcctatgtcatgttatcttcgcttcaatt
+acgtctattcgtctccttaaattcgactagtc
+acgtggcctcacaagttaattcatgacccgct
+acgtgtgagagctcaatattctgggagtgctt
+acgttagtttctgtcggcctggagtttcgcgg
+actaaacagtccctcacgcttggtgctatgcg
+actaaatcggaagagagcatgtagggttcgac
+actagaatgtcagaacatgctgtcagattaaa
+actagtaagttggggtatgagactacgattcg
+actatagagagttagggagggccatgcattct
+actatggcggctcggccgggagttactctatt
+actcacctgttgaatgaaggttttccgacttc
+actcaggtacagattagggaagcaacggatac
+actctgaactgacagtccgggatcgaagcgtc
+actctggagccatcaacggcccagtatgggac
+actgcgcaaaagtacaatggtggtgacatcgc
+actgcttccgggcacccaccattctaagctct
+actggatctgagacttacgctcagggccgcct
+acttccatgtttcatatgaacgaatcactgac
+acttccgctccgcttaacagcggccactggca
+acttcgatatgcagaaatgagggggcggcggc
+acttctcttgttagtcctttcatacataggcc
+agaaatagtccaaaactcaacgaaaagtgctg
+agaacggcaacccgtgtcagagagggcagaca
+agacagtagccagcaaactcaaacccaagggg
+agacccgaccaattggtacgttcgccaaggtc
+agacggttgttctgatgccaagctagctcata
+agagagaggggggaccatgtcttctggcacga
+agagcaataacgccacaaggatacagtcatga
+agagtgaaggatagcattgagttgatgtacac
+agagtgtaggacattgctcctgaaagcggaca
+agatcccaatgtgccgtaaccaacgtcgcaag
+agatcctatgttgcctctgttggacacatagg
+agatgctgtaacgatcacatgaatgggcgagg
+agattcacgtggatccccaagtgtggggggga
+agcataacccaacatattgcgcgatcatacca
+agcatacgcacctcgaatcaagatagcatttc
+agcctgaaggagggtactattaagttgcccct
+agcctgactcggctgggaccacgtagcagccc
+agccttattgtcagacacagcttcgcttgtct
+agcgcataattcggacccgtttcagaggtcac
+agcgcggccacagcggggggtccaatcttcat
+agcgctactggtctagcaaaacaatgacagca
+agcgtccgaaatacggcggttcaaagctgtac
+agcgtttttttctggacccgcatcagtagcga
+agctaaagtgatgccaacgtgcctgcgtctac
+agctatcagctcctgttcaatctgtggactca
+agctgaccttgtcggctgtgccccaaggagga
+agctggcaagttgttgaccgaacgtctgtatc
+agcttgtttaagccatcacttgcgagccgact
+aggagcctggctgttcgtgcgggtctcggaga
+aggatagtgcttaggagtccttgacgcggtgg
+aggcaagggcgagtcaataaagattgctttat
+aggcccgccggcgtttcatcagcaccgagaat
+agggatcttgcggtccgtcgataaacatctgc
+agggcaagtcaataccgcgtaatcgaggcctt
+aggggatactcactatcccctgtacgagcacg
+aggggtatagagctttctcaaaccctgtgaat
+agggttcccggacgctagctatcactcgcggc
+aggtaattaaagcacatgagttgaagtaactc
+aggtacattatatgcgccgcgatagacacctc
+aggtagcgaaatcatgccgctgcgcattttcc
+aggttcccggagctagtaaatgcggaatgcaa
+agtaaggtagtggagcatctcaactattgcgt
+agtaccacttatcggtgcgtggcctggtgggg
+agtactagtctcgcacgacctcgtgtctaccg
+agtatcgcctccgtttcaggtccggcgtctag
+agtcatggatcgtcagtctcatcaattactcc
+agtccggcaacggcgaaacagcgcggttgact
+agtcggagaatctccgtatattgacagcgcgg
+agtcgtcgccaaagaagtcgcctgggaccatt
+agtctgatattgcgcagagataattagttcag
+agtggcccagacgacttgctcaagcagaacgg
+agtgggcgcggggtctcctattatcaggccgg
+agtgtcacctaaagacgtcgctatccattttc
+agttcgggattaccaaattccacccctagttg
+agttcggtactaacggctctccgcgttgcgtc
+agttctggaagtgatatggatcagtcccatat
+agttggcattaagcttctgtttggtaacggtg
+agtttgagacccggctgtctaacaggaacgct
+agtttttaccgcgctttcgtcctgttagttag
+ataaatcggtcggactggtagccaagtggtgc
+ataagaaatagcagcatggggcgcaactgccg
+ataaggtaatgggaacttatgtgcctttaacc
+ataattagccttctcgcactggtggacggagt
+atacagtggacgatttatttgtctagaaatca
+ataccgtttgagcgaatgcgacaacgagatgt
+atacctcctaggcaaggatttcgtaaattagt
+atacggagctatggtgatgcttacgtctaccg
+atagatttgatcaaagtgcccaggcctaagaa
+ataggtggctggattctattcaatgtagtgct
+atagtggttccgactcaggtacgccataaagg
+atatcacagcctcccataagacggctcgaaat
+atatccattgcggggttacgcaaatctcaaga
+atattagctcgatacaggggtaatttcggtgc
+atcactacagaactcacttaagatgttgtcat
+atcactccaaggtataccgcggaagcagaaat
+atccacgacgacgctgtctttatcgattacgt
+atcctataggccgcgcttcttggtcgagaacc
+atccttacggatttagataggctggtacttat
+atcgcgtagtgttatgataactgaatctcctc
+atcgtaggcagaatgcctttggccttagggtc
+atctaatccggtttggacacagggacccgtgg
+atctatccgaggttgcgttcctcggcttagaa
+atctattccggcttcacagagctttatacaga
+atctccagggtcgctgcctgggtcgcatcgct
+atctgtcgaggccataaagctagcattttcga
+atcttatgcccagagataagaggagatagctg
+atcttctagtgatggcatattcaactccggcc
+atcttggagcttttattggacggacaaaggaa
+atgaaccatcgggtcacgtcattgtcaatcct
+atgagcacaaaatccacgcacgtcaagtcgtc
+atgaggctggggcgcctattcagactgcatgg
+atgcctatccctataaacacgatctcattaac
+atgcgtaagcaggccgggatcctgcccgagtg
+atgcgttgcatacaatgcagtcatacatgtct
+atgctccgcgtaagacgtagtcggatggcttg
+atgggactcgttatttcggaaaaaggtagcag
+atggtcgggtggttgtttacccttaccactaa
+atgtcactctacttcgatttagggagctgggg
+atgtccttactgtaccgatagcgaacttcagc
+atgtcgctacccatgcgttccttgctcccact
+atgtcgttgtgctgcgttccatcacggcacgg
+atgttgcaactcgcagtcggcatgtttgtcac
+attacatgtcgaacgagcttttaacatttagc
+attacgattctttgacagagtgtaaattacaa
+attcaactcgcgtcaagggccgatcgctcgac
+attcactgctccatagtaagcatgacccgacc
+attcataacgaagggtcatacttgctatagga
+attccccatcgcggaatcgcaagcccactggc
+attcggtggttgtaagcacgatggcatagggt
+attctccggcgcgcgagctctttcacatatac
+attgaccattgtggactgactattttgaagcc
+attggagcgagacgatgagtcctccagtgtca
+attggagggtgtacgtctacgacgtatgacag
+attggctagtcgcgcactcgtggtgagaactc
+attgggttgcgacgatcgtagaggatctacca
+attgtcgcaatagaccggagtgctgtttttac
+attgttagaggaatcatcgggagatacattca
+atttatttagtaggtggggctcctcggtagcg
+atttcgttccacctagccaagctatactctca
+atttgagtggtggtgccttggccactatgcca
+atttgcagaggagccccagggcacgagacatg
+atttgccgggctgataggtatttaaccgacgg
+atttttcaagatgttatgcgcaaaccttcatg
+attttttcccatccaagcgtggagagagttgc
+caaagcctaactcaccattcaggccccccgtg
+caaaggacacctgttgcgcaccgcgtgcacac
+caaataggatccaataaagactcatggtcttc
+caaatttccgctccgacgtaggctataatgtt
+caacatccgttcgatatagctcctgtacgtat
+caacatctcgaatctgagtccacggagcggga
+caaccctcgaattggtcgaatcccgagtgcct
+caacgccgtacgatgcccaggctgatgaggct
+caactatatcttcaaacgacgagacctgaaca
+caactcatgctgcaacataatctttacggtgc
+caactgagggagatggaggaaaacggcgcgag
+caagaattgcatccttccacaatggccgtatt
+caagcctagctgaaccatatcatacctctccc
+caagttaaaagacaaaaacacgcgttattggt
+caagttccatttgtgcggcctcaaagtgatcg
+caatagccaagccaaatgtcgtcgcaatcgtg
+caatcctggcaaggcttagaggagggccagat
+caatggcagacgatggcctagatgcaatgtta
+caatggtatctattcttatcccatactttaaa
+caatggtcgccggcatggtccggtcatattta
+caattcaactctaatattagcgcggtcctgaa
+cacacatgccaaggtgatagggcgccactaca
+cacacctgcgcgacccattgccaaggcttata
+cacactgggttgtaggcaaaaaggcaagtaaa
+cacataagataagtcctgtaaacagtctgatc
+cacataggccaggagcggccttgtcgaaaata
+cacatcaaatgtgggggcatcatggtggcgga
+cacatgcgatgggctgtataacgccaggctga
+caccacgttgtcggtttttctggcgcgaggaa
+caccagacgcaatcagtgtcttacgttcgtac
+cacccaaaatcaacggttacgctgtcgtagaa
+cacccagcagtgccgtgtaggatctatgatac
+caccccaactatctgaccatcattgccacttt
+caccgagattcgcttcaccaacctgaggccat
+caccggtaagaccgtcgcaaagcaccgttcga
+cacctgtggcgcaatttgaggtttcccatgga
+cacgagaggtctcactgcaatcattcgattct
+cacggaacgagttcacgacaacgaacttgata
+cactaggcactaggttggcactgtgttttccc
+cagcaaccaccggcgcttacgtaggacttgtc
+cagcagtgctggcactatcgacccggatgata
+cagcataacgcaatagtaggacatcactaccg
+cagctcaatactggttcgattgctcgcggttc
+cagctgtcattcgcaaggcggagacccgtccg
+caggcgttatatcggttgcagcgtgggcgaac
+cagggcccacaaccgggtggcacggatttaaa
+caggtagggctaccgataccgactagggtagt
+cagtcgcgctacgtcgggttgcagagcatgag
+cagtctcgcctactttggtgatgatgccgcta
+cagtgtacagcacggaagtcactccgggacct
+cagttctgaacctacgagcgggcctggtagct
+cataccgacactttttgttggtgaaccatgat
+catagcagttaaatttttaccgtaaaccaaag
+cataggttaaatggtaacaggtacgcagcggg
+catccttcgaagctagagaacgtctagggaga
+catcgaggtatagtgagcagtcgatggacaac
+catcgctgaggtacatctctcatgccgacaca
+catcgtttcggacgtagtgtcatgaccgattt
+catctattaggacattacggaggaccaattaa
+catcttgtgttataacgggccgtgggtcaatc
+catgaatactggggtttagtggtctaagactg
+catgacgtgtcattgtttgaaaacacatactc
+catgcaaacgaagctgctcatcagtacacttc
+catgtgaaaccgatccgtggacaatagtgaga
+catttctggaacgacagagtgcaccatccgtt
+cattttctaagttgatcctaaatctatccata
+cattttgctaaggcgatctattcgacacgttg
+ccaactgtctgggccaacagctcaactgattt
+ccaaggccatatcaccttcgcccacctttcat
+ccaagttgttccaggcagtgtctctgcaaaac
+ccaatatttgagtcacgttcggttaacttcca
+ccacgccgatgcctttttctgagctcatgctg
+ccacgccttccgggggtaaacgcacagcgaag
+ccacgggcacgccgattatttccactgcggct
+ccactctcagcttttcctacggcgggcgttcg
+ccacttactataataggtttgtagatcgctag
+ccacttccttcctagtttaactggccttaaag
+ccagaagggtataggactggactgaaagacgc
+ccaggcgataacgtcttgtcaagggattagct
+ccaggtctcttatcgcgtccgatgaaagatgg
+ccatcatgatgacgggagcactaagtcatata
+ccattcgtccagctcctggagtttgatcgacc
+cccaacaacatgattcgttcaccgctgttctc
+cccaagattaacttccccagtagctaaccaac
+cccaccagtgccctgttcagtgttcgaaatta
+cccacgccacatgcttctatgattgcgcctca
+ccccaatgagtccgcaacatagcacaagtcag
+ccccactgcttcgtgtcagtgacgattttatt
+ccccccagtgttttgttccctcttcgagttcc
+ccccgtgaattctcaactcaaagtttggatgg
+ccccgtgttataaacccgactacactcccgga
+cccgtggggggcgtgatctggggctatgctac
+cccgttgtctttgggtggtattggagaattca
+ccctattctaacgacttgcaaatgttactagc
+ccctattgaagaacggtttctcgccctcagtg
+ccctcctggtgtcgcgtgggggtcgataaatt
+ccctcttctgtagcgctcgctttgctactctt
+ccctcttttccagttcaagtagccgcttcatt
+ccctgtcaacaacgctccggaccctcggaaag
+ccgaacaataacagaacgatcatcacttagag
+ccgagttcagcctaaagttggggtgcgggtca
+ccgagttcctcatggcgggcaggtgccgctcg
+ccgcagaagtagccttgtttcgccgcttagcc
+ccgcagaggcctagggaggtctgattaccccc
+ccgcataatcacgattcaactcgtgcattagg
+ccgcatctgagatcgctcacacgctatggacg
+ccgcgtccgacctcaagtatgctatgatttta
+ccggcccatgaccgagatatactgtaacctgc
+ccggcccctcatatagatcgagagtcctggtg
+ccgtcggtcggctattggttccaccgagtttt
+ccgtgatgatggttagaacagtcgaacctctg
+ccgtgcgtcgcaaggacaaccctcaaaagcta
+ccgttcgggtcgtgggacgcgggctaggtctg
+ccgttgaataccaagtggatggctcgtcccgc
+ccgttgacgccagccgcgccggttccatatta
+ccgtttatgcgtttctataggaactcacccaa
+cctaacacgatctaatataatcagcttccgcc
+cctaagcttttatggggctgtattgcggatac
+cctaatatcaaaggattgcgcttgagatgtgg
+cctacgccctcataagttttaatgatgacgct
+cctacgggtatcattaagcaacagggcccctt
+cctactggccgtttctaacgtatcctctttgc
+cctagcgactcgtcgagcatcgtaaactagac
+cctagtaaggaaggcgtgaaacgatgtcgggc
+cctcatcactcatttgcccgttgtgtagcacg
+cctcgcggaacaagggcaaacatatgacatgt
+cctctgaatctcaaaatactggcaaggatgtg
+cctgattcaaacagagtcgcataagccctaag
+cctgctagtgactatctcctggcgcaaccaac
+cctggacagtttaaacggccacagaattgtat
+cctggggcaagatcttatctgcctctacaagt
+cctggtctcgcatacctgccaggcgtggcctg
+cctgtcggtatttgtccatcatcaggatacaa
+cctgttaccccggaatcgcctgacttccccga
+ccttacgtagccctcagcgactgggtatagtc
+ccttagaataccatcataataggcaagcgaaa
+ccttcgggataagttcgaactcaataagtatg
+cgaaagtagggtcactcccgaaggtgtaccat
+cgaacacacatttaaacacttgttggtaaaag
+cgaacgctattgtcaacatagttaaaggtagg
+cgaagatctaatgctctaactgtgggagttcc
+cgacacaagaaccccctgattgtggacgaaca
+cgacgatgaagtgcgaggcggccctaagattg
+cgactcttacccagattgtcagatggacgtct
+cgagactaggcgcaggtcgatcgttgctgccc
+cgagcccccgtgggccgctatgatggcgcacc
+cgagcctggtattagtcgtttctagaccgtca
+cgagctttggcttcgaaaccgcctttcatcag
+cgagtccccagcactacgggattcttaggacc
+cgagttacaattagggggccttacagaccaag
+cgagttagaacccaacggaaacggccgttcag
+cgagttgaggtgcactgagggtcctggttgat
+cgatagcgcaaacgtttaatccgcaacgtaca
+cgattccttcatatggaagagggttcgcgaga
+cgattgtcggtatagcgggtagacgacaccac
+cgcaatttttcgctaaatcggggcgataggtc
+cgcagaggattgaacatccggatgggtgatca
+cgcagctgactcctctccacctgttgttagca
+cgcaggtgtttcagtacactccgcccggagct
+cgcatccaatcagtggtcaacttaatgcccat
+cgccaaattgtgtttcgccttgggtaggacct
+cgccatgggttacagaataacgacaaccatta
+cgccctaccactgatgaggtgacaaggcggca
+cgcgcatgtgactgccacagcatgggccgatc
+cgcggacgggtgctttccaggaggactagcta
+cgcggcttcagtctggtccccccgcctcaaaa
+cgcggggtaagtttgtcatgagagcaatgtga
+cgcgggtaccgctaaccagttcagtagaaaaa
+cgcggtcgcgaggacctagaagtgcatggttt
+cgcgtacgatggcaatcctcgtgcctagtatt
+cgcgttgcccgtaaggtaatacgaatcagtac
+cgctactctcactttctgcaccatgtcccggc
+cgctattgcactcttcaggacgagaatgtatc
+cgctcgcgaagagcgttcggcccgctcgacga
+cgctctctagataagcttgctaatagaagcac
+cgctcttgccatcgcgggataaagtccgttgc
+cgcttgtaattggcccgtacgatctagcttac
+cggaacaattggcctaaatctaccgcggtatg
+cggaccgcgcttggccatttctatagtaatcc
+cggagacatgagagttcggtttccacctcgag
+cggagtgtgggtggccgacgatcgtagatgag
+cggcgtaactagtcgcttgccccagcacccct
+cgggagctcaacgtgggtggcatcatcgttcg
+cgggcttggccgtgtctcagaggagtactgta
+cgggtcttcccccctatacatcctctttacat
+cggttaataaattgccgatttcactcataagc
+cgtagacagactcatacgtgccaaacatatag
+cgtcatgcagctaattttccgataggtgtcct
+cgtcgagttaaaagactgcgcttaggggctca
+cgtcgggagtgattcaaacagaactaatgtta
+cgtcggtttataccagaagtgaggctcagtga
+cgtgacaaccccggccgtcgtatcgaaaaggt
+cgtgcacagaggcccttattgacgatacagca
+cgtgggaactagtggtaacctcgcgtccgcgg
+cgttaaggttatgctcacccagtgctacagcg
+cgttctcatatttggtgcgtcttagatccggt
+cgttgctccttgtagaaggtggcgctgcgaat
+cgttttgataacttgccgacatgaggaggtta
+ctaaatagcggggatgcgtaaattcaatcaat
+ctaaattcctgttcatccttgccgttataggg
+ctaactacatgaaggtccccggtataatgcgg
+ctaatacttccacaattgagcacaatatggcg
+ctaccgcctcttcggagtttctggaacaatga
+ctactacatgaatagcttaacaatttatacta
+ctagcccgtgccgactcggttgtcgatcatac
+ctaggaaaccgaaggaacatctcaacgcacct
+ctagttgcgatcgccccatccgtggtaactag
+ctatagcctctgacttgcgtcaacagcaccat
+ctatagtctccattggtgaccacaacccgtat
+ctatcagccactgaccaggctcatcccaagtt
+ctatggcttacgggttctgggaagtgtaagac
+ctatttaagccgaccatcggaaaccggcgttc
+ctcaatgttccttcaaagagatgggccaagtg
+ctcagagactatttgcaaatttaaacgacaac
+ctcatcggtgttttcggttattcaaggtcggt
+ctcattatagctatcgtctgtgttctatgccg
+ctcattgcagcttagcctaggaggagcagcgc
+ctcattgtaaatcattgcccctgaagtatgat
+ctccaattatcccggagcgcactctgaagacg
+ctccacataaagggcaccgtctctaaatagct
+ctcccagtatactaacgattaatcgggatttc
+ctccgtatcgttgtgtcaatgacattcgctcg
+ctcctccctcatgattttaaggctggggtccg
+ctccttggcctgctcaaactgggcaaagtcgc
+ctcgattgatctgtgcctctagagaaactcgg
+ctcgggcaaatctacgaaaacccataggtgta
+ctcggtagcatgtgccagaagctaaaggaggt
+ctcggtatgaaagccccgaaatacggctaggt
+ctctagcgaatccagtcatttaaaacgagacg
+ctctcagtagaggggcttgggggtcagcattg
+ctcttaccgagctatcaaattcgtggtcttaa
+ctcttgagcaaaaattcggcaatattagcaca
+ctcttttatgaacactctaatagaggagcaag
+ctgaacgcagcgagccttcatggctgggttca
+ctgaagacgcacttactataaggctgggcttt
+ctgcactgggtgggtcttcggggtgttacttg
+ctgcagatgcgattctcatccagtaccctgag
+ctgccccgttcactgcgagtacttctcgcgaa
+ctgccgaatattaatgagggcataaaacccac
+ctgcgtcggttgactagaaaagtaggcaagaa
+ctgctagtacgtatcctggtctaacctagaac
+ctgctcgctgacgctcgtgcatgttcagggca
+ctggaacgggtttgttgcagtatgtttgcctg
+ctggcttgccccctcgtttttctggtttaaag
+ctggtgttcacacgccttaccttaggggaaat
+ctgtattagacctcctaagaacggttaacaag
+ctgtcacccggagcgtagccggagcggagagc
+ctgtgacatcatccggtccccataggcaactc
+ctgtggtacgccggacttaacggggatcattt
+ctgtgtgtgattctatgctgatcagtatttct
+ctgttgcatgatagcaggattattcagcaact
+cttaattagaacgggggaaggaccagcaccga
+cttagacgatcagattcctagttcgagtcgcc
+cttagtccacgatccggggattgactttctaa
+cttatgcggcccatgcagtccaagtaaaatac
+cttcggaacgaagtttcctcattcgcaatgac
+cttgaaataatgtacctgtaaccaattgttac
+cttgatcactacgggacagatccagggacagc
+cttggtgaagtggcgcgagcatatgcgcgatt
+ctttccttgactgattctaacccggtgcagga
+cttttcccactaagctcttgtaccccttcccg
+cttttcgacttaaatgaatcggtatccctcgc
+ctttttttcgagtccatggtctagcaacagaa
+gaaaataccattttcgaatgccgggagcgcag
+gaaagggtatgtgcacgccagtacgacgcact
+gaaatgccggagcgcaaaaaagtacaggttgg
+gaaatgtacatgcaggtcaccatttaatacat
+gaaccgagcggggtttagaatcgggtattcct
+gaacttgctgtcgcgaagaacggaaagatcaa
+gaagagattgcaatcataacagttctagtggg
+gaagattggccaggagtacaattatgatggct
+gaaggagcttaactttgtattaacgctcgaat
+gaaggcgcgaactgaataaggccgtctcgcgc
+gaagtttgaggcggccacctatactgaggagc
+gaatactccaggagccgggcgtatgaaaaaaa
+gaatggcattcgcagtaccactccggtgatca
+gaattttcttatgtggtagcgtatccggttac
+gacaaactgagaagaatgagtggcgacagcgc
+gacaaagtgtagaaatccagtttctgacagct
+gacaacacgcaaggatttatggatttcaacct
+gacaaccaatgtctcgcctgtagcttggaacg
+gacaacgaagcttaaagtgtgaggttttctac
+gacaagccaacccggcgttatcgcccgtggtg
+gacaatgaggcgagcccacgatccagtctctc
+gacaccgagaagaagcgcaatgcagctttgcc
+gacattttctatccaatgcggtccacctgtaa
+gacctaactcaaggccatttctcccggccatt
+gacctagggcgccccggctcgaacgctatcag
+gacctagtagtcaccggcccaggccacttatg
+gaccttcctggcacggcgtcccgtggtgacac
+gacgtacttgtcccgataaccacccctactcc
+gacgtcggcacgatcaatcctgggcaaagggc
+gacgtgttaaactaggtaccaactgtgggcag
+gactaagtgcgctcgtgacgacaggattccac
+gactcacccgctagtgtagttagactaatcca
+gactcagggggcggagttctcgagcgatggcc
+gactggagtggaactggcttttgcgacctggt
+gactgggtcggtcgagcgcttccctcccggcc
+gagaattggtccagcgccgctttcaagacgag
+gagacgaagttcgtgcgtcatcctgcaggtgg
+gagacgctacggtctcgtgagcggcccgtgag
+gagagcttcacgtgatccgtgcatagatctta
+gagatcattcgttagaatctcgggttgattcg
+gagcctagtattactaatccagatatggaaat
+gagcgttcaagcacatatgtagtcaacaataa
+gagctatgacgggaattagagtctattcgtga
+gagctggataggcagggtgagctgctttagaa
+gagcttgaccgcaactggggggtcagctgggg
+gaggagagctctgctgtgattaaatcacactg
+gaggcaattggcgtgcgccgttgcataggtag
+gagtccttgcgcaacccccgagacaacgttag
+gagtcgaaggaaattgcctagccgggcctcaa
+gagtcgataaccagtagttgcttctcgcggag
+gagtgcctcgagtccgcaagtttatttaattg
+gagttatcgcgtctgcgataagtgggggattc
+gagttcacaaataaagttggcagagcattacg
+gatacataccaaatttgctacaatggacgtga
+gatactggatatgttcacacctaataagattc
+gatagcctagctcagagctcaggttgcagcgc
+gatagcggtgctactctgatgattcagaagtc
+gatataacgaagagacccgaaggaactgcgcc
+gatatgatagcaaataccgcggaggcctctgg
+gatatgggcagtccgacttgacacgacgcctg
+gatatggtactaagtttaatcgtatttgtggc
+gatattggtctccggtttatcttcagagtcct
+gatcagatccggccaatggaaattgctagtat
+gatccgggggatacatactaaccagctggttt
+gatcggaggcgctaatctccaatccgacaaac
+gatgcttgtggtgaatacttcttcaccttgac
+gatggggtgtttccttagcccaacgtgctact
+gattacgcatcctgagcaatcaaatttacgag
+gattcgaccgcattgcgattgttatgatggga
+gattctgaattccatctaacagtcgttgggcg
+gcaaaacaacggaccctagagtaatactacag
+gcaaagctttcccctcatgaaccgaaatcgaa
+gcaaatacacgttcggtctatttatagaatgt
+gcaaatataaccaaatggttgaccaactcaca
+gcaatcggaaatcaacaggttcaagtcgattt
+gcaattataaggcgttctaagcgatatcacgt
+gcaattttgctggtagctgtctagtggtcgga
+gcacaggtcctaaccgccctcgggcgatggcc
+gcacgcgacaaatgtgctttgttgttttgggc
+gcacgtctaatatgtcgatgtacctagtaatt
+gcactgagctgcgatcaccaattgtttcgtcc
+gcacttggcggaatggggtgccaccctgtgtg
+gcagccatcgggttattaagtcatgaggtaca
+gcataagccagaattctctacataagtgcttt
+gcataggtggtgatccgttctgtaagatgcag
+gcatcactccgtgtcagaggtgtggcactaaa
+gcatccgcgcactggcttcggagaagtggcag
+gccaaagcaggcggagcaatcgggatgactac
+gccaagcattctaggctgagacacaattgggt
+gccacggcccagtggtatatacatggcgattc
+gcccaaaaagtcacttttctggaactctatct
+gcccaagggggaactgctcgcttggattctct
+gcccaccgagggtagacccgcgatgatatggc
+gccccataaaaaacaggctgctacaaataaaa
+gccccctaacccgtgtcaggttctcgtgtatg
+gcccctaatggatacaaggcatcaaacccctt
+gccctaaatgcacgagaacgggcaccaccacc
+gccctgtaaatacaagacattggaaaatgcct
+gccgcaattcaagtaaaagaagcgcatgctat
+gccgcatctgcgttcacttcccgtgagtggtt
+gccgcgggaagtaagtccgtgaataacatgca
+gccggccggcattacattttgtacttcgggaa
+gcctcctcttgggacccatttttaacaaatta
+gcctctcgtttccatatttccgcgctaacgtt
+gcctggatttgcttgcttttcaccgcgaatat
+gcgaagacagggcggtgaactttgagggttgc
+gcgaccaagcccgagtaacaactgcgtaagat
+gcgaccgagttgactggtgtaggagcagcagg
+gcgagatgttcttagaaattaccctcgaggca
+gcgatctaactcgaacgaccagagtaggttac
+gcgatgggttattctcggctggtgtatacaca
+gcgccgtaaatgttcatttttacactcggcct
+gcgcgcccttagcgagataacgctctggaaca
+gcgcggggacagcgtaactaagttaaaataag
+gcgctcggtcgaccacaagatctatcaaacta
+gcggagacttcctcaattgtctttgagacata
+gcggtccgatagtcaatgcatcctgcagtgct
+gcggttgtggtgattgccacgtcttaccggag
+gctagccttgccctacggaaaaacggatacat
+gctagctcggcggagcggacgcttgtcgggcc
+gctataccccccgttaatccgacgctaaggta
+gctatatataaggctagcactcgttacacact
+gctccactgatcgttctactggcgtcctcgag
+gctcccaccgtgagatggccaagtaacctttg
+gctcctacgtagcatacggccatccgcacagt
+gctctcggttcttcattgcaaacttgtttagc
+gctcttggcgatgagcgatgcgacagcctgga
+gctgaaataataccctcgaatacacggtaaga
+gctgagctggctcttcttcctcggcacctcgg
+gctgccaactacactgttcctagcacagacgc
+gcttaatgtgcttatgatcacacaaagagccc
+gcttagagccccccgcgtgtcccgtacccgtc
+gcttccggtcccgctggcgggaaattgcggag
+gcttcggtgcaaatctgtgatgatagcagcgc
+gctttcctacaagtccaataaccgggtcgaaa
+ggaaagacggttccgggtcaaggatctgcgct
+ggaacatgacttattcctcattggaaatcttt
+ggaactggggcggaaatgcgtaggtcaagcaa
+ggaattatgtaggggcgacgggcgtgggctag
+ggacccactaatgatcgcaataccatgccaac
+ggaccgctgagctactgagaagagttgcgcac
+ggacgactcccggaatatctggctagccagta
+ggatagcaaggtataataactgagacactcac
+ggatggctagtcgcatgatgagtgacgatggt
+ggatgtctaccttggatagcgtattcttatct
+ggatgttgcagaacagggcgaacatcttttga
+ggcataaaacctaggcccgacgttagaaggat
+ggcatgtcttgtcacgaaatctcatggtaggg
+ggccactgcgatcaactcttcttgtctactat
+ggccatgtatgctaggccattactttcgtaac
+ggcccctgtgagatggattgtgttcagtgtat
+ggccctagtgttaggtggtgcattgtattacc
+ggcccttcttacagttatggatagttgactct
+ggcctaccctccggcacacatgagcgagacac
+ggcctggtatggcccaatgcgtccagtgaaac
+ggcgacaccctatagacaataccgtcctatac
+ggcgatcgtattacgtttgttaactattggct
+ggcgctcaactactcgtgtactttagtcattc
+ggcggatagcggactcagttatatcttgctag
+ggcgtacacgttcacaaccctgtaactagtct
+ggcgtacgcgggcactgaccttattgaacacg
+ggctattaatccagaactcggaaaaaatacgg
+ggctggatccctaggtcttttcgttccgtctg
+ggcttcgtggtttctgtgtatagagctgttat
+gggaactacaaacactgcggagtggacatgag
+gggaccccacggtgccgccttgcaatcctgct
+gggacttgtgggggaaaagatggagacgattc
+gggcgtttggaacagcaaaagatagctagtgc
+ggggaacatgctggaacccgttacacagtccg
+ggggatgtttagccgactaggctgtgctcgat
+ggggggcgctgtgaggtttgaatacaaacccg
+gggggggaccggaattccccccatgacggaaa
+ggggttgtaagttccacgtgctgtatactatg
+gggtaattattgtacggttaacgaatacaagt
+gggtaccctcaaggcgacctccctgaccaata
+gggtagtgattctctgctacctgggagaagag
+ggtaaggtttgctcgggaggaggtgttcgcat
+ggtaatcacggatactaccaagagatgtcgac
+ggtactcgggtcgttccaaatgaaaagtacac
+ggtatcgattccatcgagtgggattaaattaa
+ggtatttgctcgatgatttttgtgcactggac
+ggtcaacgtccttttagtgatagtgacccgtt
+ggtcaccaaggcatgagcttcacagggaggtt
+ggtccacgaggtcatatctcggctaccgcttt
+ggtcctgatcaatgatcgactacgtggtccat
+ggtcgtaccctctagcaaccgttgaagaggcc
+ggtctatattaatgacactggcccggctccaa
+ggtctcaaccgacgcgtctagcgtttcgagta
+ggtgggccagggctcgtgggagcgtcgcgaca
+ggtgggtgaacgtatagacctctagacataag
+ggtggtcacgaagttagtagttacgattaaga
+ggtgtcacgcggacacaatgcggtacggtgct
+ggttagtggaacgcgcagtggatcaactgtgg
+ggttataggtgataatgacgttgttcaaactg
+ggttcacaattttcaagccataggctgtagat
+ggttggctagctcagcagaatccttttgaccc
+ggttgtagccttgcgaaacgacagaatgcggt
+ggttgtgggcccactgtcggggtgttagagct
+ggtttatgtatacggattcatatgactgataa
+gtaacaggccagcttaacggtagttgcgacca
+gtaagtgtatgcatgtgagtctacaaacgtgg
+gtacaagaacgctagcattatcgagattcatc
+gtacaggaatccagtggtttagagatctcagt
+gtacctctgctcgcagcaatgcgagaaaactt
+gtactaagtaagtagtctagattcttgaagtg
+gtagctcggtcatggtgggtcaccatcttggc
+gtagtgcttttcctatactgtcagacattccc
+gtatagctgcaaagctaacaccttcccagatg
+gtatatcaggccggtaacagaaacgactacat
+gtatatgagccagaatgcgttacgtcggtaag
+gtatatgggtttattcaggtttatctgccgcc
+gtatgatctaatggtacctctacatttttgta
+gtatggaaacgcacattaattgtcttaaacga
+gtattcccctataaaatcggttgactatgtaa
+gtattcgccccgcgaggagaattgcattcggt
+gtcaggcagaggatacttgctctgaccctagg
+gtcattgcgtcctccctgcgggagtttgacct
+gtccctccccttgtcttgtggcgctggctacg
+gtcgcgtggaggcagactcaagaggctggtca
+gtcggtagtagacgaatgaaagtctgggaaac
+gtctagaattggtagaaataagctatgctctc
+gtctattgcatcggaatgcggaaaaggatgct
+gtctgcgagcgatgtcatcgctcccgaacttc
+gtctgggatgagtccgttcggtcggttgtcgg
+gtcttaaacttgatcgccgttgggtaactggc
+gtcttaatagtccacaccagggggaaggacac
+gtcttatcgcgtgttgggcctttcgtcggacc
+gtcttccgcagagtatccaataatcagattaa
+gtcttgaccctgcatctttcagtggacgtaag
+gtcttttacccccaatcgcgcaagcggggtag
+gtgaatgacctgcagcgaaatagaagtgcgga
+gtgaccacaggagcgcggtcaccatcatgcag
+gtgatgtgtattccctagtcccttacagagtt
+gtgccaacaagggccgcctggctggcacctac
+gtgctttagggggccttggagctaggctcggc
+gtggatatggcggaccttcacaggtaatatct
+gtggggcttattcacaggccagccccccccaa
+gtggtattagtgaagatacatgatgagggccc
+gtgtcagtgatattctgccttgcaaatctcct
+gtgttaccaaaacataaggagatacgcatttt
+gtgttatgtagttagacaaaaagcatccatgc
+gttaaagcgagctgaacttgggatgttactaa
+gttagcttgggcggtctattgttctgtttgta
+gttccgggccacatctcactaagcccagcctg
+gttcgtgaatcaggagagttcacagtgccggt
+gttgaaccaacaaacaagcatagggagagcag
+gttggcggctctattgcccgggctcgttcaac
+gttgtaaacacggtgcccaacatggtcgacat
+gtttccgacactggacgtccgtcagtcgattt
+gtttcgggacgaagtggacgtgtaaacctcat
+gtttgtaggagtagcgtgggagggcgtatcta
+gttttgctttgagctaacagtctatgagctat
+gttttgtcagacctagatgagacactgctgca
+taaacctatctatatcttccaatgatagccga
+taaaccttctaactagatataggttgggactc
+taaccaacttagcatgtagttgagaccattac
+taacctgtccccagatcctttccggtatacca
+taacggaacggcacggtagatggtagacctag
+taagtaccggaaggctggggccaacacagcct
+taatagttaaagcgaggcctcacttagtcggt
+taatatggagcctcccacttcttcgtagcaca
+taatccacacatcacgattccgtcagagagct
+taatgcccggcactggctattgggctgaatcc
+taatggggttatctgcaacgttgagtggaaag
+taatgtatcccatggatccacccccgagagat
+tacaccgttcatctgtcgccgtatctgagtca
+tacactgcacagaattaaagcgttgatgaagt
+tacactgggttcatcggacagaatgactccaa
+tacagcaggaagatctttcaccgtaggggaaa
+tacagtcacactccgtggccaacacatccccg
+tacatgttctccaattgcacgtcatgaagcgt
+taccaatggcaactgcgcccctactgttcata
+taccgcaagcaacacaggcatccggataataa
+tacctcaccgactatatatccttgggagtgct
+tacgtccgtcgtttataattgatttgtggctt
+tactaagcaacggaattgcccctttgataact
+tacttcaattgatggcattcaagcgcgttacg
+tagaaaagcgctcgttgttgagctcagtttcg
+tagaacatttggctagacgccgcgtagcaaat
+tagaagctactaaaggtggagcctgagtctat
+tagacactttacttgccgctttaaacaattac
+tagacgggcatcactcgtccgcctgaaaattg
+tagactatggcgtatattcatcgtacgattat
+tagatcggtacgtaataacgtaagaatcatta
+tagattgtcaaggtaaccacgagcgtcttagg
+tagcaagacccttcgcggcatggcgcctgttg
+tagcacgcatttgaagtcacgcaagttaaggc
+tagcgattttcggatgttcgggtaaacattct
+tagcgtgaaatgactctgccgtctatgatcgt
+taggacccctgcacatttagagtcactacaga
+taggagcctaatgcgtgactttctttttggga
+tagggttgcgatacgttagccgggcgtggact
+taggtaacttgctcttctcagactctgctcta
+tagtcctaagaccaaaagctcaccttagtgcc
+tataacattgtatcacatgcttatgtcccaga
+tatataaggtagccagcgtatattctcgaact
+tatatacgctgcataagttgcgactttattcg
+tatatatacggaatcttgaggcgcttcggtct
+tatcaccctgttgtctcgttttggcctgagac
+tatcatatcacgtggttctttctctgcgtttt
+tatcattcggattgatcctgggggaaaggaca
+tatccggctaggccaacggacgccatccggga
+tatcgtgctgcatactgctcataacatagagt
+tatgaaaatgcctactaaaataaagcttcttg
+tatgaacccgatactaatttgccaggttcacc
+tatgaatctcatcttcgtttgggtatcagcgt
+tatgacgttggaagcgagcgagcatatctaag
+tatgcacaggaggggcatctcgaaccggttgc
+tatgtatggagttgggccgaggtaatcgccgc
+tatgtcacggtgtgtatacattcggccatgcc
+tattcacgccctgaatatttcagatgtgtatc
+tattccaccggtgacagttgtagtacagcatg
+tattctacgatgctaatactctgcaccctcca
+tattgagtagtattcatgggatcacaggatat
+tattttcggggagggtaccacactgtagcaag
+tcaaatgaatcctctatcgcctctcggtctga
+tcaagatttatgcgcgattggtaataatctca
+tcaaggatggaccttgcaacttcttgcgtcta
+tcaatcgtgcgggcttggccacgctcttatcg
+tcacgtccccctgtttgcaccaagccgattcc
+tcagaatcctgggacttgctcgctgatttcgc
+tcagaattctaaggctcctagggtcaagctgg
+tcagctcctgcattacggttcagtttaggtaa
+tcatacccaatagagcttaacgtcggtgcgcc
+tcatcaagtcgatttgcctggatcacgcatga
+tcatctaaatatgagtagacctcttgcctact
+tcatttagaattgataggtacataagaccagt
+tccatggagtagaccaggcaccgcgagttgca
+tccatgggggcttcatcaagtattcccgtgct
+tcccaacgtccgattacatggctagtaccagc
+tcccacgcgcgcgtgcttctgtgcattggaca
+tcccggaaccggagcatattgcccgggccaag
+tcccgggaaaatggacgacatacgatgtttgt
+tccctacgatactgggctgttattggtgggaa
+tccgaggcaattcacccgaaacctcggtagga
+tccgatcctagtatgccttcaaacgggtaatg
+tccgtttcaaactaccaccctcagtagttggg
+tcctaaaacgtttttagatacagacatagctc
+tcctgacgggggatttaagatccgagttctct
+tccttgaccagacgtagcaacccgcggtccct
+tcgacggtagcccatttacgtaccatagggct
+tcgatttcgtcaggaccgtgtatcccggagcc
+tcgccgcctgtctctagctacgtgtcctaact
+tcgcgatattcctgcggagacgccccagatac
+tcggcgcttcgtttgccgaactgtgagctacc
+tcggctgaattgctcttcaacacgatccgact
+tcggctgcgcatctcgtgggcagggtgaagac
+tcggggcccgcaaactttaatgtagtctagcg
+tcggtgcattatggaatcaatactattctctc
+tcggtgggacccgggggccttgagatatatac
+tcgtcccactcttggctcctgcgagcgctttc
+tcgtgcagttaacaatgttatctcaccaaaag
+tcgtgttaaccgagctctactactggtgtaga
+tcgttgtctgaccttactggatcgtacgtgcc
+tctaactactttcagaggggccaagtttggtc
+tctacttattgtgcgcagtagatcgcttctag
+tctagtcagagaaaggctcttcacgagcctcg
+tctagtctgtgtggttcttggacgttttaaag
+tctatagaggggtcgcgtttgtctagggggag
+tctatcgatactcacgtgatacaaaagatcgg
+tctattcagcagctcaggtggtactgaagagc
+tctattccgtctccccaaagcttcagggagag
+tctcagatctacaacttaggaagattataacc
+tctccgcacctgacttcacgagagttaaacgt
+tctgatcttggcattcgctacgcaatttgtgg
+tctgcccgacctacatccttcgggacgaagct
+tctgcggacgggactcaagtcagagcctaaga
+tctggccgcgccggcacccagtttgctgccct
+tcttcatagtcgttctgcatctgttttgactt
+tcttccttagttcaaagatcttaaactgaagg
+tcttcgacgctgtgccatcttggcttggatgt
+tgaactgaggtgcccaaaatgtacatattata
+tgacactaacgacatattcacgtaagccatgc
+tgacactgcatcgtaaatcgcccgaatcgatc
+tgaccggagactcacggaacttgcttatatcc
+tgactagttgtccgggatccttcaaacgggag
+tgacttttcttctgtcggtctacctaagactc
+tgatagcacgcccagtcgagacgatacgcttt
+tgatgttggccatattcttagtgaagttgcgg
+tgcatgaggaacgggcggatccctaatgtatc
+tgcatttgcgtcaatatccttatggccacacc
+tgccaaacactaaaaaatcttggaatttttca
+tgccagttcccgacgcagtccgaagtcaactt
+tgccctatgggactaacctactactgcgcggc
+tgccgagttgtccaaggaatgcgtattacgga
+tgccgatacgatgcagttcgccgctgattctt
+tgcgctcagcgaaccgcgtcatatctgatatc
+tgcggacaatggcgcacctctaggtgacgctt
+tggaatgcagtcaacctaggactaaactggtg
+tggacgcaataactgcctattgccctcttgta
+tggagacgcaagtgaaaccctagttccctaac
+tggaggaagacggtcttgttaaattataactt
+tggaggtttctggtgactggtctttgatgaag
+tggagtttgcgaacacttgagacatcaaacgt
+tggatcccagacggcatgctgcatcgactcgc
+tggcaacatcacaccgctatccgcacaggggt
+tggcatctgggcggaccgagtgtcatcagcgt
+tggcggtccctaaagtctccaccatagtaccc
+tggcgtcacgtagccctgggtgcgcatggcat
+tgggaccgctgcagaaagataccttggaacgt
+tgggacgtgttgcggtccgcctagcgttcgac
+tgggagtccattcccgataatcggcattggtg
+tgggtgttttatgacctaatgaacatctgttt
+tgggttcgacgggcttgacacagatactacac
+tggtagacattcgacatcaaaaagctggtcgt
+tggtagagacaacctttgactttagaactgac
+tggtatgtactatacgtacatatccaatcgga
+tggtctcaggtcatgcctgatgcccccacgtg
+tggtgactacgtctggctctcgagagctgatt
+tggtgtggaacgcgggagatcagctgacgtgt
+tggtttacaagaccactgggctttccgcgctc
+tgtaagatctcgcgatggggtttctaggcctg
+tgtaatataggagaatgtcaatgaaacagtcg
+tgtacgggggttgaatatacttgtatccagcg
+tgtacgtgatttttctcgttcctgggccccag
+tgtatatacaataggccaatctcatttcctcg
+tgtcacatctcgccacatgctaacattcaacg
+tgtcgagattgtctttgcgcggggtgagttgg
+tgtctcgccgataccaggcggacatccggttt
+tgtctcgtaacatgcgagacaccatagggtgg
+tgtgaagccgatcgctttgttgacgccgactc
+tgtggaggacaactaattcccttaccctaatg
+tgtgtcacgccactaggatataagagcttgat
+tgttaaacttcgcaatacagatagtcgagcgt
+tgttggctacagcctcgctataaaacttgata
+tgtttcacatttatgcacaggcatggttttta
+ttaacgtattgcttcgtgataaaggcgtcaaa
+ttaagcatgtgacatcatgaccaaccacgtgg
+ttaagtatatcagagtgtcaactctcttggtt
+ttaagtgatattatatgttagtgccaattgcg
+ttaatcaaataatgaaagtaaggggtagtcaa
+ttaatgttatggggtatcggctcagacccctc
+ttacaaccacgcacgcggttatccgcacccct
+ttactggatagtgggaaatctgcgcgtagcga
+ttagactatcgcacttatataaagaactagcg
+ttagagtcagaggtctgacgacatcgggcaga
+ttagcaacaaagcagtctttccactcatcggg
+ttagccactactgtatcaagtcaatcatggaa
+ttagcgtctatagattgtccccaatagtgaca
+ttatagaacaacaaaggcttgccgaactcatc
+ttatccgcatacatctgtctccaaaccgagta
+ttattcactgattatataatatatgggactaa
+ttattcgagattatgatcattaaatgtaataa
+ttcaattaagttcagacgcactctgacgctct
+ttcactattccacggattgcttgattcatcgt
+ttcagcggtaaattaagcgacagaacggagat
+ttcaggctagctgtaatccaagcacatctgag
+ttcagtaagtgaacgcataactcaggttacct
+ttcagtggttaatcggtgtatgtgcatttgta
+ttcataggcttccttgacccggacaacgtcac
+ttcattatgccggctcggtccatgtgcggagg
+ttcccatacttgccctaaaccataatactttt
+ttcgagtaggagaaggagaaacgtcgaatcgt
+ttcgcggaatttgcatacactggacctcctat
+ttcgtatctatcttggcatagtttgacctgcg
+ttctcaaggtaacgactggttgcagtgagaat
+ttgaataccatacttatcacctgggtgcgcat
+ttgagtgaaagaaatacggagctacctcttcg
+ttgcatcctcccgaagctaggggctacctccc
+ttgccaaggaatcgagtgtcggctatgattta
+ttgcccgttgaccggatcgatcctgaggcgat
+ttgccgctcatccttattgatggtcgccggta
+ttgcggccccccgccttagttgaaggtacgat
+ttggaaacttctgacgtactttgtttagtcct
+ttggatgttgcgccatgagatcatggccctag
+ttggcggtcgccggccttacaattgccagcat
+ttggggttatgtgaagatggcattaaggtacc
+ttggttcgaattctgagtctacgaataaattg
+ttgtataatgctcatggacctgcgcatgttgt
+tttaaaggcattctattcgggaaactatatac
+tttaataaaaaaccgagacttttcctacccag
+tttacgttatctcgtagtcaccatctactgcc
+tttccagtcagttggtcctgaaaagtcttaat
+tttccattctaagcctttgggagttcgtatac
+tttcgtgtcgctgcccaccgtctcacaatgtt
+tttctgaggttcagttctgaccttttcgtaag
+tttctgcggttacaggaaagtatctatgaggc
+tttgaaggttagcaagccatccagcggccatg
+ttttacgtccaacttgattttgcgagaacctc
+ttttggcattagggactccgaatgcctatctg
+ttttgggagtgagtacgggccgacaacaggga
+ttttgttggaggtacggacatacataccgttg
+# Expected result (diseases patient could have): 
+1000
+Nonketotic hyperglycinemia (a.a.9)
+Wilson disease (a.a.3)
+Hemophilia (a.a.13)
+see Tuberous sclerosis (a.b.12)
+Treacher Collins syndrome (a.a.8)
+Adenylosuccinate lyase deficiency (a.a.27)
+see Tuberous sclerosis (a.b.9)
+Marfan syndrome (a.a.28)
+Acrocephaly (a.a.6)
+Gaucher disease (a.a.29)
+Bloom syndrome (a.a.19)
+HNPP (a.b.18)
+Cowden syndrome (a.b.21)
+Chondrodystrophy with dysplasia (a.a.15)
+Neurofibromatosis type II (a.b.20)
+Osteogenesis imperfecta (a.a.15)
+Mowat-Wilson syndrome (a.b.3)
+see Down syndrome (a.b.2)
+Amelogenesis imperfecta (a.a.21)
+Patau Syndrome (Trisomy 13) (a.a.5)
+Charcot–Marie–Tooth disease (a.a.5)
+CHARGE syndrome (a.a.23)
+Glioma, retinal (a.b.10)
+Myotonic dystrophy (a.b.17)
+Prion disease (a.b.16)
+Mowat-Wilson syndrome (a.a.23)
+McLeod syndrome (a.a.25)
+Galactosemia (a.b.11)
+Acrocephaly (a.a.9)
+Kniest dysplasia (a.a.10)
+Anemia (a.a.12)
+Hypochondrogenesis (a.a.2)
+variegate porphyria (a.b.2)
+Osteogenesis imperfecta (a.a.30)
+Alexander disease (a.a.4)
+JPLS (a.a.3)
+Sphingomyelin phosphodiesterase (a.a.24)
+Beare-Stevenson cutis gyrata syndrome (a.b.13)
+Kniest dysplasia (a.b.10)
+Gaucher disease (a.b.10)
+CPO deficiency (a.a.19)
+Trisomy 21 (a.a.13)
+Ehlers–Danlos syndrome (a.a.29)
+Hereditary coproporphyria (a.b.11)
+Strudwick syndrome (a.a.6)
+Lesch-Nyhan syndrome (a.b.26)
+Smith-Lemli-Opitz syndrome (a.a.21)
+Mediterranean fever (a.b.13)
+Erythroblastic anemia (a.b.16)
+Muenke syndrome (a.b.16)
+Williams Syndrome (a.a.2)
+Kniest dysplasia (a.a.29)
+Angelman syndrome (a.b.12)
+Marfan syndrome (a.b.18)
+Friedreich's ataxia (a.b.23)
+Triple X syndrome (a.a.22)
+Keloid disorder (a.b.4)
+Biotinidase deficiency (a.a.21)
+Muscular dystrophy (a.b.11)
+Niemann-Pick (a.a.14)
+Siderius X-linked mental retardation syndrome (a.a.11)
+see Tuberous sclerosis (a.b.17)
+Joubert syndrome (a.b.28)
+Wilson disease (a.b.17)
+Wolf–Hirschhorn syndrome (a.a.28)
+Gaucher disease (a.a.22)
+Micro syndrome (a.a.5)
+Cri du chat (a.a.16)
+primary pulmonary hypertension (a.b.6)
+familial adenomatous polyposis (a.b.13)
+factor V Leiden thrombophilia (a.b.7)
+Birt–Hogg–Dubé syndrome (a.a.23)
+Acute intermittent porphyria (a.a.15)
+Coffin–Lowry syndrome (a.b.3)
+Caylor cardiofacial syndrome (a.a.13)
+Incontinentia pigmenti (a.a.8)
+von Hippel-Lindau disease (a.a.3)
+Hereditary spastic paraplegia (a.a.19)
+Sickle cell anemia (a.b.9)
+Beare-Stevenson cutis gyrata syndrome (a.a.5)
+Ataxia telangiectasia (a.b.26)
+Charcot–Marie–Tooth disease (a.b.7)
+Polycystic kidney disease (a.b.6)
+Fanconi anemia (a.a.2)
+Acrocephaly (a.a.2)
+Coffin–Lowry syndrome (a.a.25)
+Genetic hypercalciuria (a.a.4)
+Acute intermittent porphyria (a.a.23)
+Pantothenate kinase-associated neurodegeneration (a.a.25)
+Adrenoleukodystrophy (a.a.11)
+JPLS (a.a.13)
+Hepatoerythropoietic porphyria (a.b.24)
+Achondrogenesis (a.a.15)
+Crouzon syndrome with acanthosis nigricans (a.b.22)
+Hypochondrogenesis (a.b.8)
+Caylor cardiofacial syndrome (a.a.23)
+Haemochromatosis (a.a.2)
+Hereditary Inclusion Body Myopathy (a.b.28)
+Harlequin type ichthyosis (a.a.2)
+Patau Syndrome (Trisomy 13) (a.a.12)
+Nonsyndromic deafness (a.a.18)
+Keloid disorder (a.a.23)
+Hypochondroplasia (a.b.23)
+Nonsyndromic deafness (a.b.7)
+Tuberous Sclerosis Complex (TSC) (a.a.14)
+de Grouchy syndrome (a.a.19)
+Hyperoxaluria, primary (a.b.11)
+Muscular dystrophy (a.b.20)
+Albinism (a.a.18)
+Alpha 1-antitrypsin deficiency (a.a.26)
+Harlequin type ichthyosis (a.a.9)
+Isodicentric 15 (a.a.4)
+primary pulmonary hypertension (a.a.17)
+Glycine encephalopathy (a.a.13)
+CHARGE syndrome (a.b.18)
+Galactosemia (a.a.22)
+Crouzon syndrome (a.b.18)
+Cockayne syndrome (a.b.4)
+Spinocerebellar ataxia (a.a.16)
+see Tuberous sclerosis (a.b.14)
+Trisomy 21 (a.b.2)
+Prion disease (a.b.24)
+Benjamin syndrome (a.b.9)
+Genetic hypercalciuria (a.a.15)
+Rett syndrome (a.a.23)
+FG syndrome (a.a.2)
+Williams Syndrome (a.b.2)
+Weissenbacher-Zweymüller syndrome (a.a.11)
+Cockayne syndrome (a.a.28)
+Bloom syndrome (a.b.3)
+PCC deficiency (a.a.2)
+de Grouchy syndrome (a.a.4)
+Glioma, retinal (a.a.18)
+Neurofibromatosis type I (a.b.19)
+SED congenita (a.a.8)
+Alzheimer's disease (a.a.12)
+Joubert syndrome (a.a.1)
+thanatophoric dysplasia (a.b.4)
+G6PD deficiency (a.b.11)
+Glioma, retinal (a.a.5)
+G6PD deficiency (a.a.16)
+Trisomy 21 (a.b.18)
+Beare-Stevenson cutis gyrata syndrome (a.b.16)
+Pseudo-Gaucher disease (a.a.7)
+Birt–Hogg–Dubé syndrome (a.b.16)
+Triple X syndrome (a.b.5)
+CGD Chronic granulomatous disorder (a.a.14)
+Trisomy 21 (a.b.4)
+infantile-onset ascending hereditary spastic paralysis (a.a.9)
+Fabry disease (a.b.21)
+Charcot–Marie–Tooth disease (a.b.14)
+Schwartz–Jampel syndrome (a.a.16)
+von Hippel-Lindau disease (a.a.4)
+Mowat-Wilson syndrome (a.b.23)
+Schwartz–Jampel syndrome (a.b.25)
+McLeod syndrome (a.a.15)
+Alström syndrome (a.b.21)
+Schwartz–Jampel syndrome (a.a.6)
+Methemoglobinemia (a.a.5)
+Crohn's disease (a.a.22)
+Collagenopathy, types II and XI (a.b.14)
+SED congenita (a.a.16)
+Hereditary spastic paraplegia (a.b.17)
+Turner's syndrome (a.a.30)
+Galactosemia (a.a.18)
+infantile-onset ascending hereditary spastic paralysis (a.b.13)
+McLeod syndrome (a.a.16)
+Angelman syndrome (a.a.18)
+Primary ciliary dyskinesia (PCD) (a.a.23)
+Crouzon syndrome (a.b.15)
+Di George's syndrome (a.b.7)
+Androgen insensitivity syndrome (a.b.5)
+Hutchinson–Gilford progeria syndrome (a.b.18)
+Phenylketonuria (a.a.7)
+Alström syndrome (a.b.19)
+Achondroplasia (a.a.30)
+Friedreich's ataxia (a.b.22)
+Microcephaly (a.a.23)
+Ehlers–Danlos syndrome (a.a.27)
+Kniest dysplasia (a.b.24)
+Siderius X-linked mental retardation syndrome (a.a.22)
+von Hippel-Lindau disease (a.a.17)
+Distal hereditary motor neuropathy (a.a.6)
+McLeod syndrome (a.a.3)
+Achondrogenesis (a.b.22)
+Smith Magenis Syndrome (a.a.18)
+Hypochondrogenesis (a.b.14)
+Prader-Willi syndrome (a.a.24)
+Crouzon syndrome with acanthosis nigricans (a.b.28)
+infantile-onset ascending hereditary spastic paralysis (a.a.5)
+Beare-Stevenson cutis gyrata syndrome (a.b.28)
+Hereditary spastic paraplegia (a.a.13)
+Treacher Collins syndrome (a.a.24)
+Strudwick syndrome (a.a.5)
+Nonketotic hyperglycinemia (a.b.27)
+Siderius X-linked mental retardation syndrome (a.a.5)
+ICF syndrome (a.a.9)
+Lesch-Nyhan syndrome (a.a.1)
+Protein S deficiency (a.a.10)
+Alexander disease (a.a.18)
+Alagille syndrome (a.b.4)
+Mowat-Wilson syndrome (a.a.27)
+Osteogenesis imperfecta (a.b.16)
+factor V Leiden thrombophilia (a.a.20)
+Distal hereditary motor neuropathy (a.b.6)
+Fanconi anemia (a.a.19)
+Beare-Stevenson cutis gyrata syndrome (a.b.18)
+Chondrodystrophy with dysplasia (a.a.2)
+Gaucher disease (a.b.13)
+porphyria (a.a.15)
+Neurofibromatosis type I (a.a.30)
+Galactosemia (a.a.29)
+Angelman syndrome (a.b.7)
+Stickler syndrome (a.a.26)
+Prion disease (a.a.5)
+Hypochondrogenesis (a.b.7)
+Ataxia telangiectasia (a.a.11)
+Alzheimer's disease (a.a.11)
+Phenylketonuria (a.b.18)
+Alström syndrome (a.b.11)
+Gaucher disease (a.b.24)
+Myotonic dystrophy (a.b.10)
+Androgen insensitivity syndrome (a.a.10)
+Haemochromatosis (a.a.7)
+HNPP (a.b.23)
+Phenylketonuria (a.a.26)
+Patau Syndrome (Trisomy 13) (a.b.27)
+Pantothenate kinase-associated neurodegeneration (a.a.8)
+Acrocephaly (a.a.19)
+Weissenbacher-Zweymüller syndrome (a.b.12)
+Coffin–Lowry syndrome (a.a.21)
+Hereditary multiple exostoses (a.a.9)
+Ogden syndrome (a.b.28)
+Di George's syndrome (a.b.12)
+Gaucher disease (a.a.11)
+Hereditary Inclusion Body Myopathy (a.b.23)
+primary pulmonary hypertension (a.a.26)
+Birt–Hogg–Dubé syndrome (a.a.4)
+Methylmalonic acidemia (a.a.27)
+Kniest dysplasia (a.a.23)
+Prader-Willi syndrome (a.b.11)
+Keloid disorder (a.a.26)
+Hereditary spastic paraplegia (a.b.13)
+Nonsyndromic deafness (a.a.8)
+Wilson disease (a.b.11)
+Microcephaly (a.a.12)
+factor V Leiden thrombophilia (a.a.4)
+de Grouchy syndrome (a.a.5)
+JPLS (a.b.22)
+Adrenoleukodystrophy (a.b.2)
+Beare-Stevenson cutis gyrata syndrome (a.b.22)
+Schwartz–Jampel syndrome (a.a.8)
+Biotinidase deficiency (a.b.3)
+PCT (a.a.30)
+Acrocephaly (a.a.26)
+Waardenburg syndrome (a.a.13)
+Fanconi anemia (a.b.10)
+Pseudoxanthoma elasticum (a.a.4)
+Tay-Sachs disease (a.a.11)
+Prader-Willi syndrome (a.a.14)
+Chondrodystrophy with dysplasia (a.a.19)
+Joubert syndrome (a.b.5)
+variegate porphyria (a.b.16)
+Anemia (a.a.4)
+variegate porphyria (a.b.20)
+Noonan syndrome (a.b.28)
+Niemann-Pick (a.a.17)
+Androgen insensitivity syndrome (a.a.12)
+Alström syndrome (a.a.25)
+Polycystic kidney disease (a.b.21)
+Weissenbacher-Zweymüller syndrome (a.a.2)
+Pseudoxanthoma elasticum (a.b.4)
+Joubert syndrome (a.b.19)
+de Grouchy syndrome (a.a.17)
+Microcephaly (a.a.18)
+Fanconi anemia (a.a.15)
+Sandhoff disease (a.a.1)
+Coffin–Lowry syndrome (a.a.23)
+Crouzon syndrome (a.a.22)
+Spinocerebellar ataxia (a.b.24)
+Cri du chat (a.a.23)
+familial adenomatous polyposis (a.a.14)
+Angelman syndrome (a.b.21)
+PCT (a.b.2)
+Sandhoff disease (a.a.3)
+Aceruloplasminemia (a.b.12)
+Microcephaly (a.a.30)
+see Tuberous sclerosis (a.a.17)
+CGD Chronic granulomatous disorder (a.a.26)
+Bloom syndrome (a.a.15)
+Muscular dystrophy (a.a.8)
+Protoporphyria (a.b.10)
+Alström syndrome (a.a.21)
+Smith-Lemli-Opitz syndrome (a.a.23)
+JPLS (a.a.5)
+Adrenoleukodystrophy (a.a.13)
+de Grouchy syndrome (a.b.19)
+Cancer (a.a.1)
+Alzheimer's disease (a.b.24)
+Coffin–Lowry syndrome (a.b.19)
+Harlequin type ichthyosis (a.b.15)
+Mucopolysaccharidosis (MPS I) (a.a.13)
+Osteogenesis imperfecta (a.a.1)
+Gaucher disease (a.a.17)
+Pseudoxanthoma elasticum (a.a.30)
+Galactosemia (a.a.23)
+Joubert syndrome (a.b.20)
+Li-Fraumeni syndrome (a.a.21)
+HNPP (a.b.8)
+Hutchinson–Gilford progeria syndrome (a.b.22)
+Pseudo-Gaucher disease (a.b.8)
+Harlequin type ichthyosis (a.a.7)
+de Grouchy syndrome (a.b.21)
+Cri du chat (a.b.13)
+Genetic hypercalciuria (a.a.26)
+Amelogenesis imperfecta (a.a.4)
+Osteogenesis imperfecta (a.a.4)
+Cowden syndrome (a.b.9)
+Angelman syndrome (a.b.22)
+Peutz-Jeghers syndrome (a.b.17)
+Nonketotic hyperglycinemia (a.a.26)
+Beare-Stevenson cutis gyrata syndrome (a.b.15)
+Muenke syndrome (a.b.25)
+Klinefelter syndrome (a.b.19)
+Ogden syndrome (a.b.3)
+JPLS (a.b.24)
+Coffin–Lowry syndrome (a.a.19)
+Charcot–Marie–Tooth disease (a.a.2)
+Phenylketonuria (a.a.12)
+Weissenbacher-Zweymüller syndrome (a.b.8)
+Broad Thumb-Hallux syndrome (a.a.9)
+Turner's syndrome (a.b.26)
+Sickle cell anemia (a.a.8)
+Treacher Collins syndrome (a.b.24)
+PCC deficiency (a.a.11)
+Waardenburg syndrome (a.b.16)
+Joubert syndrome (a.a.3)
+Haemochromatosis (a.a.25)
+Wilson disease (a.a.14)
+McCune–Albright syndrome (a.b.20)
+Lipoprotein lipase deficiency (a.a.2)
+Zollinger-Ellison syndrome (a.b.3)
+Trisomy 21 (a.a.30)
+Achondrogenesis (a.a.5)
+thanatophoric dysplasia (a.a.1)
+Klinefelter syndrome (a.a.11)
+Friedreich's ataxia (a.b.10)
+Incontinentia pigmenti (a.b.27)
+Aceruloplasminemia (a.a.18)
+Rubinstein-Taybi syndrome (a.a.29)
+Canavan disease (a.b.26)
+Benjamin syndrome (a.a.11)
+Alkaptonuria (a.b.8)
+Incontinentia pigmenti (a.a.28)
+Genetic hypercalciuria (a.a.10)
+see Down syndrome (a.a.2)
+Adenylosuccinate lyase deficiency (a.b.11)
+tetrahydrobiopterin deficiency (a.b.5)
+Hereditary spinal ataxia (a.a.18)
+Galactosemia (a.a.27)
+Acute intermittent porphyria (a.a.26)
+Strudwick syndrome (a.a.27)
+Kniest dysplasia (a.a.2)
+Benjamin syndrome (a.b.19)
+Alagille syndrome (a.a.29)
+Primary ciliary dyskinesia (PCD) (a.a.7)
+Pseudoxanthoma elasticum (a.b.24)
+Hereditary coproporphyria (a.b.6)
+Muenke syndrome (a.b.26)
+Keloid disorder (a.b.18)
+Protein C deficiency (a.a.10)
+CHARGE syndrome (a.b.8)
+Bloom syndrome (a.b.13)
+Polycystic Ovarian Syndrome (PCOS) (a.b.16)
+Pfeiffer syndrome (a.a.2)
+porphyria (a.b.20)
+see Tuberous sclerosis (a.b.10)
+Crohn's disease (a.b.3)
+Biotinidase deficiency (a.b.21)
+Krabbe disease (a.b.16)
+Keloid disorder (a.b.1)
+Achondroplasia (a.b.1)
+Canavan disease (a.a.3)
+Albinism (a.a.21)
+Li-Fraumeni syndrome (a.b.10)
+Kniest dysplasia (a.a.11)
+Prader-Willi syndrome (a.b.3)
+Amelogenesis imperfecta (a.a.29)
+Distal hereditary motor neuropathy (a.a.18)
+Alpha 1-antitrypsin deficiency (a.a.4)
+Charcot–Marie–Tooth disease (a.b.28)
+Albinism (a.b.12)
+Lesch-Nyhan syndrome (a.b.19)
+Wolf–Hirschhorn syndrome (a.a.23)
+Polycystic Ovarian Syndrome (PCOS) (a.a.29)
+Benjamin syndrome (a.a.6)
+Gaucher disease (a.a.23)
+Menkes disease (a.b.27)
+CADASIL syndrome (a.b.23)
+Niemann-Pick (a.b.11)
+Prader-Willi syndrome (a.b.9)
+Collagenopathy, types II and XI (a.a.25)
+Peutz-Jeghers syndrome (a.b.19)
+McLeod syndrome (a.a.21)
+Acute intermittent porphyria (a.b.2)
+Benjamin syndrome (a.a.14)
+Protein C deficiency (a.b.14)
+Coffin–Lowry syndrome (a.b.12)
+Strudwick syndrome (a.a.14)
+familial dysautonomia (a.a.29)
+CGD Chronic granulomatous disorder (a.a.27)
+Androgen insensitivity syndrome (a.b.27)
+Krabbe disease (a.a.27)
+Osteogenesis imperfecta (a.b.7)
+Crouzon syndrome (a.b.27)
+Hereditary Inclusion Body Myopathy (a.a.18)
+Birt–Hogg–Dubé syndrome (a.b.25)
+Galactosemia (a.b.9)
+Charcot–Marie–Tooth disease (a.a.4)
+Friedreich's ataxia (a.a.16)
+Hereditary Inclusion Body Myopathy (a.a.26)
+Triple X syndrome (a.a.6)
+Hepatoerythropoietic porphyria (a.b.2)
+von Hippel-Lindau disease (a.b.6)
+Di George's syndrome (a.b.1)
+Waardenburg syndrome (a.a.26)
+Adrenoleukodystrophy (a.a.1)
+familial dysautonomia (a.b.22)
+Caylor cardiofacial syndrome (a.a.30)
+porphyria (a.a.14)
+Williams Syndrome (a.a.24)
+Fanconi anemia (a.b.5)
+Cockayne syndrome (a.a.25)
+Harlequin type ichthyosis (a.a.11)
+Glioma, retinal (a.a.27)
+Patau Syndrome (Trisomy 13) (a.a.15)
+Harlequin type ichthyosis (a.a.23)
+Muenke syndrome (a.a.14)
+thanatophoric dysplasia (a.a.5)
+CGD Chronic granulomatous disorder (a.a.19)
+Turner's syndrome (a.b.4)
+Smith Magenis Syndrome (a.b.22)
+Jackson–Weiss syndrome (a.b.20)
+Broad Thumb-Hallux syndrome (a.b.19)
+Coffin–Lowry syndrome (a.a.29)
+Alpha 1-antitrypsin deficiency (a.a.19)
+Spinocerebellar ataxia (a.b.15)
+Galactosemia (a.b.21)
+Hepatoerythropoietic porphyria (a.a.14)
+Lipoprotein lipase deficiency (a.a.10)
+Stickler syndrome (a.a.2)
+Crohn's disease (a.b.15)
+Tay-Sachs disease (a.b.5)
+CGD Chronic granulomatous disorder (a.a.18)
+Protoporphyria (a.a.21)
+tetrahydrobiopterin deficiency (a.a.19)
+Hereditary coproporphyria (a.a.7)
+Tuberous Sclerosis Complex (TSC) (a.b.13)
+Alpha 1-antitrypsin deficiency (a.a.17)
+Spinal muscular atrophy (a.a.28)
+thanatophoric dysplasia (a.a.15)
+Hypochondroplasia (a.a.6)
+Pantothenate kinase-associated neurodegeneration (a.b.7)
+Primary ciliary dyskinesia (PCD) (a.b.21)
+Muscular dystrophy (a.a.1)
+Mowat-Wilson syndrome (a.b.27)
+CHARGE syndrome (a.a.1)
+Genetic hypercalciuria (a.b.14)
+Hutchinson–Gilford progeria syndrome (a.b.24)
+Prader-Willi syndrome (a.b.25)
+Hemophilia (a.a.22)
+PCC deficiency (a.a.19)
+de Grouchy syndrome (a.b.3)
+Chondrodystrophy with dysplasia (a.b.3)
+Prion disease (a.a.14)
+Strudwick syndrome (a.b.21)
+Hemophilia (a.a.6)
+Klinefelter syndrome (a.b.14)
+Neurofibromatosis type I (a.a.2)
+Hereditary hemorrhagic telangiectasia (HHT) (a.a.25)
+Hereditary hemorrhagic telangiectasia (HHT) (a.b.15)
+Usher syndrome (a.b.13)
+infantile-onset ascending hereditary spastic paralysis (a.a.29)
+Methemoglobinemia (a.a.3)
+Alpha 1-antitrypsin deficiency (a.b.10)
+Crohn's disease (a.b.14)
+Wilson disease (a.a.23)
+Birt–Hogg–Dubé syndrome (a.b.4)
+Mucopolysaccharidosis (MPS I) (a.b.24)
+Muscular dystrophy (a.a.9)
+variegate porphyria (a.b.15)
+Campomelic dysplasia (a.a.25)
+Stickler syndrome (a.a.5)
+Prader-Willi syndrome (a.b.14)
+Hereditary spinal ataxia (a.b.12)
+Hyperphenylalaninemia (a.b.11)
+Alagille syndrome (a.a.13)
+Usher syndrome (a.a.29)
+Wilson disease (a.a.6)
+CGD Chronic granulomatous disorder (a.b.21)
+Pfeiffer syndrome (a.a.23)
+Hutchinson–Gilford progeria syndrome (a.a.22)
+Protein S deficiency (a.b.6)
+Alpha 1-antitrypsin deficiency (a.a.21)
+Smith Magenis Syndrome (a.a.30)
+Strudwick syndrome (a.b.1)
+Williams Syndrome (a.a.13)
+Amelogenesis imperfecta (a.a.28)
+Collagenopathy, types II and XI (a.b.20)
+Pendred syndrome (a.a.20)
+Albinism (a.b.17)
+Hypochondroplasia (a.b.2)
+Adrenoleukodystrophy (a.b.28)
+Hereditary Inclusion Body Myopathy (a.a.29)
+Pantothenate kinase-associated neurodegeneration (a.a.1)
+Di George's syndrome (a.b.28)
+Rett syndrome (a.b.12)
+McLeod syndrome (a.a.6)
+Ehlers–Danlos syndrome (a.a.28)
+Polycystic kidney disease (a.a.6)
+Broad Thumb-Hallux syndrome (a.a.17)
+Crouzon syndrome with acanthosis nigricans (a.a.9)
+Ataxia telangiectasia (a.b.24)
+Benjamin syndrome (a.b.18)
+Primary ciliary dyskinesia (PCD) (a.a.28)
+Hepatoerythropoietic porphyria (a.b.6)
+Charcot–Marie–Tooth disease (a.a.21)
+Sickle cell anemia (a.a.29)
+Alström syndrome (a.a.12)
+Birt–Hogg–Dubé syndrome (a.a.10)
+Wilson disease (a.b.16)
+Biotinidase deficiency (a.a.26)
+PCC deficiency (a.b.12)
+Benjamin syndrome (a.b.4)
+Friedreich's ataxia (a.b.16)
+Nonketotic hyperglycinemia (a.a.18)
+Pseudoxanthoma elasticum (a.b.20)
+factor V Leiden thrombophilia (a.a.27)
+Cowden syndrome (a.b.8)
+Sphingomyelin phosphodiesterase (a.b.14)
+Menkes disease (a.a.28)
+Angelman syndrome (a.b.26)
+Phenylketonuria (a.a.19)
+Methemoglobinemia (a.a.1)
+Phenylketonuria (a.b.27)
+Birth Defects (a.b.23)
+Galactosemia (a.b.5)
+Micro syndrome (a.a.25)
+Homocystinuria (a.a.19)
+Harlequin type ichthyosis (a.b.6)
+Ataxia telangiectasia (a.b.5)
+Rett syndrome (a.b.21)
+Neurofibromatosis type II (a.a.14)
+Usher syndrome (a.b.14)
+Nonketotic hyperglycinemia (a.a.20)
+Incontinentia pigmenti (a.a.22)
+Spinocerebellar ataxia (a.a.24)
+Cystic fibrosis (a.a.11)
+Angelman syndrome (a.a.2)
+Acrocephaly (a.a.10)
+Campomelic dysplasia (a.b.6)
+Methemoglobinemia (a.a.12)
+Huntington's disease (a.b.20)
+Lactose intolerance (a.a.25)
+Polycystic Ovarian Syndrome (PCOS) (a.a.10)
+Genetic hypercalciuria (a.a.16)
+SSB syndrome (a.b.6)
+Hereditary spastic paraplegia (a.a.3)
+Biotinidase deficiency (a.a.9)
+Muenke syndrome (a.a.20)
+Hereditary Inclusion Body Myopathy (a.a.21)
+Caylor cardiofacial syndrome (a.a.22)
+Triple X syndrome (a.b.24)
+Cancer (a.b.1)
+Harlequin type ichthyosis (a.b.22)
+Mowat-Wilson syndrome (a.a.1)
+Homocystinuria (a.b.11)
+Prion disease (a.b.25)
+Albinism (a.b.9)
+Sphingomyelin phosphodiesterase (a.b.23)
+Myotonic dystrophy (a.b.12)
+Achondroplasia (a.a.29)
+Protein S deficiency (a.a.26)
+Schwartz–Jampel syndrome (a.b.12)
+variegate porphyria (a.a.28)
+Hypochondrogenesis (a.b.15)
+Beare-Stevenson cutis gyrata syndrome (a.a.2)
+Crouzon syndrome with acanthosis nigricans (a.a.12)
+Hereditary spinal ataxia (a.b.24)
+Albinism (a.b.21)
+Nonsyndromic deafness (a.a.26)
+JPLS (a.a.28)
+Williams Syndrome (a.b.5)
+Genetic hypercalciuria (a.a.29)
+Crouzon syndrome (a.a.30)
+Peutz-Jeghers syndrome (a.b.21)
+Biotinidase deficiency (a.a.27)
+Biotinidase deficiency (a.b.9)
+Muscular dystrophy (a.a.29)
+Hereditary hemorrhagic telangiectasia (HHT) (a.b.26)
+Weissenbacher-Zweymüller syndrome (a.a.24)
+Distal hereditary motor neuropathy (a.b.13)
+Pfeiffer syndrome (a.b.21)
+Prion disease (a.a.25)
+Friedreich's ataxia (a.a.22)
+tetrahydrobiopterin deficiency (a.b.27)
+Triple X syndrome (a.b.19)
+Stickler syndrome (a.b.21)
+Canavan disease (a.b.14)
+Microcephaly (a.a.19)
+Myotonic dystrophy (a.a.15)
+FG syndrome (a.b.22)
+Alzheimer's disease (a.b.11)
+Gaucher disease (a.b.1)
+Ataxia telangiectasia (a.a.22)
+Mucopolysaccharidosis (MPS I) (a.b.19)
+Pfeiffer syndrome (a.b.10)
+Charcot–Marie–Tooth disease (a.b.17)
+Patau Syndrome (Trisomy 13) (a.b.10)
+Spinal muscular atrophy (a.a.23)
+Protein C deficiency (a.b.22)
+Beare-Stevenson cutis gyrata syndrome (a.b.3)
+Smith Magenis Syndrome (a.a.5)
+Methemoglobinemia (a.a.4)
+Pfeiffer syndrome (a.b.7)
+Rubinstein-Taybi syndrome (a.b.3)
+Trisomy 21 (a.a.28)
+Albinism (a.a.23)
+Trisomy 21 (a.b.15)
+Pendred syndrome (a.a.11)
+Cystic fibrosis (a.b.6)
+Weissenbacher-Zweymüller syndrome (a.a.19)
+de Grouchy syndrome (a.a.11)
+Di George's syndrome (a.b.23)
+Siderius X-linked mental retardation syndrome (a.a.10)
+von Hippel-Lindau disease (a.b.3)
+SED congenita (a.a.21)
+Erythroblastic anemia (a.b.9)
+Smith-Lemli-Opitz syndrome (a.a.25)
+see Down syndrome (a.b.1)
+tetrahydrobiopterin deficiency (a.b.24)
+Pseudoxanthoma elasticum (a.a.18)
+Hypochondroplasia (a.a.8)
+Osteogenesis imperfecta (a.a.3)
+Galactosemia (a.b.26)
+Haemochromatosis (a.b.9)
+Pendred syndrome (a.b.17)
+HNPP (a.a.18)
+Protein C deficiency (a.b.21)
+Rubinstein-Taybi syndrome (a.b.20)
+Hemophilia (a.b.23)
+Osteogenesis imperfecta (a.a.12)
+Fabry disease (a.b.17)
+familial dysautonomia (a.a.27)
+Alström syndrome (a.b.28)
+von Hippel-Lindau disease (a.a.23)
+CADASIL syndrome (a.a.22)
+Anemia (a.b.4)
+Androgen insensitivity syndrome (a.a.7)
+Polycystic Ovarian Syndrome (PCOS) (a.b.26)
+Hemophilia (a.a.21)
+Acute intermittent porphyria (a.b.10)
+Crouzon syndrome with acanthosis nigricans (a.b.3)
+Myotonic dystrophy (a.a.28)
+Hyperoxaluria, primary (a.b.21)
+Acute intermittent porphyria (a.b.16)
+Microcephaly (a.b.24)
+Nonketotic hyperglycinemia (a.a.22)
+see Down syndrome (a.b.19)
+Hepatoerythropoietic porphyria (a.b.20)
+CPO deficiency (a.a.9)
+infantile-onset ascending hereditary spastic paralysis (a.b.14)
+Hyperphenylalaninemia (a.b.28)
+Schwartz–Jampel syndrome (a.b.22)
+Homocystinuria (a.a.22)
+Sandhoff disease (a.b.21)
+Klinefelter syndrome (a.a.2)
+Spinocerebellar ataxia (a.a.1)
+de Grouchy syndrome (a.b.20)
+Hereditary multiple exostoses (a.b.21)
+von Hippel-Lindau disease (a.a.26)
+Mediterranean fever (a.a.11)
+Beare-Stevenson cutis gyrata syndrome (a.b.21)
+Huntington's disease (a.b.22)
+Triple X syndrome (a.b.9)
+Micro syndrome (a.b.6)
+Hypochondrogenesis (a.b.27)
+Krabbe disease (a.b.28)
+Hepatoerythropoietic porphyria (a.b.7)
+Methemoglobinemia (a.b.26)
+Incontinentia pigmenti (a.a.10)
+Coffin–Lowry syndrome (a.a.26)
+Albinism (a.a.7)
+Hereditary hemorrhagic telangiectasia (HHT) (a.b.18)
+Mediterranean fever (a.a.24)
+Hereditary coproporphyria (a.b.1)
+Adenylosuccinate lyase deficiency (a.a.23)
+porphyria (a.b.2)
+Li-Fraumeni syndrome (a.a.24)
+Hereditary coproporphyria (a.a.26)
+Hyperphenylalaninemia (a.a.14)
+Protein C deficiency (a.b.27)
+Joubert syndrome (a.a.19)
+Di George's syndrome (a.a.30)
+Cri du chat (a.b.9)
+Lesch-Nyhan syndrome (a.a.26)
+Niemann-Pick (a.a.1)
+Ogden syndrome (a.b.7)
+PCC deficiency (a.b.1)
+Homocystinuria (a.a.28)
+Alagille syndrome (a.a.19)
+Erythroblastic anemia (a.b.14)
+Krabbe disease (a.b.20)
+Hyperphenylalaninemia (a.b.4)
+Collagenopathy, types II and XI (a.a.7)
+Huntington's disease (a.a.21)
+ICF syndrome (a.a.18)
+Marfan syndrome (a.b.23)
+infantile-onset ascending hereditary spastic paralysis (a.b.15)
+Homocystinuria (a.b.9)
+G6PD deficiency (a.a.21)
+Smith-Lemli-Opitz syndrome (a.a.15)
+Fabry disease (a.b.14)
+Schwartz–Jampel syndrome (a.a.23)
+Niemann-Pick (a.b.28)
+Klinefelter syndrome (a.a.3)
+Methemoglobinemia (a.b.5)
+Harlequin type ichthyosis (a.a.4)
+Incontinentia pigmenti (a.a.17)
+Pfeiffer syndrome (a.a.10)
+Cockayne syndrome (a.a.15)
+Methylmalonic acidemia (a.b.20)
+Neurofibromatosis type I (a.b.28)
+Hereditary Inclusion Body Myopathy (a.a.22)
+Phenylketonuria (a.a.21)
+Hutchinson–Gilford progeria syndrome (a.a.5)
+Adrenoleukodystrophy (a.b.3)
+Hereditary Inclusion Body Myopathy (a.a.30)
+see Down syndrome (a.b.20)
+Hypochondrogenesis (a.a.8)
+Incontinentia pigmenti (a.b.9)
+Adenylosuccinate lyase deficiency (a.b.16)
+Crohn's disease (a.a.5)
+Trisomy 21 (a.a.8)
+Cri du chat (a.b.20)
+Galactosemia (a.a.6)
+Achondroplasia (a.b.26)
+Achondroplasia (a.b.2)
+Harlequin type ichthyosis (a.b.8)
+Aceruloplasminemia (a.b.1)
+Mediterranean fever (a.b.27)
+porphyria (a.a.7)
+FG syndrome (a.b.13)
+Usher syndrome (a.a.22)
+Achondrogenesis (a.b.6)
+Crouzon syndrome (a.b.24)
+PCT (a.a.20)
+Caylor cardiofacial syndrome (a.a.26)
+Waardenburg syndrome (a.b.14)
+Cri du chat (a.b.22)
+Siderius X-linked mental retardation syndrome (a.a.13)
+Fanconi anemia (a.a.9)
+Incontinentia pigmenti (a.a.1)
+Spinocerebellar ataxia (a.a.6)
+PCC deficiency (a.a.30)
+Huntington's disease (a.b.13)
+Prader-Willi syndrome (a.b.5)
+Primary ciliary dyskinesia (PCD) (a.a.15)
+Stickler syndrome (a.b.13)
+Schwartz–Jampel syndrome (a.b.21)
+Cowden syndrome (a.a.5)
+Osteogenesis imperfecta (a.a.23)
+Amyotrophic lateral sclerosis (a.a.29)
+Benjamin syndrome (a.a.9)
+Wolf–Hirschhorn syndrome (a.a.13)
+Ataxia telangiectasia (a.b.4)
+Niemann-Pick (a.a.7)
+Mowat-Wilson syndrome (a.a.26)
+Birth Defects (a.b.5)
+Spinal muscular atrophy (a.a.25)
+Erythroblastic anemia (a.a.26)
+porphyria (a.a.6)
+Hypochondroplasia (a.b.17)
+Androgen insensitivity syndrome (a.a.4)
+Lactose intolerance (a.a.1)
+Marfan syndrome (a.b.16)
+Li-Fraumeni syndrome (a.a.14)
+Klinefelter syndrome (a.b.8)
+Benjamin syndrome (a.a.12)
+Pendred syndrome (a.a.29)
+Neurofibromatosis type I (a.b.7)
+CADASIL syndrome (a.b.28)
+Li-Fraumeni syndrome (a.b.5)
+Myotonic dystrophy (a.b.16)
+PCC deficiency (a.b.20)
+Achondrogenesis (a.b.3)
+PCT (a.b.14)
+Canavan disease (a.a.28)
+Distal hereditary motor neuropathy (a.b.23)
+Polycystic Ovarian Syndrome (PCOS) (a.a.23)
+Micro syndrome (a.b.10)
+Di George's syndrome (a.b.3)
+Glycine encephalopathy (a.a.30)
+Kniest dysplasia (a.a.22)
+ICF syndrome (a.a.1)
+Pendred syndrome (a.a.24)
+Hereditary spastic paraplegia (a.a.12)
+Microcephaly (a.b.13)
+Genetic hypercalciuria (a.b.2)
+Patau Syndrome (Trisomy 13) (a.a.3)
+Usher syndrome (a.a.4)
+Methylmalonic acidemia (a.b.26)
+Micro syndrome (a.a.29)
+Pfeiffer syndrome (a.b.24)
+Prader-Willi syndrome (a.a.2)
+Lesch-Nyhan syndrome (a.a.8)
+Crohn's disease (a.b.20)
+Waardenburg syndrome (a.b.3)
+Sandhoff disease (a.a.16)
+Gaucher disease (a.b.22)
+CPO deficiency (a.a.28)
+Gaucher disease (a.b.23)
+Wilson disease (a.a.2)
+Muscular dystrophy (a.a.28)
+Muenke syndrome (a.b.3)
+Bloom syndrome (a.a.10)
+Harlequin type ichthyosis (a.b.11)
+Alkaptonuria (a.b.19)
+HNPP (a.b.25)
+Adrenoleukodystrophy (a.b.5)
+infantile-onset ascending hereditary spastic paralysis (a.a.8)
+tetrahydrobiopterin deficiency (a.b.14)
+Coffin–Lowry syndrome (a.a.24)
+Schwartz–Jampel syndrome (a.b.17)
+Pendred syndrome (a.a.3)
+primary pulmonary hypertension (a.a.29)
+Lipoprotein lipase deficiency (a.b.4)
+CPO deficiency (a.a.8)
+Hemophilia (a.b.3)
+Triple X syndrome (a.a.2)
+Hereditary multiple exostoses (a.a.6)
+Cancer (a.a.21)
+Alpha 1-antitrypsin deficiency (a.a.27)
+Alagille syndrome (a.a.26)
+Alzheimer's disease (a.a.20)
+Aceruloplasminemia (a.b.17)
+Phenylketonuria (a.a.14)
+Krabbe disease (a.b.27)
+Hereditary multiple exostoses (a.a.7)
+Coffin–Lowry syndrome (a.a.17)
+Muenke syndrome (a.b.19)
+Alzheimer's disease (a.b.28)
+primary pulmonary hypertension (a.a.8)
+Cancer (a.b.12)
+Rett syndrome (a.b.5)
+Campomelic dysplasia (a.b.7)
+Alpha 1-antitrypsin deficiency (a.b.1)
+primary pulmonary hypertension (a.b.4)
+Hereditary coproporphyria (a.b.25)
+Mucopolysaccharidosis (MPS I) (a.b.28)
+Ehlers–Danlos syndrome (a.a.7)
+Neurofibromatosis type II (a.b.27)
+Nonsyndromic deafness (a.a.2)
+CADASIL syndrome (a.b.15)
+Rett syndrome (a.a.2)
+Micro syndrome (a.b.2)
+Glycine encephalopathy (a.b.8)
+Cowden syndrome (a.a.11)
+Fabry disease (a.a.5)
+Microcephaly (a.b.26)
+Bloom syndrome (a.a.7)
+Di George's syndrome (a.a.5)
+Haemochromatosis (a.a.8)
+Hereditary coproporphyria (a.a.9)
+PCC deficiency (a.a.14)
+Pantothenate kinase-associated neurodegeneration (a.a.29)
+Weissenbacher-Zweymüller syndrome (a.b.4)
+Marfan syndrome (a.b.28)
+Menkes disease (a.a.19)
+Tay-Sachs disease (a.b.4)
+Erythroblastic anemia (a.a.27)
+Usher syndrome (a.a.14)
+Cystic fibrosis (a.b.19)
+Protein C deficiency (a.a.13)
+Lipoprotein lipase deficiency (a.a.3)
+Glycine encephalopathy (a.a.24)
+Siderius X-linked mental retardation syndrome (a.b.24)
+Rett syndrome (a.a.8)
+Distal hereditary motor neuropathy (a.a.5)
+Collagenopathy, types II and XI (a.b.11)
+Patau Syndrome (Trisomy 13) (a.b.5)
+Hyperphenylalaninemia (a.b.5)
+Prion disease (a.b.2)
+Adrenoleukodystrophy (a.b.25)
+PCC deficiency (a.a.1)
+Prion disease (a.b.15)
+Jackson–Weiss syndrome (a.b.24)
+Hereditary multiple exostoses (a.b.22)
+PCT (a.a.27)
+Collagenopathy, types II and XI (a.b.7)
+Smith Magenis Syndrome (a.a.9)
+Cowden syndrome (a.b.23)
+Methylmalonic acidemia (a.b.23)
+Weissenbacher-Zweymüller syndrome (a.a.22)
+Achondrogenesis (a.a.30)
+Schwartz–Jampel syndrome (a.b.16)
+Methemoglobinemia (a.b.27)
+infantile-onset ascending hereditary spastic paralysis (a.a.23)
+Amyotrophic lateral sclerosis (a.b.21)
+SSB syndrome (a.a.26)
+Triple X syndrome (a.b.26)
+Muscular dystrophy (a.b.25)
+Hereditary hemorrhagic telangiectasia (HHT) (a.b.12)
+Pseudo-Gaucher disease (a.b.6)
+Cancer (a.b.25)
+Rett syndrome (a.b.22)
+Hepatoerythropoietic porphyria (a.b.25)
+Spinal muscular atrophy (a.b.11)
+Micro syndrome (a.b.17)
+Benjamin syndrome (a.a.2)
+Crouzon syndrome (a.a.5)
+Microcephaly (a.b.17)
+Neurofibromatosis type II (a.b.5)
+infantile-onset ascending hereditary spastic paralysis (a.b.18)
+Protein C deficiency (a.b.12)
+Pendred syndrome (a.b.18)
+Genetic hypercalciuria (a.b.20)
+Methemoglobinemia (a.a.2)
+Ataxia telangiectasia (a.a.4)
+Methylmalonic acidemia (a.a.17)
+Rubinstein-Taybi syndrome (a.a.24)
+Mowat-Wilson syndrome (a.a.24)
+Pendred syndrome (a.b.3)
+Birt–Hogg–Dubé syndrome (a.a.2)
+Erythroblastic anemia (a.b.13)
+Polycystic kidney disease (a.b.4)
+McLeod syndrome (a.b.24)
+Benjamin syndrome (a.b.25)
+Polycystic Ovarian Syndrome (PCOS) (a.a.15)
+Treacher Collins syndrome (a.b.1)
+Spinocerebellar ataxia (a.b.21)
+Nonketotic hyperglycinemia (a.b.4)
+variegate porphyria (a.b.26)
+Muenke syndrome (a.b.14)
+Hereditary spastic paraplegia (a.b.26)
+Menkes disease (a.b.13)
+HNPP (a.a.20)
+Adrenoleukodystrophy (a.b.21)
+see Down syndrome (a.a.28)
+Chondrodystrophy with dysplasia (a.a.5)
+Alzheimer's disease (a.b.16)
+Pseudoxanthoma elasticum (a.b.26)
+Protoporphyria (a.b.12)
+Aceruloplasminemia (a.b.28)
+Gaucher disease (a.a.24)
+factor V Leiden thrombophilia (a.a.28)
+variegate porphyria (a.a.26)
+Campomelic dysplasia (a.b.3)
+Di George's syndrome (a.a.28)
+PCT (a.a.14)
+Hereditary multiple exostoses (a.a.30)
+SSB syndrome (a.a.6)
+Albinism (a.b.20)
+Weissenbacher-Zweymüller syndrome (a.a.16)
+Weissenbacher-Zweymüller syndrome (a.a.15)
+Cockayne syndrome (a.b.13)
+Lipoprotein lipase deficiency (a.b.10)
+Birth Defects (a.a.13)
+McCune–Albright syndrome (a.a.4)
+Biotinidase deficiency (a.a.19)
+Benjamin syndrome (a.a.21)
+Lipoprotein lipase deficiency (a.a.9)
+Methemoglobinemia (a.a.11)
+Osteogenesis imperfecta (a.b.28)
+Amelogenesis imperfecta (a.b.14)
+Cockayne syndrome (a.a.26)
+Marfan syndrome (a.b.19)
+Mediterranean fever (a.b.6)
+Neurofibromatosis type I (a.b.16)
+Rubinstein-Taybi syndrome (a.b.2)
+porphyria (a.b.11)
+Pendred syndrome (a.a.10)
+Strudwick syndrome (a.b.15)
+G6PD deficiency (a.a.7)
+Kniest dysplasia (a.b.3)
+Harlequin type ichthyosis (a.b.3)
+Albinism (a.b.25)
+Di George's syndrome (a.a.24)
+von Hippel-Lindau disease (a.b.15)
+Lipoprotein lipase deficiency (a.b.21)
+thanatophoric dysplasia (a.b.8)
+Distal hereditary motor neuropathy (a.a.9)
+PCC deficiency (a.b.8)
+CPO deficiency (a.b.27)
+Crouzon syndrome with acanthosis nigricans (a.b.15)
+Niemann-Pick (a.b.18)
+Cystic fibrosis (a.a.6)
+Hemophilia (a.b.22)
+Birt–Hogg–Dubé syndrome (a.a.3)
+Acute intermittent porphyria (a.a.6)
+

@@ -1,0 +1,17 @@
+# Marker gene,disease:
+0
+# Number of genes in patient's genome:
+10
+atggttcaatgcgtaaccagatcttttgggta
+ccaaactcattgtcaagtttttaccggctcag
+actagcccattgactatggtgttgttaaaagt
+cgcattcgcctctattgggctccgagtctgcc
+gacatagggaattctagaatcgtacggtatat
+actgccgagtggcatcacgacctcggatatgg
+actctcctcgcgccgccacggagtgagcacca
+tatgagctctaacctcactgttgtcgagtggg
+ctacccgggtgatttgtgaagacattgaatgg
+ttggggaacaattctaaatgtacccagtaggg
+# Expected result (diseases patient could have): 
+0
+
