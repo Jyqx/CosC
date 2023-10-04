@@ -1,0 +1,19 @@
+# Marker gene,disease:
+2
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+# Number of genes in patient's genome:
+10
+acatagggaattctagaatcgtacggtatata
+atgagctctaacctcactgttgtcgagtggga
+caaactcattgtcaagtttttaccggctcagt
+ctagcccattgactatggtgttgttaaaagta
+ctctcctcgcgccgccacggagtgagcaccac
+ctgccgagtggcatcacgacctcggatatggc
+gcattcgcctctattgggctccgagtctgcct
+tacccgggtgatttgtgaagacattgaatggg
+tggggaacaattctaaatgtacccagtaggga
+tggttcaatgcgtaaccagatcttttgggtac
+# Expected result (diseases patient could have): 
+0
+

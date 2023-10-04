@@ -1,0 +1,13 @@
+# Marker gene,disease:
+1
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+# Number of genes in patient's genome:
+5
+acatagggaattctagaatcgtacggtatata
+ctagcccattgactatggtgttgttaaaagta
+ctctcctcgcgccgccacggagtgagcaccac
+gcattcgcctctattgggctccgagtctgcct
+tggggaacaattctaaatgtacccagtaggga
+# Expected result (diseases patient could have): 
+0
+

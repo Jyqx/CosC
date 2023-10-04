@@ -1,0 +1,107 @@
+# Marker gene,disease:
+50
+tagaaaagcgctcgttgttgagctcagtttcg,Achondrogenesis (a.b.3)
+gtggggcttattcacaggccagccccccccaa,Achondrogenesis (a.b.6)
+gtcttgaccctgcatctttcagtggacgtaag,Achondroplasia (a.b.26)
+cgctactctcactttctgcaccatgtcccggc,Adrenoleukodystrophy (a.a.1)
+cgtcggtttataccagaagtgaggctcagtga,Alpha 1-antitrypsin deficiency (a.a.19)
+gaagtttgaggcggccacctatactgaggagc,Alström syndrome (a.a.12)
+tcatttagaattgataggtacataagaccagt,Alzheimer's disease (a.a.20)
+tacaccgttcatctgtcgccgtatctgagtca,Androgen insensitivity syndrome (a.a.4)
+tgtatatacaataggccaatctcatttcctcg,Birt–Hogg–Dubé syndrome (a.a.2)
+cgtcgagttaaaagactgcgcttaggggctca,Broad Thumb-Hallux syndrome (a.b.19)
+aagggggtcgatgtcgtatatggtttactagg,CPO deficiency (a.a.19)
+acctgaaaccataatcatagcaattcccacct,Caylor cardiofacial syndrome (a.a.23)
+tttaaaggcattctattcgggaaactatatac,Di George's syndrome (a.a.24)
+tcgttgtctgaccttactggatcgtacgtgcc,Di George's syndrome (a.a.5)
+tagacactttacttgccgctttaaacaattac,Distal hereditary motor neuropathy (a.b.23)
+agtcggagaatctccgtatattgacagcgcgg,Ehlers–Danlos syndrome (a.a.27)
+gctcttggcgatgagcgatgcgacagcctgga,Galactosemia (a.b.26)
+ttttggcattagggactccgaatgcctatctg,Hemophilia (a.b.22)
+acctataaactcatgcgcaccctgcagagccg,Hepatoerythropoietic porphyria (a.b.24)
+aaggtctaagaggatatgcaactcctacgcta,Hereditary coproporphyria (a.b.11)
+ctgcgtcggttgactagaaaagtaggcaagaa,Hereditary spinal ataxia (a.b.12)
+ctcagagactatttgcaaatttaaacgacaac,Hutchinson–Gilford progeria syndrome (a.b.24)
+gcaaatataaccaaatggttgaccaactcaca,JPLS (a.a.28)
+agagagaggggggaccatgtcttctggcacga,Joubert syndrome (a.a.1)
+gtaacaggccagcttaacggtagttgcgacca,Marfan syndrome (a.b.23)
+cccaccagtgccctgttcagtgttcgaaatta,McCune–Albright syndrome (a.b.20)
+tctattcagcagctcaggtggtactgaagagc,Menkes disease (a.a.19)
+aactgcgctatgtgaatcggcccgagtggggc,Mowat-Wilson syndrome (a.a.23)
+ctgaacgcagcgagccttcatggctgggttca,Mucopolysaccharidosis (MPS I) (a.b.24)
+aagtgaaagcgatcttagtggaatggctcaga,Muenke syndrome (a.b.16)
+aactctcgcttgctttcggctatacgcctgtg,Myotonic dystrophy (a.b.17)
+taagtaccggaaggctggggccaacacagcct,Niemann-Pick (a.a.7)
+tctagtcagagaaaggctcttcacgagcctcg,PCC deficiency (a.a.14)
+gttggcggctctattgcccgggctcgttcaac,PCC deficiency (a.a.30)
+tgcatttgcgtcaatatccttatggccacacc,PCT (a.a.27)
+caccacgttgtcggtttttctggcgcgaggaa,PCT (a.b.2)
+cctacgccctcataagttttaatgatgacgct,Pfeiffer syndrome (a.a.2)
+gacctagggcgccccggctcgaacgctatcag,Phenylketonuria (a.a.19)
+ttagactatcgcacttatataaagaactagcg,Protoporphyria (a.b.12)
+ggcgctcaactactcgtgtactttagtcattc,Sandhoff disease (a.b.21)
+gttttgctttgagctaacagtctatgagctat,Schwartz–Jampel syndrome (a.b.21)
+ggcgacaccctatagacaataccgtcctatac,Schwartz–Jampel syndrome (a.b.22)
+agtctgatattgcgcagagataattagttcag,Siderius X-linked mental retardation syndrome (a.a.22)
+ataccgtttgagcgaatgcgacaacgagatgt,Siderius X-linked mental retardation syndrome (a.a.5)
+tgtgtcacgccactaggatataagagcttgat,Spinocerebellar ataxia (a.b.21)
+gagaattggtccagcgccgctttcaagacgag,Usher syndrome (a.b.14)
+atattagctcgatacaggggtaatttcggtgc,factor V Leiden thrombophilia (a.a.20)
+ttagccactactgtatcaagtcaatcatggaa,factor V Leiden thrombophilia (a.a.28)
+acgtgtgagagctcaatattctgggagtgctt,primary pulmonary hypertension (a.a.17)
+caacgccgtacgatgcccaggctgatgaggct,variegate porphyria (a.b.16)
+# Number of genes in patient's genome:
+50
+acatacgtatcagtccgctctgatgctgtgcc
+accaaaggcctcaggggcctgaaagccgacac
+actcattgtcaagtttttaccggctcagtatg
+agcgccattatctgcctctggtgcgttaataa
+agctctaacctcactgttgtcgagtgggactg
+agtgtgcttcaaaccgtccttgaggcactgct
+ataagcagaggacgatcaacttacgaaggcta
+atacctcaaaaggcatcttattgtcggattcc
+cacagtcctgatagcatagatagttagtagaa
+cagttaacccagcgtgacgcggaaagccctgg
+ccagaactttggcaaatataaccgacgtcacc
+ccctcgcagagcatagattcgtgcattaagag
+cccttctgagcggatagctacgattagttcgt
+ccgagtggcatcacgacctcggatatggctac
+ccgggtgatttgtgaagacattgaatgggcgt
+cctcccttcaatttaaatcctagtgagaggca
+cgaatgcggaagaggcctaagcaacgagacaa
+cgactatccggatgaagtcaaattctggtaag
+cgcagagtttaggggccaagaatgtagataca
+cgtacaccttgttgtaatgtggtaacgatata
+ctaggttatccggacgctgtcaaaggctcccc
+cttagacgcccgcacgcgacctgttcgcggaa
+gaagatgggcgcaccgggggggaaactgaccg
+gaatcttatgcgcacaggttgacagaccggta
+gacatgattactaattcggcgccaaatagaac
+gaggatgccacgccacaataggaatcacgcct
+gataactatcgacacagtggtaatgtttgtcg
+gatagtgactcgccaacaacaagtcatggttc
+gccataccaggctaccaatggtcggacagata
+gcccattgactatggtgttgttaaaagtatgg
+gcccgctccgtagacactgtgttgctgtcgtc
+gcctctgaggtccgcgaaagtaccttacgtcc
+ggaacaattctaaatgtacccagtagggacta
+ggcagtttttttttcggaacctcccgggccct
+gtatcaaaagtattgccacgttctcgtcagcg
+taaagtatgtataggttgcgctagtcccgttg
+taactatggggggacgatcgcgcaccctctgc
+tacccctcgacatcacatgagaggcagcttat
+taccgcgagtatgaaaggcgtcatgggttatt
+tcaactatattacctttcccaatgttcagact
+tcctcgcgccgccacggagtgagcaccacgca
+tgctcaggtgcaagtttctgaactgcgacgtg
+tgtactccgctgaatggtgcttactgctccta
+ttaacacaactacctccttcgtttactcatat
+ttatcaggttcaatgacattaatagatggggc
+ttcaaagcgacggtgttaacactgtaccgtcc
+ttcaatgcgtaaccagatcttttgggtaccaa
+ttcgcctctattgggctccgagtctgccttgg
+ttgtgcgatggattgcattccgggcttcgcta
+tttcatggtactacagacttgcaggctagtgc
+# Expected result (diseases patient could have): 
+0
+
