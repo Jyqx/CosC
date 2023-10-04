@@ -1,5 +1,5 @@
 """ Filename: binary_gene_match.py
-    Author: your name should potentially go here
+    Author: Luke Donaldson-Scott
 
 A module for finding the genetic similarity between 
 two genomes using a binary search.
@@ -8,9 +8,7 @@ from classes import GeneList
 
 
 # Uncomment the following line to be able to make your own testing Genes
-# from classes import Gene, Genome
-
-
+from classes import Gene, Genome
 
 
 def binary_gene_match(first_genome, second_genome):
@@ -28,6 +26,26 @@ def binary_gene_match(first_genome, second_genome):
     comparisons = 0
     common_genes = GeneList()
     # ---start student section---
-    pass
+    for gene in first_genome:
+        left = 0
+        right = len(second_genome) - 1
+        found = False
+
+        while left <= right:
+            mid = (left + right) // 2
+            comparisons += 1
+
+            if second_genome[mid] == gene:
+                common_genes.append(gene)
+                found = True
+                break
+            elif second_genome[mid] < gene:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        if not found:
+            break
+
     # ===end student section===
     return common_genes, comparisons
