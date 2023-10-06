@@ -1,0 +1,14 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+0
+# Heap instructions (10)
+# Enqueues: 10 Dequeues: 0
+enqueue Cindy Silverman, 21, 273
+enqueue Samuel Twitt, 1, 146
+enqueue Barbara Rimple, 2, 213
+enqueue Scott Bates, 19, 2
+enqueue Daniel Secrease, 1, 287
+enqueue Virginia Field, 2, 243
+enqueue Linda Richardson, 16, 128
+enqueue William Rousseau, 20, 304
+enqueue Ruth Achee, 21, 78
+enqueue Holly Washington, 3, 126

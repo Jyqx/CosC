@@ -1,0 +1,8 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+1
+Cindy Silverman, 21, 273
+# Heap instructions (3)
+# Enqueues: 1 Dequeues: 2
+dequeue Cindy Silverman
+enqueue Samuel Twitt, 1, 146
+dequeue Samuel Twitt

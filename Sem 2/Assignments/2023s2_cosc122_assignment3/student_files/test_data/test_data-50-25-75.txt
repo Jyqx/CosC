@@ -1,0 +1,154 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+50
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+Jc Norton, 7, 356
+Linda Lewis, 15, 336
+Nina Sheffield, 16, 20
+Joe Matton, 5, 49
+Rachel Hallman, 12, 300
+Isabel Broker, 8, 316
+Mary Crisp, 10, 267
+Wesley Rivera, 4, 206
+Christine Martinez, 17, 322
+Clarence Folwell, 21, 8
+Sarita Terry, 18, 241
+Annie Ackies, 10, 229
+Elizabeth Jackson, 2, 260
+Oscar Powers, 16, 296
+Karl Sperry, 10, 359
+Denise Wells, 2, 310
+Byron Mahoney, 12, 68
+Melanie Chaney, 19, 19
+William Pugmire, 5, 316
+Vincent Kozan, 17, 4
+April Chittum, 15, 236
+Carolyn Bradley, 10, 270
+Mary Wallace, 8, 43
+Tony Tieng, 21, 109
+Lisa Granger, 16, 165
+# Heap instructions (100)
+# Enqueues: 25 Dequeues: 75
+dequeue Joey Lewis
+enqueue Gerald Szeto, 9, 240
+dequeue Karl Sperry
+dequeue Jc Norton
+dequeue Linda Lewis
+dequeue Steven Dover
+enqueue Joseph Leonard, 18, 222
+enqueue Lance Gassen, 13, 21
+dequeue Christine Martinez
+dequeue Isabel Broker
+enqueue Melissa Ellis, 14, 62
+enqueue Bernie Ward, 13, 84
+enqueue Andrew Happenny, 19, 131
+dequeue William Pugmire
+dequeue Denise Wells
+dequeue Rachel Hallman
+dequeue Oscar Powers
+enqueue Elizabeth Howell, 17, 364
+dequeue Elizabeth Howell
+dequeue Gayla Olson
+dequeue Mikel Keenum
+enqueue Luke Saechao, 14, 269
+dequeue Catherine Starnes
+enqueue Anthony Jones, 18, 270
+dequeue Kim Justice
+dequeue Daniel Secrease
+dequeue Cindy Silverman
+dequeue Ida Easterly
+enqueue Patrick Brown, 8, 153
+enqueue Felipe Alvares, 8, 168
+dequeue Vincent Arnett
+enqueue Sherry Lewis, 17, 294
+dequeue Sherry Lewis
+dequeue Anthony Jones
+dequeue Carolyn Bradley
+enqueue Maureen Betts, 7, 112
+enqueue Rosella Sneed, 10, 192
+dequeue Luke Saechao
+dequeue Mary Crisp
+enqueue Gladys Olivas, 17, 220
+dequeue Elizabeth Jackson
+dequeue Linda Dean
+dequeue Sarita Terry
+enqueue Mark Street, 6, 13
+dequeue Kevin Throgmorton
+dequeue Gerald Szeto
+dequeue April Chittum
+enqueue Brandon Self, 12, 286
+dequeue Brandon Self
+enqueue Janice Harrison, 14, 13
+dequeue Annie Ackies
+dequeue Kenneth Salvo
+dequeue Jose Brunetto
+dequeue Joseph Leonard
+enqueue Laura Echols, 11, 153
+enqueue Paul Godfrey, 12, 224
+enqueue John Jensen, 9, 358
+enqueue Lissette Muniz, 7, 78
+dequeue John Jensen
+dequeue Paul Godfrey
+dequeue Gladys Olivas
+enqueue Jose Lyons, 17, 59
+enqueue Barbara Gonzales, 11, 264
+enqueue Angel Tee, 20, 236
+dequeue Barbara Gonzales
+dequeue Angel Tee
+dequeue Shirley Dini
+dequeue Tommy Burton
+dequeue Wesley Rivera
+dequeue Amy Vining
+dequeue Rosella Sneed
+dequeue June Polhemus
+dequeue Alexander Dixon
+dequeue Felipe Alvares
+dequeue Lisa Granger
+dequeue Laura Echols
+dequeue Patrick Brown
+dequeue Andrew Happenny
+dequeue Holly Washington
+dequeue Tony Tieng
+dequeue Maureen Betts
+dequeue Mildred Letlow
+dequeue Herbert Wiley
+dequeue Bernie Ward
+dequeue Lissette Muniz
+dequeue Byron Mahoney
+dequeue Melissa Ellis
+dequeue Jose Lyons
+dequeue Erin Gaughan
+dequeue Joe Matton
+dequeue Mary Wallace
+dequeue Anthony Villarreal
+dequeue Pete Ray
+dequeue Lance Gassen
+dequeue Melanie Chaney
+dequeue Nina Sheffield
+dequeue Janice Harrison
+dequeue Mark Street
+dequeue Clarence Folwell
+dequeue Vincent Kozan

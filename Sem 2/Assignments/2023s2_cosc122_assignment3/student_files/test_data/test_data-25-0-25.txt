@@ -1,0 +1,54 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+25
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+# Heap instructions (25)
+# Enqueues: 0 Dequeues: 25
+dequeue Joey Lewis
+dequeue Steven Dover
+dequeue Gayla Olson
+dequeue Mikel Keenum
+dequeue Catherine Starnes
+dequeue Kim Justice
+dequeue Daniel Secrease
+dequeue Cindy Silverman
+dequeue Ida Easterly
+dequeue Vincent Arnett
+dequeue Linda Dean
+dequeue Kevin Throgmorton
+dequeue Kenneth Salvo
+dequeue Jose Brunetto
+dequeue Shirley Dini
+dequeue Tommy Burton
+dequeue Amy Vining
+dequeue June Polhemus
+dequeue Alexander Dixon
+dequeue Holly Washington
+dequeue Mildred Letlow
+dequeue Herbert Wiley
+dequeue Erin Gaughan
+dequeue Anthony Villarreal
+dequeue Pete Ray

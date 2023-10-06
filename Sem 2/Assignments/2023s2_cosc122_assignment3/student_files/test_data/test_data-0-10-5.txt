@@ -1,0 +1,19 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+0
+# Heap instructions (15)
+# Enqueues: 10 Dequeues: 5
+enqueue Cindy Silverman, 21, 273
+enqueue Samuel Twitt, 1, 146
+dequeue Cindy Silverman
+dequeue Samuel Twitt
+enqueue Alvin Dills, 2, 213
+dequeue Alvin Dills
+enqueue Scott Bates, 19, 2
+dequeue Scott Bates
+enqueue Daniel Secrease, 1, 287
+enqueue Virginia Field, 2, 243
+enqueue Linda Richardson, 16, 128
+dequeue Daniel Secrease
+enqueue Matthew Halbert, 19, 123
+enqueue Earl Williamson, 5, 127
+enqueue Richard Thomas, 10, 303

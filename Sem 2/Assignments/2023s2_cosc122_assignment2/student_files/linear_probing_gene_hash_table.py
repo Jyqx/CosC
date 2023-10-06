@@ -74,8 +74,8 @@ class LinearProbingGeneHashTable:
         # ---start student section---
 
         # Check if the table is now full
-        # if self.hashes == self.table_size:
-        #     raise IndexError("The table is now full.")
+        if self.hashes == self.table_size:
+            raise IndexError("The table is now full.")
 
         # Calculate the initial hash index for the gene
         initial_index = hash(gene) % self.table_size

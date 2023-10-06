@@ -1,0 +1,79 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+50
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+Jc Norton, 7, 356
+Linda Lewis, 15, 336
+Nina Sheffield, 16, 20
+Joe Matton, 5, 49
+Rachel Hallman, 12, 300
+Isabel Broker, 8, 316
+Mary Crisp, 10, 267
+Wesley Rivera, 4, 206
+Christine Martinez, 17, 322
+Clarence Folwell, 21, 8
+Sarita Terry, 18, 241
+Annie Ackies, 10, 229
+Elizabeth Jackson, 2, 260
+Oscar Powers, 16, 296
+Karl Sperry, 10, 359
+Denise Wells, 2, 310
+Byron Mahoney, 12, 68
+Melanie Chaney, 19, 19
+William Pugmire, 5, 316
+Vincent Kozan, 17, 4
+April Chittum, 15, 236
+Carolyn Bradley, 10, 270
+Mary Wallace, 8, 43
+Tony Tieng, 21, 109
+Lisa Granger, 16, 165
+# Heap instructions (25)
+# Enqueues: 25 Dequeues: 0
+enqueue Michael Martin, 9, 240
+enqueue Danielle Morse, 2, 89
+enqueue Julie Hagan, 6, 57
+enqueue Patricia Pottinger, 16, 141
+enqueue Melissa Ellis, 14, 62
+enqueue Bernie Ward, 13, 84
+enqueue Andrew Happenny, 19, 131
+enqueue Virginia Carrillo, 12, 37
+enqueue Grace Rhodes, 9, 261
+enqueue David Blalock, 18, 217
+enqueue Laurence Gallaher, 6, 188
+enqueue Theresa Herrmann, 10, 72
+enqueue Kimberly Rosen, 8, 153
+enqueue Felipe Alvares, 8, 168
+enqueue Marion Dobson, 4, 260
+enqueue Star Smallwood, 19, 347
+enqueue Maureen Betts, 7, 112
+enqueue Rosella Sneed, 10, 192
+enqueue Dorothy Cervantes, 21, 265
+enqueue Christina Thompson, 2, 152
+enqueue James Mccollum, 17, 363
+enqueue Mary Wilson, 15, 263
+enqueue Liz Salcedo, 19, 142
+enqueue Janice Harrison, 14, 13
+enqueue Mario Beatty, 18, 39

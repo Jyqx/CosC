@@ -1113,8 +1113,8 @@ def all_tests_suite():
     # suite.addTest(test_loader(SimpleBstInOrderTestFiles))
 
     # tests for BST on files...
-    suite.addTest(test_loader(TrivialBstTests))
-    # suite.addTest(test_loader(SmallBstTests))
+    # suite.addTest(test_loader(TrivialBstTests))
+    suite.addTest(test_loader(SmallBstTests))
     # suite.addTest(test_loader(MediumBstTests))
     # suite.addTest(test_loader(BigBstTests))
     # suite.addTest(test_loader(HugeBstTests))
