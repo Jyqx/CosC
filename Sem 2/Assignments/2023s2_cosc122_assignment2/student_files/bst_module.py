@@ -38,7 +38,7 @@ class GeneBst:
           You must figure out which gene comparison is done first.
           The SimpleBstStoreTests will help you figure it out. We recommend copying
           some of them over to your module and adjusting them for testing. You will
-          waant to change the code to print stuff rather than using assertions.
+          want to change the code to print stuff rather than using assertions.
         - If the gene already exists then the disease in that node should be updated
           to the given disease. This means that genes in the bst will be unique.
         - Any gene comparisons used should be kept track of via self.comparisons.
@@ -48,26 +48,27 @@ class GeneBst:
         # ---start student section---
         if self.root is None:
             self.root = GeneBstNode(gene, disease)
-        else:
-            current = self.root
-            while True:
-                self.comparisons += 1
-                if gene < current.gene:  # Access 'gene' directly
-                    if current.left is None:
-                        current.left = GeneBstNode(gene, disease)
-                        break
-                    else:
-                        current = current.left
-                elif gene > current.gene:  # Access 'gene' directly
-                    if current.right is None:
-                        current.right = GeneBstNode(gene, disease)
-                        break
-                    else:
-                        current = current.right
-                else:  # Gene already exists, update the disease
-                    current.disease = disease  # Access 'disease' directly
-                    break
+            return
 
+        current = self.root
+        while current:
+            self.comparisons += 1
+            print("Comparing:", gene, current.key)  # Add this line to check comparisons
+            if gene < current.key:  # Compare 'gene' with 'key'
+                if current.left is None:
+                    current.left = GeneBstNode(gene, disease)
+                    return  # Exit the loop when insertion is done
+                else:
+                    current = current.left
+            elif gene > current.key:  # Compare 'gene' with 'key'
+                if current.right is None:
+                    current.right = GeneBstNode(gene, disease)
+                    return  # Exit the loop when insertion is done
+                else:
+                    current = current.right
+            else:  # Gene already exists, update the disease
+                current.value = disease  # Update 'value' to store the disease
+                return  # Exit the loop when update is done
         # ===end student section===
 
     def __getitem__(self, gene):
@@ -87,12 +88,14 @@ class GeneBst:
         current = self.root
         while current:
             self.comparisons += 1
-            if gene < current.gene:  # Access 'gene' directly
+            print("Comparing:", gene, current.key)  # Add this line to check comparisons
+            if gene < current.key:  # Compare 'gene' with 'key'
                 current = current.left
-            elif gene > current.gene:  # Access 'gene' directly
+            elif gene > current.key:  # Compare 'gene' with 'key'
                 current = current.right
             else:  # Gene found
-                return current.disease  # Access 'disease' directly
+                return current.value  # Access 'value' to retrieve the disease
+
         # ===end student section===
         return value
 
@@ -151,7 +154,7 @@ def bst_in_order(root, result_list=None):
     # ---start student section---
     if root:
         result_list = bst_in_order(root.left, result_list)
-        result_list.append((root.gene, root.disease))
+        result_list.append((root.key, root.value))
         result_list = bst_in_order(root.right, result_list)
     # ===end student section===
     return result_list

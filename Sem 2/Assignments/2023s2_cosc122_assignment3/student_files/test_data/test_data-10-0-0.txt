@@ -1,0 +1,14 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+10
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+# Heap instructions (0)
+# Enqueues: 0 Dequeues: 0

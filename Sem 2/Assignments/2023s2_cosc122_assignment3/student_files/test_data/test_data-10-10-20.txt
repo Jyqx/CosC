@@ -1,0 +1,44 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+10
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+# Heap instructions (30)
+# Enqueues: 10 Dequeues: 20
+enqueue Johnnie Curran, 9, 322
+enqueue Terry Holmes, 19, 321
+dequeue Joey Lewis
+enqueue June Polhemus, 15, 186
+enqueue Bernice Taylor, 18, 75
+enqueue William Cruz, 4, 212
+dequeue Steven Dover
+enqueue Shirley Dini, 8, 215
+enqueue Becky Travillian, 16, 247
+dequeue Terry Holmes
+dequeue Johnnie Curran
+dequeue Kim Justice
+enqueue Sharon Gardner, 17, 154
+dequeue Daniel Secrease
+enqueue Stephanie Cox, 20, 252
+dequeue Cindy Silverman
+dequeue Stephanie Cox
+dequeue Becky Travillian
+dequeue Kenneth Salvo
+enqueue William Stclair, 4, 196
+dequeue Jose Brunetto
+dequeue Shirley Dini
+dequeue William Cruz
+dequeue Amy Vining
+dequeue William Stclair
+dequeue June Polhemus
+dequeue Sharon Gardner
+dequeue Bernice Taylor
+dequeue Anthony Villarreal
+dequeue Pete Ray

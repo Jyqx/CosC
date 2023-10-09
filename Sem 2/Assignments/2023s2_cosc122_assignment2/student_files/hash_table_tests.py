@@ -900,11 +900,11 @@ def all_tests_suite():
     suite = unittest.TestSuite()
     test_loader = unittest.defaultTestLoader.loadTestsFromTestCase
 
-    suite.addTest(test_loader(LinearProbingEmptyTestGeneLookup))
+    # suite.addTest(test_loader(LinearProbingEmptyTestGeneLookup))
     # suite.addTest(test_loader(LinearProbingTrivialTestGeneLookup))
     # suite.addTest(test_loader(LinearProbingSmallTestGeneLookup))
     # suite.addTest(test_loader(LinearProbingMediumTestGeneLookup))
-    # suite.addTest(test_loader(LinearProbingLargeTestGeneLookup))
+    suite.addTest(test_loader(LinearProbingLargeTestGeneLookup))
     # suite.addTest(test_loader(LinearProbingHugeTestGeneLookup))
 
     # uncomment the following line when ready for chaining...

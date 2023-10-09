@@ -1,0 +1,204 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+50
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+Jc Norton, 7, 356
+Linda Lewis, 15, 336
+Nina Sheffield, 16, 20
+Joe Matton, 5, 49
+Rachel Hallman, 12, 300
+Isabel Broker, 8, 316
+Mary Crisp, 10, 267
+Wesley Rivera, 4, 206
+Christine Martinez, 17, 322
+Clarence Folwell, 21, 8
+Sarita Terry, 18, 241
+Annie Ackies, 10, 229
+Elizabeth Jackson, 2, 260
+Oscar Powers, 16, 296
+Karl Sperry, 10, 359
+Denise Wells, 2, 310
+Byron Mahoney, 12, 68
+Melanie Chaney, 19, 19
+William Pugmire, 5, 316
+Vincent Kozan, 17, 4
+April Chittum, 15, 236
+Carolyn Bradley, 10, 270
+Mary Wallace, 8, 43
+Tony Tieng, 21, 109
+Lisa Granger, 16, 165
+# Heap instructions (150)
+# Enqueues: 50 Dequeues: 100
+enqueue Michael Martin, 9, 240
+enqueue Danielle Morse, 2, 89
+dequeue Joey Lewis
+enqueue Kimberly Foley, 4, 173
+enqueue Roger Maroney, 9, 51
+enqueue Larry Izzi, 4, 49
+dequeue Karl Sperry
+dequeue Jc Norton
+enqueue Michael Farley, 18, 303
+enqueue Kristen Faw, 14, 136
+enqueue Anthony Staples, 14, 261
+enqueue Grace Hodo, 6, 301
+enqueue Carol Waite, 20, 95
+enqueue Joe Romano, 17, 159
+enqueue Ida Water, 10, 72
+dequeue Linda Lewis
+enqueue John Sylvia, 10, 8
+dequeue Steven Dover
+dequeue Christine Martinez
+enqueue Kenneth Greene, 15, 266
+dequeue Isabel Broker
+enqueue Star Smallwood, 19, 347
+dequeue Star Smallwood
+enqueue Richard Carter, 18, 154
+enqueue Tracey Bradley, 15, 249
+enqueue Christina Thompson, 2, 152
+dequeue William Pugmire
+dequeue Denise Wells
+dequeue Michael Farley
+enqueue Carolyn Urquhart, 19, 225
+enqueue Liz Salcedo, 19, 142
+dequeue Rachel Hallman
+enqueue Courtney Ver, 1, 150
+enqueue Tiffany Duvall, 16, 101
+dequeue Grace Hodo
+enqueue Juliana James, 8, 254
+enqueue Viviana Williams, 4, 159
+enqueue Stephen Campbell, 7, 103
+dequeue Oscar Powers
+enqueue Nicole Campbell, 20, 12
+enqueue Julie Sizemore, 8, 208
+dequeue Gayla Olson
+dequeue Mikel Keenum
+dequeue Catherine Starnes
+enqueue Leonard Gonsales, 15, 320
+enqueue Michelle Mcmillian, 2, 364
+enqueue Nancy Buck, 17, 288
+dequeue Michelle Mcmillian
+enqueue Melanie Paro, 5, 110
+dequeue Leonard Gonsales
+dequeue Nancy Buck
+enqueue Daniel Patterson, 11, 21
+enqueue John Hartrick, 11, 28
+enqueue Sarah Acosta, 11, 86
+dequeue Kim Justice
+enqueue Dorothy Hubbard, 18, 20
+enqueue Susan Jackson, 10, 269
+enqueue Timothy Baxter, 16, 54
+enqueue Jill Stuart, 15, 171
+dequeue Daniel Secrease
+enqueue Silas Lewis, 13, 360
+dequeue Silas Lewis
+dequeue Cindy Silverman
+dequeue Ida Easterly
+enqueue Louise Reid, 2, 23
+enqueue Timothy Hudgens, 11, 124
+enqueue Michael Henderson, 12, 168
+enqueue Jean Lambert, 20, 9
+dequeue Vincent Arnett
+dequeue Carolyn Bradley
+dequeue Susan Jackson
+enqueue Megan Williams, 5, 355
+enqueue Jennifer Marquardt, 21, 199
+dequeue Megan Williams
+enqueue Kathleen Eiselein, 11, 189
+dequeue Kenneth Greene
+dequeue Mary Crisp
+enqueue Larry Olson, 10, 78
+dequeue Anthony Staples
+dequeue Elizabeth Jackson
+dequeue Juliana James
+dequeue Tracey Bradley
+enqueue Harold Wood, 8, 21
+enqueue Richard Cooley, 16, 316
+dequeue Richard Cooley
+dequeue Linda Dean
+enqueue Karen Snyder, 15, 112
+dequeue Sarita Terry
+dequeue Kevin Throgmorton
+dequeue Michael Martin
+dequeue April Chittum
+dequeue Annie Ackies
+dequeue Carolyn Urquhart
+dequeue Kenneth Salvo
+dequeue Jose Brunetto
+dequeue Shirley Dini
+dequeue Julie Sizemore
+dequeue Tommy Burton
+dequeue Wesley Rivera
+dequeue Jennifer Marquardt
+dequeue Amy Vining
+dequeue Kathleen Eiselein
+dequeue June Polhemus
+dequeue Alexander Dixon
+dequeue Jill Stuart
+dequeue Kimberly Foley
+dequeue Michael Henderson
+dequeue Lisa Granger
+dequeue Joe Romano
+dequeue Viviana Williams
+dequeue Richard Carter
+dequeue Christina Thompson
+dequeue Courtney Ver
+dequeue Liz Salcedo
+dequeue Kristen Faw
+dequeue Holly Washington
+dequeue Timothy Hudgens
+dequeue Karen Snyder
+dequeue Tony Tieng
+dequeue Melanie Paro
+dequeue Mildred Letlow
+dequeue Tiffany Duvall
+dequeue Stephen Campbell
+dequeue Herbert Wiley
+dequeue Carol Waite
+dequeue Danielle Morse
+dequeue Sarah Acosta
+dequeue Larry Olson
+dequeue Ida Water
+dequeue Byron Mahoney
+dequeue Erin Gaughan
+dequeue Timothy Baxter
+dequeue Roger Maroney
+dequeue Joe Matton
+dequeue Larry Izzi
+dequeue Mary Wallace
+dequeue Anthony Villarreal
+dequeue Pete Ray
+dequeue John Hartrick
+dequeue Dorothy Hubbard
+dequeue Louise Reid
+dequeue Melanie Chaney
+dequeue Nina Sheffield
+dequeue Daniel Patterson
+dequeue Harold Wood
+dequeue Nicole Campbell
+dequeue Jean Lambert
+dequeue Clarence Folwell
+dequeue John Sylvia
+dequeue Vincent Kozan

@@ -1,0 +1,14 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+5
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+# Heap instructions (5)
+# Enqueues: 5 Dequeues: 0
+enqueue Tiffany Shockley, 18, 113
+enqueue Marilyn Girard, 16, 265
+enqueue Linda Richardson, 16, 128
+enqueue William Rousseau, 20, 304
+enqueue Ruth Achee, 21, 78

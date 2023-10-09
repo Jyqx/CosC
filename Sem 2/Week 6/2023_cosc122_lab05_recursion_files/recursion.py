@@ -165,7 +165,9 @@ def factorial(n):
     120
     """
     # ---start student section---
-    pass
+    if n <= 0:
+        return 1
+    return n * factorial(n - 1)
     # ===end student section===
 
 
@@ -248,7 +250,10 @@ def linked_list_length(list_node):
     # Remember you should be using recursion so your function should
     # call linked_list_length at some stage!
     # ---start student section---
-    pass
+    if list_node is None:
+        return 0
+    else:
+        return 1 + linked_list_length(list_node.next_node)
     # ===end student section===
 
 
@@ -291,7 +296,9 @@ def linked_list_print(list_node):
     # Remember you should be using recursion so your function should
     # call linked_list_print at some stage!
     # ---start student section---
-    pass
+    if list_node is not None:
+        print(list_node.item)
+        linked_list_print(list_node.next_node)
     # ===end student section===
 
 
@@ -326,7 +333,9 @@ def linked_list_reverse_print(list_node):
     # call linked_list_reverse_print at some stage!
     # Hint: make sure you aren't calling linked_list_print!
     # ---start student section---
-    pass
+    if list_node is not None:
+        linked_list_reverse_print(list_node.next_node)
+        print(list_node.item)
     # ===end student section===
 
 
@@ -357,7 +366,12 @@ def is_in_linked_list(list_node, item):
     # Remember you should be using recursion so your function should
     # call is_in_linked_list at some stage!
     # ---start student section---
-    pass
+    if list_node is None:
+        return False
+    elif list_node.item == item:
+        return True
+    else:
+        return is_in_linked_list(list_node.next_node, item)
     # ===end student section===
 
 
@@ -387,7 +401,9 @@ def recursive_string_print(s):
     i
     """
     # ---start student section---
-    pass
+    if s:
+        print(s[0])
+        recursive_string_print(s[1:])
     # ===end student section===
 
 
@@ -416,7 +432,9 @@ def recursive_reverse_string_print(s):
     p
     """
     # ---start student section---
-    pass
+    if s:
+        recursive_reverse_string_print(s[1:])
+        print(s[0])
     # ===end student section===
 
 
@@ -444,7 +462,10 @@ def squares(data):
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     """
     # ---start student section---
-    pass
+    if not data:
+        return []
+    else:
+        return [data[0] ** 2] + squares(data[1:])
     # ===end student section===
 
 
@@ -467,6 +488,31 @@ def total(data):
         return 0
     else:
         return data[0] + total(data[1:])
+
+def rec_print_list(alist, start_index=0):
+    """
+    Prints out the elements in the list one per line, from the item at start_index
+    through to the last item in the list. If start_index is >= the length of the list,
+    nothing should be printed (this is the base case).
+
+    Your function must be recursive and cannot use any for or while loops.
+    Your function must NOT use list slicing, e.g. you shouldn't use expressions like alist[1:].
+    Your function cannot contain any list comprehensions.
+
+    >>> rec_print_list([], 0)   # should not print anything
+    >>> rec_print_list([1, 2, 3], 1)
+    2
+    3
+    >>> rec_print_list(['a', 'b', 'c', 'd'], 2)
+    c
+    d
+    >>> rec_print_list([10, 20, 30], 4)   # should not print anything
+    """
+    # ---start student section---
+    if start_index < len(alist):
+        print(alist[start_index])
+        rec_print_list(alist, start_index + 1)
+    # ===end student section===
 
 
 def nice_total(data, start=0):
@@ -514,9 +560,10 @@ def nice_recursive_string_print(string, index=0):
     y
     """
     # ---start student section---
-    pass
+    if index < len(string):
+        print(string[index])
+        nice_recursive_string_print(string, index + 1)
     # ===end student section===
-
 
 
 
@@ -556,7 +603,15 @@ def num_rushes(slope_height, rush_height_gain, back_sliding, start_height=0):
     28
     """
     # ---start student section---
-    pass
+    if start_height >= slope_height:
+        return 0
+    elif start_height + rush_height_gain >= slope_height:
+        return 1
+    else:
+        add = rush_height_gain - back_sliding
+        return 1 + num_rushes(
+            slope_height, rush_height_gain, back_sliding, start_height + add
+        )
     # ===end student section===
 
 
@@ -568,26 +623,26 @@ if __name__ == '__main__':
     os.environ['TERM'] = 'linux'  # Suppress ^[[?1034h
 
     # Comment out the next line if you want to run individual tests
-    doctest.testmod()
+    # doctest.testmod()
 
     # then uncomment individual doctest runs below
     #doctest.run_docstring_examples(slow_power, None)
     #doctest.run_docstring_examples(quick_power, None)
     #doctest.run_docstring_examples(factorial, None)
 
-    #doctest.run_docstring_examples(linked_list_length, None)
-    #doctest.run_docstring_examples(linked_list_print, None)
-    #doctest.run_docstring_examples(linked_list_reverse_print, None)
-    #doctest.run_docstring_examples(is_in_linked_list, None)
+    doctest.run_docstring_examples(linked_list_length, None)
+    doctest.run_docstring_examples(linked_list_print, None)
+    doctest.run_docstring_examples(linked_list_reverse_print, None)
+    doctest.run_docstring_examples(is_in_linked_list, None)
 
-    #doctest.run_docstring_examples(recursive_string_print, None)
-    #doctest.run_docstring_examples(recursive_reverse_string_print, None)
-    #doctest.run_docstring_examples(squares, None)
-    #doctest.run_docstring_examples(total, None)
+    doctest.run_docstring_examples(recursive_string_print, None)
+    doctest.run_docstring_examples(recursive_reverse_string_print, None)
+    doctest.run_docstring_examples(squares, None)
+    doctest.run_docstring_examples(total, None)
 
     #doctest.run_docstring_examples(nice_recursive_string_print, None)
     #doctest.run_docstring_examples(nice_total, None)
-    #doctest.run_docstring_examples(num_rushes, None)
+    doctest.run_docstring_examples(num_rushes, None)
 
     # Some other interesting tests to run:
     # -----------------------------------
@@ -599,8 +654,8 @@ if __name__ == '__main__':
     #print('fib({0:d}) = {1:d}'.format(n, fib_iterative(n)))
     # print('\n')
 
-    #n = 31
-    #print('fib({0:d}) = {1:d}'.format(n, fib_recursive(n)))
+    # n = 39
+    # print('fib({0:d}) = {1:d}'.format(n, fib_recursive(n)))
     # print('\n')
 
     # Given the value for fib_iterative(100) would it be wise
@@ -608,4 +663,4 @@ if __name__ == '__main__':
 
     # my_list = Node('b')
     # add_item_to_list(my_list, 'a')
-    # linked_list_print(my_list)
+    # linked_list_print(my_list)q

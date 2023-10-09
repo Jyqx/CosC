@@ -1,0 +1,3504 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+1000
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+Jc Norton, 7, 356
+Linda Lewis, 15, 336
+Nina Sheffield, 16, 20
+Joe Matton, 5, 49
+Rachel Hallman, 12, 300
+Isabel Broker, 8, 316
+Mary Crisp, 10, 267
+Wesley Rivera, 4, 206
+Christine Martinez, 17, 322
+Clarence Folwell, 21, 8
+Sarita Terry, 18, 241
+Annie Ackies, 10, 229
+Elizabeth Jackson, 2, 260
+Oscar Powers, 16, 296
+Karl Sperry, 10, 359
+Denise Wells, 2, 310
+Byron Mahoney, 12, 68
+Melanie Chaney, 19, 19
+William Pugmire, 5, 316
+Vincent Kozan, 17, 4
+April Chittum, 15, 236
+Carolyn Bradley, 10, 270
+Mary Wallace, 8, 43
+Tony Tieng, 21, 109
+Lisa Granger, 16, 165
+Helen Lyles, 9, 240
+Kellie Scovil, 19, 224
+Ai Bucker, 6, 124
+Julie Hagan, 6, 57
+Jaunita Kennell, 2, 267
+Dena Lewis, 8, 216
+Ross Lopez, 7, 89
+Sandra Stevens, 18, 303
+Lois Starkey, 14, 136
+Shirley Jackson, 10, 212
+Juanita Mcdermott, 1, 96
+Thelma Howard, 19, 365
+Anthony Jones, 18, 270
+Theresa Herrmann, 10, 72
+Patrick Brown, 8, 153
+Richard Henderson, 14, 119
+Esther Moore, 15, 266
+Dexter Mata, 13, 178
+Jill Morgan, 13, 346
+Richard Carter, 18, 154
+Theresa Acker, 4, 232
+Bernardina Bowden, 17, 220
+Christina Thompson, 2, 152
+Jonathan Ebersole, 6, 13
+Carrie Emery, 16, 152
+Theodore Avalos, 17, 148
+Liz Salcedo, 19, 142
+Jordan Sutton, 8, 209
+Mark Mills, 15, 256
+Walter Rivera, 19, 168
+Juliana James, 8, 254
+Louise Rivera, 3, 50
+Kellie Cacciotti, 21, 111
+Lissette Muniz, 7, 78
+Tina Seymour, 20, 12
+Virginia Marks, 4, 115
+Barbara Gonzales, 11, 264
+Leonard Gonsales, 15, 320
+Candace Ahearn, 10, 99
+Alfred Aguilar, 17, 134
+Bruce Cannady, 18, 60
+Hazel Rigby, 14, 324
+Nancy Alcantar, 7, 239
+Daniel Patterson, 11, 21
+Audrey West, 14, 24
+Barbara Randall, 9, 203
+Donna Howery, 16, 197
+Robert Tylwalk, 18, 20
+Willie Mooney, 4, 37
+Thelma Smith, 11, 209
+Joshua Walker, 9, 302
+Rena Schultz, 6, 131
+Silas Lewis, 13, 360
+Oscar Durazo, 10, 217
+Yvonne Santos, 2, 170
+Timothy Hudgens, 11, 124
+Dale Brixey, 4, 124
+Randy Pena, 11, 163
+Alice Hussain, 1, 2
+David Farber, 12, 296
+Richard Albano, 12, 245
+Michael Gray, 13, 38
+Annette Ellzey, 10, 138
+Lashawnda Curtis, 3, 358
+Basil Galioto, 3, 214
+Christopher Mercurio, 5, 57
+Joseph Bowling, 17, 98
+Elena Mitchell, 11, 96
+Joseph Rutledge, 2, 98
+Phyllis Ipock, 16, 316
+Jesse Bush, 5, 119
+Donna Kemmis, 15, 305
+Dorothy Brennan, 10, 332
+Russell Haney, 15, 175
+Norman Lin, 19, 82
+Roy Helmus, 7, 228
+Matthew Graham, 12, 3
+Debra Smith, 3, 147
+Debbie Miller, 20, 60
+Terrence Rowland, 18, 65
+Vivian Austin, 18, 217
+Guadalupe Hawk, 20, 9
+Marshall Cupples, 8, 90
+Veronica Mooney, 13, 225
+Jacqueline Buroker, 2, 60
+Sally Elliot, 10, 286
+Katherine Quintero, 16, 29
+Harry Castor, 19, 71
+Barbara Wilke, 16, 362
+Adrian Knight, 3, 150
+Alicia Wooten, 16, 233
+Tiffany Perdomo, 13, 243
+Vincent Morataya, 13, 93
+Richard Stahly, 12, 121
+Freeman Purtle, 13, 158
+Megan Smith, 19, 219
+John Rodriguez, 2, 316
+Bobby Mcshea, 18, 267
+Joi Boehman, 21, 237
+Stephen Ryan, 19, 83
+David Pugh, 6, 253
+Shelton Frank, 4, 320
+Annette Guerette, 11, 226
+Mary Cloutier, 18, 111
+Armand Norris, 18, 215
+John Jones, 18, 191
+Mike Campbell, 19, 204
+April Johnson, 1, 295
+Patricia Caldwell, 21, 322
+Fernando Reeder, 10, 171
+Rhonda Ellis, 16, 64
+Shawn Tripp, 8, 34
+Chad Riseden, 17, 51
+Jack Moore, 21, 68
+Jessica Rosado, 15, 116
+Anne Hensley, 2, 111
+Michelle Clegg, 1, 350
+Laurie Guedjian, 6, 84
+Angela Conklin, 8, 326
+Frank Gause, 15, 72
+Michael Freidman, 14, 235
+Susan King, 17, 108
+Jessie Herrmann, 16, 18
+Rachel Reams, 19, 43
+Jennifer Padilla, 5, 271
+Lenard Cates, 12, 366
+David Ragland, 2, 353
+Joseph Paul, 12, 335
+Micheal Goldbach, 21, 33
+Richard Rodriguez, 3, 231
+Jonnie Shaffer, 10, 163
+David Rodriguez, 19, 156
+Franklin Allen, 12, 26
+Heather Holtsclaw, 16, 347
+Ruth Sheridan, 7, 41
+Anthony Ford, 7, 262
+Richard White, 15, 290
+Steven Jackson, 4, 200
+Tim Bingman, 21, 95
+Donna Sellers, 7, 86
+Seth Glickman, 1, 37
+Catherine Rippee, 5, 89
+Brenda Santiago, 11, 141
+Derek Bonner, 9, 62
+Michael Hughes, 9, 43
+James Casella, 16, 53
+Ted Austin, 21, 329
+Carl Burton, 10, 200
+Stephen Jones, 3, 355
+Evelyn Gulotta, 9, 213
+John Duke, 12, 294
+Kiley Ashbrook, 10, 227
+Patricia Semple, 16, 314
+Brian Johnson, 1, 346
+Stephan Jimenez, 4, 158
+Betty Ervin, 4, 39
+Melissa Anderson, 3, 109
+Eva Dais, 19, 55
+James Myers, 2, 176
+Pat Wright, 3, 336
+Glenn Kowalsky, 15, 323
+Todd Stavnes, 7, 315
+Monique Hamilton, 16, 83
+Curtis Torgerson, 6, 134
+Russell Willer, 3, 223
+Miranda Jefferies, 13, 62
+Ned Mcinnis, 2, 350
+Nicolas Onell, 5, 157
+Veronica Doyel, 5, 124
+John Ciaburri, 3, 182
+Shawn Parker, 5, 340
+Dale Horning, 18, 236
+Ingrid Heon, 6, 357
+Pamela Beck, 6, 321
+Virginia Stamand, 4, 218
+Ricardo Simmons, 18, 221
+Horace Beltran, 17, 16
+Kylee Gentle, 12, 295
+Kathlene Fulton, 8, 155
+Nina Espinoza, 18, 279
+Richard Natale, 8, 222
+Steven Waldron, 6, 37
+Brenda Bell, 17, 1
+George Mayberry, 9, 339
+Robert Cheatwood, 8, 251
+Jennifer Haga, 18, 362
+Jacqueline Lewis, 3, 38
+Sheila Stamand, 9, 28
+Everett Engle, 14, 173
+Louise Young, 21, 93
+Wilson Pagan, 13, 172
+Patricia Danforth, 8, 343
+Tina Ohearn, 8, 323
+James Healey, 20, 82
+Anthony Pacheco, 21, 69
+Jonathan Hopkins, 15, 23
+Cynthia Tirk, 4, 179
+Frank Branscum, 3, 158
+Sherrie Johnson, 9, 332
+Barbara Johnson, 7, 163
+Donnie Davila, 10, 21
+Eleanor Roman, 13, 58
+Mildred Houck, 10, 95
+John Williamson, 3, 216
+Janice Wooldridge, 3, 199
+Neil Gimbel, 7, 282
+Luis Espinal, 8, 301
+Scott Chaney, 3, 277
+Ann Steir, 14, 320
+Thomas Weaver, 11, 3
+Robert Richard, 3, 127
+Gary Prince, 19, 8
+Julio Mclaren, 20, 352
+Bruce Shackelford, 8, 356
+Michael Styles, 3, 333
+Barbara Haley, 3, 80
+Wayne Romney, 18, 222
+David Jernigan, 4, 260
+Julie Downing, 19, 297
+Brian Hitchcock, 8, 205
+Ronnie Dugger, 17, 34
+Tammy Smith, 2, 72
+David Frazier, 20, 274
+Judy Eames, 19, 17
+George Hagler, 17, 162
+Masako Blaine, 20, 349
+Sergio Johnson, 8, 123
+Julius Ritter, 17, 142
+Cheryl Dodds, 7, 353
+William Drane, 5, 255
+William Hooper, 12, 36
+James Rivera, 12, 251
+June Ratcliff, 16, 174
+Bob Boyda, 16, 189
+Kaye Earley, 12, 208
+Matthew Cilley, 18, 69
+Brenda Ryan, 16, 161
+Jordan Hernandez, 17, 217
+Essie Spangler, 17, 38
+Elias Yerian, 18, 71
+Frances Dixon, 20, 339
+Dustin Barker, 11, 15
+Kelli Scheffler, 7, 70
+Laura Williams, 4, 159
+Michelle Burford, 2, 195
+Salvador Cheshire, 20, 46
+Therese Middleton, 19, 309
+Chloe Doll, 16, 70
+Amanda Anderson, 18, 290
+Emily Baima, 6, 236
+Ellen Mack, 19, 184
+Anthony Lee, 11, 148
+Shaun Berryhill, 12, 265
+Robert Milhorn, 17, 104
+Edward Geiger, 12, 342
+Frank Tatem, 19, 312
+Edward Joslyn, 13, 42
+Jeffrey Anderson, 1, 122
+Helen Ward, 18, 173
+Robert Noell, 6, 183
+Nicolas Hibbert, 17, 115
+Bernard Lindsey, 14, 120
+Laura Loureiro, 12, 135
+Michael Matthews, 3, 247
+Vincent Denny, 14, 195
+Eric Baker, 11, 67
+Richard Rodriquez, 15, 201
+Margaret Spoor, 3, 162
+Richard Axel, 21, 187
+Rachel Brown, 9, 78
+Karen Woody, 2, 352
+Daisy Gilmore, 15, 118
+Inez Stringfellow, 17, 113
+Milton Topel, 7, 308
+Lory George, 9, 121
+Marilyn Luna, 4, 14
+Lorraine Thomas, 14, 169
+Margaret Reynolds, 17, 106
+Virgil Arnold, 5, 199
+Mary Flanagan, 21, 157
+Heather Wickes, 6, 332
+Aileen Rutherford, 17, 90
+Rosemary Maldonado, 5, 319
+Trinidad Ramirez, 21, 23
+Mary Lacroix, 14, 325
+George Deluca, 14, 272
+Alberta Valdes, 5, 241
+Paul Zucco, 19, 339
+Robert Prindle, 2, 346
+Bart Thomas, 7, 58
+Ronald Rock, 5, 318
+Emmanuel Mills, 14, 245
+John Arnold, 15, 281
+Rachel Gaskill, 8, 297
+Velma James, 1, 36
+Michael Sorensen, 18, 155
+Sandra Mills, 19, 361
+Rosemary Little, 9, 154
+John Mullen, 20, 145
+Elizabeth Mock, 2, 295
+Patrick Hall, 8, 178
+Earl Diaz, 5, 58
+Lois Champion, 12, 234
+John Brewer, 16, 363
+Daphne Barnes, 19, 328
+Joe Caudel, 16, 340
+Robert Johnston, 5, 306
+Donald Alcorn, 4, 181
+Barbara Ventura, 2, 211
+Carl Oakley, 3, 111
+Yolanda Braund, 15, 36
+Miguel Hampshire, 1, 16
+Ann Washburn, 15, 59
+Wilda Anderson, 12, 232
+Janis Thomas, 6, 123
+Bryan Harrington, 18, 354
+Elizabeth Sheck, 16, 43
+Ryan Hayes, 14, 98
+Debra Stadler, 8, 24
+Ronald Carroll, 8, 272
+Gerald Morris, 14, 149
+Catherine Powell, 6, 195
+Roger Robinson, 20, 116
+Rolf Stanley, 5, 28
+Jesse Harlan, 4, 145
+Julia Coleman, 5, 44
+Michele Mahaffey, 14, 261
+Charles Calderin, 21, 172
+Joan Barrios, 9, 280
+Lynda Barone, 19, 260
+Ronald Segars, 18, 104
+Gary Mayer, 15, 207
+John Cain, 6, 251
+Marcel Caplinger, 8, 128
+Raymond Chesla, 18, 260
+Bob Hawkin, 13, 303
+Dennis Janusz, 14, 30
+Sharon Tannehill, 12, 193
+Vincenzo Martin, 18, 245
+David Wall, 18, 125
+Dorothy Norstrom, 21, 128
+Mark Evans, 13, 344
+Michael Tarnoff, 18, 165
+Rebecca Leavitt, 4, 317
+Harold Andrews, 2, 150
+Shelley Bauer, 5, 170
+Vicki Zuidema, 15, 356
+Irene Wade, 5, 143
+Ethel Stout, 13, 52
+Helen Fine, 6, 217
+Elizabeth Flanagan, 2, 126
+Howard Holmes, 1, 271
+Richard Fletcher, 16, 323
+Sarah Merrill, 2, 308
+Henry Frazier, 21, 161
+Robert Lipton, 16, 69
+Drew Heard, 16, 245
+Veronica Frierson, 2, 265
+Vincent Oconnor, 16, 364
+Judy Irwin, 11, 245
+Robin Lazzara, 19, 233
+Cecille Johnson, 3, 32
+Alma Broyles, 17, 203
+Jose Taylor, 10, 62
+John Leeper, 3, 287
+Thomas Berman, 10, 262
+Matthew Grimm, 20, 338
+Monique Roberts, 15, 121
+William Beckman, 17, 37
+Samuel Hartung, 5, 332
+Cynthia Marsh, 14, 204
+Richard Broadway, 3, 198
+Shirley Gonzalez, 18, 36
+Mohammad Sloan, 1, 335
+Lina Freund, 9, 156
+James Santander, 14, 90
+Jean Roy, 3, 299
+Lester Threatt, 12, 58
+Mark Andrade, 19, 70
+Eric Greer, 10, 225
+Debra Newson, 16, 84
+Louis Sandberg, 21, 177
+Susan Ward, 18, 44
+Jerry Knight, 10, 204
+Stacey Graham, 6, 125
+Susan Kelly, 20, 54
+Ronnie Allgood, 9, 224
+Joy Lunstrum, 18, 310
+Kristen Sumner, 14, 138
+Antoinette Higgins, 12, 318
+Brian Moses, 13, 310
+Bill Grau, 4, 266
+Lillian Sharick, 18, 152
+Richard Bloxom, 5, 234
+Florence Mauck, 16, 332
+Ruth Humphrey, 18, 59
+Sean Long, 13, 113
+Israel Nicholas, 3, 16
+Joseph Souders, 5, 158
+Douglas Davis, 13, 19
+Rachel Arreola, 8, 206
+Jacqueline Mackey, 8, 45
+Martha Quilliams, 12, 219
+Richard Taylor, 14, 11
+David Smith, 20, 49
+Betty Freeman, 6, 247
+Annmarie Miller, 10, 336
+John Vetter, 11, 6
+Carrie Quinones, 8, 55
+Michael Pereira, 19, 65
+Patricia Cheek, 14, 84
+Alicia Petit, 6, 44
+Mary Petrocco, 2, 41
+Brian Wyland, 17, 234
+Kenneth Taylor, 6, 42
+Michael Gavin, 6, 323
+Clayton Sims, 9, 140
+Emily Borrego, 4, 122
+Theresa Larsen, 13, 190
+Teresa Harris, 19, 119
+Deborah Elder, 7, 164
+Dale Lee, 15, 237
+Gerald Music, 5, 76
+Rhonda Kolesar, 3, 149
+Gordon Daniel, 20, 162
+Theodore Evans, 7, 62
+Patrick Hinger, 13, 278
+Janet Warren, 5, 357
+Deborah Ross, 1, 192
+Albert Payan, 19, 13
+Eric Hampton, 17, 156
+Amanda Muscarella, 16, 123
+Sandy Torres, 6, 138
+Timothy Crouch, 21, 96
+Gary Matthews, 21, 159
+David Hunter, 10, 73
+Jose Spiller, 20, 343
+Lindsay Dueber, 17, 223
+Joseph Tran, 19, 360
+Jon Perez, 16, 211
+Lois Gunn, 15, 300
+Darryl Drennan, 2, 83
+Michael Wilkins, 11, 60
+Paul Pruitt, 11, 154
+Helen Davis, 7, 93
+Jonathan Schuster, 12, 237
+Rafael Malone, 2, 226
+Joe Taylor, 2, 317
+Lucas Baker, 3, 229
+Isabel Jurist, 6, 1
+Dale Romo, 15, 261
+Audrey Edwards, 13, 259
+Robert Abbott, 20, 159
+Greg Kless, 16, 120
+Donald Lofland, 21, 165
+Christie Washington, 12, 276
+Lanette Gallman, 4, 327
+Antoine Brown, 4, 135
+Alice Sixkiller, 15, 203
+Christine Galbreath, 20, 268
+Elizabeth Ryan, 7, 126
+Darla Sorensen, 18, 226
+Mary Riel, 5, 133
+Alison Phillips, 10, 265
+Gilbert Newman, 10, 361
+Alison Reaves, 11, 277
+Grace Thompson, 12, 18
+Luz Johnson, 18, 195
+Sanjuana Humphries, 3, 106
+Brandee Crogan, 9, 7
+Lee Keith, 7, 253
+Everett Raynor, 3, 293
+Dorothy Corbin, 5, 60
+Dominic Briggs, 14, 147
+Joseph Paske, 4, 74
+Kenny Reusswig, 14, 130
+Rose Donze, 12, 25
+Jefferson Rozek, 18, 72
+Minnie Waldrip, 8, 288
+Lupe Alvarez, 9, 54
+Sidney Norley, 1, 206
+Sheila Parham, 3, 22
+Thomas Hanneman, 17, 263
+Darcy Close, 16, 221
+Carol Baker, 8, 276
+Daniel Castle, 6, 278
+Mary Mcdougall, 3, 172
+Tiffany Saville, 18, 291
+Christian Dickinson, 11, 122
+Charles Cline, 6, 95
+Rogelio Sledge, 17, 340
+Richard Nedley, 7, 333
+Joann Garcia, 4, 273
+Ralph Bonilla, 6, 158
+Shelby Mercedes, 19, 238
+Susan Song, 16, 293
+Ted Butler, 11, 301
+Hattie Taylor, 15, 230
+Isabel White, 17, 282
+Helen Muncy, 2, 56
+Peggy Elliott, 17, 178
+Gwendolyn Welch, 15, 188
+Elena Rangel, 19, 58
+Jaime Specht, 15, 348
+Amy Landis, 12, 250
+Rex Strickland, 16, 3
+Debbie Winget, 7, 8
+Stephanie Frith, 17, 237
+Linda Sawyer, 21, 189
+Jimmy Wilson, 20, 44
+Tracy Oakley, 18, 166
+Jessie Pierce, 14, 285
+Rhonda Corrieri, 6, 233
+John Gouldman, 17, 3
+Michelle Ladd, 7, 235
+Jacob Harman, 21, 224
+Janice Hoffman, 16, 90
+Ken Lawson, 9, 125
+Michelle Walton, 2, 306
+Ernest Palmer, 3, 100
+Shanda Milardo, 6, 5
+Gerald Devaughn, 11, 348
+Theodore Payne, 7, 44
+Jennifer Marschke, 1, 301
+Micheal Carl, 6, 146
+Joan Branham, 18, 275
+Timothy Mallet, 16, 210
+Willy Muldowney, 4, 221
+David Burnside, 1, 215
+Jerome Smith, 1, 74
+Christopher Wall, 5, 312
+Mario Gardner, 2, 321
+Ora Broenneke, 2, 156
+Francis Lee, 20, 52
+Bethany Walker, 9, 162
+Patti Sonnier, 10, 1
+Mandy Felix, 18, 188
+Stephen Bassett, 4, 72
+Suzanne Wainscott, 20, 79
+Matt Groner, 14, 114
+Salvador Potter, 18, 200
+Craig Cochran, 6, 292
+Max Driscoll, 2, 116
+Arlene Mcclure, 19, 2
+Kevin Porter, 2, 85
+Jasmin Stahl, 19, 346
+Gilbert Torrez, 20, 192
+David Kendall, 8, 182
+Rose Broady, 4, 211
+George Custodio, 6, 342
+Michael Rowland, 10, 340
+William Ellis, 14, 266
+Weldon Ledesma, 12, 65
+Delia Sowinski, 4, 153
+Mary Mccaskill, 9, 33
+Dorothy Bailey, 12, 39
+Esther Harris, 4, 20
+Richard Lopez, 9, 243
+Janet Daniels, 19, 303
+Teresa Marrero, 5, 175
+Charles Folse, 2, 77
+Hilda Mallon, 2, 200
+Wilson Saxon, 14, 36
+Brent Mccarty, 6, 235
+Shirley Horton, 8, 57
+Arden Johansen, 3, 184
+Sylvia Keener, 21, 3
+Jill Binegar, 11, 115
+Marilyn Langley, 10, 254
+Susan Robles, 19, 183
+Tony Martin, 10, 115
+Diana Lovins, 3, 79
+Janet Evans, 13, 233
+Suzanne Wright, 21, 119
+Carol Martinez, 18, 340
+Lester Kruger, 8, 125
+Raul Andrews, 20, 318
+Megan Helton, 16, 141
+Scott Lum, 4, 125
+Harrison Presley, 20, 123
+Mary Tidwell, 7, 69
+Alan Alix, 7, 217
+Beatrice Flood, 20, 365
+Helen Pruett, 1, 275
+Teresa Henrick, 4, 214
+Bert Busch, 19, 187
+Dorothy Lee, 20, 100
+Sheila Vitale, 15, 6
+Jean Quezada, 9, 69
+Michael Mitchell, 3, 209
+James Sprung, 3, 14
+Karen Torres, 13, 355
+Kevin Conditt, 9, 173
+Blake Whitesell, 16, 264
+Harry Brogan, 3, 133
+Mildred Johnson, 16, 48
+Dollie Thompson, 10, 38
+Robert Schmitz, 21, 286
+Gina Harrington, 15, 169
+Dorathy Black, 13, 218
+Diane Ruiz, 3, 193
+Melissa Gatto, 15, 172
+Louis Coberly, 6, 152
+Daryl Kutch, 8, 117
+Nicole Bridges, 18, 42
+Dwayne Ling, 9, 288
+Ronald Nelson, 8, 327
+Charles Rickon, 17, 240
+Wanda Phillips, 4, 109
+Robert Dunnington, 10, 101
+Allison Tryon, 12, 279
+Susan Correra, 18, 282
+Jay Schultz, 17, 201
+Suzanne Elliott, 3, 26
+Veronica Fleming, 18, 67
+Lisa Parrish, 16, 204
+Margaret Wheatley, 3, 142
+Laurie Murphy, 7, 68
+Charles Florian, 8, 207
+Maggie Smyth, 1, 259
+Michael Taylor, 12, 330
+Robert Kaeo, 7, 197
+Denis Bartlett, 19, 14
+Zachary Carroll, 3, 323
+Jose Myles, 3, 308
+Jeremy Pena, 1, 11
+Diane Simon, 13, 159
+Jo Niss, 8, 81
+Gregory Steed, 7, 186
+Robert Goodwin, 5, 178
+Irene Christy, 9, 359
+Shirley Dow, 20, 237
+Melvin Dwyer, 12, 10
+Barbara Mcloughlin, 16, 47
+Louis Cross, 15, 174
+John Williams, 16, 130
+Patrick Montoya, 11, 157
+Jackie Knotts, 7, 135
+William Castillo, 8, 80
+Robert Lux, 5, 364
+Derek Krueger, 4, 161
+Matthew Gilchrest, 15, 268
+Jean Sanchez, 3, 243
+Michelle Thomson, 10, 74
+Rachel Azulay, 7, 328
+Diana Barnes, 20, 105
+Tracey Bolden, 16, 56
+David Kumar, 1, 310
+Crystal Williams, 11, 297
+Anna Grossman, 1, 278
+Terry Mauriello, 5, 33
+Barbara Harmon, 14, 106
+Shona Waterman, 14, 116
+Dustin Fisher, 4, 203
+Albert Jackson, 4, 313
+Ralph Porter, 2, 118
+Donna Potts, 14, 45
+Carmen Williams, 6, 96
+William Sims, 10, 17
+Richard Hutton, 16, 306
+Russell Bookwalter, 18, 224
+James Roberts, 20, 118
+Stephanie Burgess, 13, 291
+Edith Rojas, 2, 141
+Dorothy Hines, 17, 118
+Maricela Jackson, 12, 272
+Robert Banks, 19, 5
+Suzanne Sims, 11, 314
+Andrew Jackson, 14, 28
+Linda Joseph, 3, 53
+Charlie Alcazar, 11, 202
+Jaclyn Vogel, 1, 35
+Timothy Conant, 6, 94
+Sheila Kovacs, 21, 167
+Ryan Hester, 2, 349
+James Martin, 6, 66
+Kira Gay, 8, 35
+Nathan Bass, 9, 282
+Lucille Snow, 5, 260
+Angelina Helbert, 3, 116
+Mary Jenkins, 15, 120
+Gary Edwards, 2, 313
+Daniel Moorhouse, 11, 181
+Bruce Webber, 9, 132
+Irene Henderson, 15, 313
+Larry Cabe, 12, 41
+Rodger Moreno, 12, 228
+Donald Cerza, 5, 365
+Freddy Tutt, 12, 145
+David Kirkpatrick, 5, 11
+Michelle Olivo, 21, 333
+Kathleen Sheffield, 19, 269
+Sal Bankhead, 14, 357
+Roxanne Rigney, 21, 31
+Kevin Brown, 15, 53
+Rebbeca Redmond, 5, 151
+Jeffrey Medley, 18, 121
+Paul Sargent, 10, 66
+Dorothy Woodard, 18, 63
+Leon Walker, 2, 320
+Lucia Chavez, 5, 259
+Sherita Brown, 14, 99
+Patricia Webster, 6, 10
+Rebecca Rowe, 6, 70
+Edith Meyer, 8, 329
+Gordon Crooks, 7, 187
+Rachel Evans, 5, 189
+Debra Vanderlinde, 10, 24
+Nancy Sultemeier, 1, 30
+Curtis Barrios, 4, 303
+Kathleen Comer, 5, 349
+Richard Hindle, 20, 359
+Liliana Brodowski, 20, 235
+Yvette Byrd, 21, 44
+John Cooksey, 9, 233
+Margaret Gardner, 19, 37
+Margaret Schoonover, 1, 241
+Harold Hardy, 2, 326
+Kevin Raya, 8, 231
+Aaron Watson, 6, 4
+Anthony Davidson, 5, 132
+Janet Palmer, 1, 189
+Dawn Mcmann, 5, 288
+Lydia Edgecomb, 15, 111
+Patricia Chapman, 7, 11
+Robert Brown, 16, 307
+Larry Chumley, 14, 211
+John Darden, 4, 93
+Kim Vannostrand, 20, 58
+Michelle Lifford, 14, 96
+Anna Melvin, 11, 88
+Charles Roudabush, 4, 169
+Delores Vanhoose, 15, 234
+Nikki Delafuente, 15, 329
+Patti Snelgrove, 1, 334
+Bernice Rykert, 7, 145
+Jeffery Fernandez, 21, 41
+Deborah Valdez, 3, 60
+Susan Heidel, 7, 113
+Willie Gerdes, 19, 190
+Anthony Hulbert, 5, 251
+Nathan Black, 16, 25
+Ella Thompson, 11, 39
+John Carls, 10, 252
+Bobbye Rodriguez, 5, 162
+Laura Kleinman, 20, 101
+Marsha Jones, 3, 239
+Beth Reyes, 18, 285
+Laura Hayes, 12, 297
+Dalton Arnold, 19, 32
+Charles Farrow, 20, 291
+Amber Johnson, 13, 121
+Crystal Kilgore, 17, 128
+Donna Thielman, 17, 256
+Jacquelyn Donovan, 3, 324
+Gabriela Carpenter, 15, 89
+Patty Essex, 7, 127
+Greg Horne, 2, 103
+Thomas Warren, 16, 144
+Stephanie Pinedo, 3, 93
+Garry Bacurin, 12, 239
+Brian Comeau, 7, 194
+Travis Hotchkiss, 5, 356
+Noah Summers, 11, 250
+Marcus Fagan, 8, 173
+Eugene Whitehurst, 9, 164
+Shawn Littlefield, 1, 131
+Faye Moten, 15, 44
+Esther Oliver, 8, 335
+Eugene Hutchison, 7, 139
+Donald Davis, 6, 87
+Randy Belizaire, 1, 66
+Robert Walker, 3, 203
+William Taylor, 6, 14
+Nicholas Williams, 11, 150
+David Mcdonald, 17, 116
+Richard Saathoff, 6, 300
+James Cruz, 8, 74
+Blair Hayes, 21, 179
+Michael Jones, 8, 337
+Edward Brooks, 18, 163
+Juan Tolman, 17, 57
+Walter Collins, 6, 336
+Michael Strahl, 18, 187
+Lena Wheeler, 4, 106
+Ronald Kaster, 6, 140
+Thomas Mazor, 15, 136
+Elizabeth Theden, 17, 172
+Donna Reich, 1, 138
+Amos Hunt, 13, 142
+William Stamps, 5, 254
+Gregg Romero, 9, 119
+Jeffrey Williams, 11, 59
+Luke Gallo, 10, 350
+Denae Hatton, 2, 140
+Iva Pocai, 6, 103
+Emma Ibarra, 11, 291
+Sharon Engel, 14, 271
+Joseph Mayo, 15, 195
+Gary Baer, 21, 249
+George Moody, 11, 216
+Jessica Jaeger, 2, 7
+Kevin Spragg, 15, 129
+Michael Davenport, 8, 106
+Carmen Caldwell, 17, 157
+Reginald Falgout, 5, 309
+Maria Hix, 19, 94
+Evon Alix, 7, 314
+David Diggs, 14, 224
+Casey Fitzgerald, 6, 16
+William Woolford, 12, 174
+Herbert Sander, 12, 8
+Angela Peoples, 9, 244
+Anita Harvey, 8, 187
+Richard Hatfield, 16, 198
+Tracey Reid, 8, 261
+Michelle Goodwin, 11, 27
+Lee Goetz, 1, 81
+James Hiatt, 11, 210
+Shirley Diorio, 18, 95
+James Patrick, 14, 284
+Joseph Casey, 6, 244
+Betty Doyle, 19, 274
+Tyler Boggs, 16, 151
+Angela Mayle, 14, 49
+Delores Walker, 19, 95
+Daryl Aldrich, 16, 178
+Lisa Mader, 9, 176
+Dianne Montalto, 13, 123
+Allen Paul, 1, 93
+Rhonda Campbell, 4, 216
+Claudia Wlodarek, 7, 264
+Ryan Rose, 11, 366
+Vernice Perez, 4, 278
+Karen Schrenk, 17, 97
+George Mcdaniel, 12, 100
+Tasha Ivey, 9, 188
+Nina Pierson, 1, 184
+Irene Garcia, 10, 241
+William Bush, 10, 266
+Brian Brooks, 16, 176
+Rebecca Madison, 10, 177
+Edward Carr, 6, 135
+Donna Crecelius, 7, 74
+John Cannon, 3, 130
+Kenneth Briggs, 6, 198
+Ralph Ward, 3, 102
+Roy Bush, 5, 93
+Joel Nesmith, 15, 359
+Natasha Hall, 14, 283
+Sara Cody, 6, 201
+Jeffrey Munoz, 1, 353
+Ray Bolding, 13, 330
+James Loock, 9, 267
+Maria Gramling, 4, 281
+Alisha Eaker, 20, 121
+David Jeffrie, 9, 293
+Cleveland Trowell, 14, 22
+Nicholas Rudzik, 16, 203
+Melissa Santiago, 11, 256
+Nancy Castoe, 14, 117
+Chandra Mcclure, 21, 88
+Clyde Hallberg, 3, 290
+Marian Martin, 12, 262
+Anne Ratledge, 6, 243
+Laurie Seed, 19, 208
+Ofelia Mikesell, 8, 331
+Linda Madrigal, 2, 298
+Steve Garza, 6, 78
+Anthony Crawford, 12, 146
+Denver Emerson, 16, 235
+Barry Koeller, 6, 315
+James Grubbs, 21, 46
+Floyd Bryant, 17, 170
+Rene Mccullough, 11, 89
+Elda Wiand, 21, 76
+Sharon Johnson, 4, 238
+Junita Huffman, 16, 232
+Renee Holt, 7, 183
+Robert Whitenack, 12, 182
+James Adell, 9, 256
+James Munoz, 14, 160
+Eric Patrick, 17, 238
+William Pitzer, 15, 57
+Lucy Fitch, 13, 44
+Pablo Macko, 11, 344
+Louis Slaughter, 3, 319
+Michelle Jenkins, 12, 13
+Harold Kennedy, 10, 176
+Lowell Lightsey, 19, 131
+Wayne Abernathy, 10, 226
+Lenita Tarwater, 4, 346
+Julianne Weber, 3, 94
+Stacy Camacho, 17, 78
+Kenneth Johnson, 11, 347
+Caroline Carr, 12, 76
+Steven Goggans, 17, 94
+Lynn Nabb, 8, 32
+Don Edmond, 12, 195
+Sue Hopes, 5, 314
+William Griffin, 17, 121
+Mark Karasti, 12, 273
+Stephen Chaney, 20, 282
+Hollie Beaty, 13, 263
+Jane Stallworth, 20, 88
+Pamela Peckham, 14, 258
+Rachel Warren, 8, 365
+Ernest Harris, 6, 260
+Diane Parrish, 1, 270
+Jenna Holt, 9, 343
+Jordan Mcdowell, 3, 76
+Andrew Banks, 3, 362
+Michael Nichols, 18, 298
+John Parker, 20, 240
+Kenya Hernandez, 11, 49
+Rodney Johnston, 5, 252
+Phillip Fields, 6, 301
+Kevin Scheffler, 12, 83
+Carlos Doherty, 7, 345
+John Hier, 13, 137
+Virginia Layton, 2, 303
+Michael Clemons, 16, 291
+Ruby Tam, 5, 169
+Thelma Tortora, 15, 68
+Raymond Cloud, 11, 145
+Eva Knight, 16, 9
+Marie Jones, 11, 276
+George Hunt, 9, 170
+Crystal Camacho, 6, 130
+Mandy Meacham, 10, 305
+Mary Toscani, 19, 33
+Carolyn Galligan, 14, 57
+Constance Anderson, 16, 308
+Jacob Charles, 19, 192
+Brian Nieland, 19, 122
+Maria Hanes, 21, 131
+Hugo Sanchez, 11, 127
+Matthew Miller, 5, 109
+Matthew Irvine, 3, 329
+Janet Murray, 10, 206
+Marcus Lund, 9, 296
+Bruce Page, 1, 94
+Sara Hager, 18, 185
+Buford Gholston, 12, 257
+Emmett Rodriguez, 5, 126
+Laura Estrada, 7, 124
+John Digangi, 20, 281
+Susan Brown, 5, 95
+William Anderson, 11, 278
+Mark Jackson, 13, 186
+# Heap instructions (2500)
+# Enqueues: 1000 Dequeues: 1500
+enqueue Donald Michelsen, 11, 76
+enqueue Margaret Mccormack, 12, 267
+dequeue Beatrice Flood
+enqueue Gregory Barrow, 7, 269
+dequeue Thelma Howard
+enqueue Jamie Rivas, 3, 66
+enqueue Troy Basque, 6, 245
+dequeue Joey Lewis
+enqueue Dallas Potts, 5, 110
+enqueue Francis Jackson, 12, 163
+enqueue Herman Villalpando, 12, 185
+enqueue Rosemary Brunkhorst, 8, 171
+dequeue Lenard Cates
+enqueue Anne Blue, 14, 212
+enqueue Brian Lee, 18, 353
+dequeue Ryan Rose
+enqueue Jimmie Valentin, 7, 301
+enqueue Ida Hamrick, 4, 129
+dequeue Vincent Oconnor
+dequeue Rachel Warren
+dequeue John Brewer
+dequeue Donald Cerza
+dequeue Jennifer Haga
+dequeue Sandra Mills
+enqueue Christian Henderson, 2, 120
+enqueue Sue Cordero, 5, 73
+enqueue Jennifer Michalski, 14, 295
+dequeue Barbara Wilke
+dequeue Robert Lux
+enqueue Luisa Galayda, 10, 132
+dequeue Joseph Tran
+enqueue Erika Johnston, 1, 361
+enqueue Michael Young, 13, 81
+dequeue Richard Hindle
+dequeue Andrew Banks
+enqueue Bruce Larson, 9, 183
+enqueue Myra Overturf, 20, 76
+enqueue Jennifer Oates, 9, 20
+enqueue Corey Battle, 7, 280
+enqueue Nicholas Hightower, 20, 284
+enqueue Debbie Shannon, 1, 239
+enqueue Catherine Crumpton, 6, 9
+dequeue Gilbert Newman
+enqueue Roy Lam, 5, 339
+dequeue Silas Lewis
+dequeue Joel Nesmith
+enqueue Mary Owens, 12, 321
+dequeue Erika Johnston
+enqueue Maria Wince, 13, 276
+dequeue Karl Sperry
+dequeue Irene Christy
+enqueue Peter Walker, 18, 358
+enqueue Kathryn Rovero, 11, 94
+enqueue Patrick Land, 8, 200
+dequeue Peter Walker
+enqueue Thomas Landor, 2, 101
+dequeue Sal Bankhead
+dequeue Vicki Zuidema
+dequeue Lashawnda Curtis
+enqueue Franklin Kutzner, 16, 228
+dequeue Ingrid Heon
+enqueue Susie Williams, 10, 158
+dequeue Janet Warren
+enqueue Eric Illsley, 20, 227
+enqueue Stephany Woodhams, 4, 354
+dequeue Bryan Harrington
+enqueue Jinny Ryan, 15, 109
+dequeue Karen Torres
+dequeue Bruce Shackelford
+enqueue Stephanie Colbert, 20, 56
+dequeue Jc Norton
+dequeue Travis Hotchkiss
+enqueue Vilma Noble, 11, 295
+dequeue Brian Lee
+dequeue Julio Mclaren
+enqueue Marcos King, 14, 198
+dequeue Stephen Jones
+enqueue Lawrence Bailey, 7, 265
+dequeue Stephany Woodhams
+enqueue Jamie Cabrera, 16, 6
+enqueue Bradley Dryer, 1, 17
+dequeue Cheryl Dodds
+enqueue Lisa Stone, 8, 311
+enqueue Mary Tucker, 7, 36
+enqueue Robert Madore, 1, 344
+enqueue Joshua Garcia, 4, 103
+enqueue Pasquale Weston, 13, 46
+enqueue Bruno Suryan, 9, 15
+enqueue Sterling Denis, 2, 231
+enqueue Gerald Rowe, 5, 139
+enqueue Connie Washington, 17, 52
+enqueue Joseph Buehlman, 2, 148
+enqueue Jess Panchik, 15, 134
+dequeue David Ragland
+enqueue Samuel Moye, 4, 262
+dequeue Jeffrey Munoz
+enqueue Les Williams, 8, 203
+enqueue Gloria Ruderman, 7, 83
+dequeue Masako Blaine
+dequeue Karen Woody
+enqueue Norma Ryan, 8, 61
+enqueue Constance Chamberlain, 9, 182
+enqueue Michael Varney, 12, 291
+dequeue Luke Gallo
+dequeue Jaime Specht
+dequeue Ned Mcinnis
+enqueue Daniel Quinones, 12, 264
+dequeue Michelle Clegg
+dequeue Jasmin Stahl
+dequeue Heather Holtsclaw
+dequeue Kathleen Comer
+enqueue Debra Kalina, 11, 70
+enqueue Floyd Kistner, 10, 174
+enqueue Carson Amos, 1, 256
+dequeue Gerald Devaughn
+enqueue Matthew Brown, 9, 200
+dequeue Ryan Hester
+enqueue Ashley Moran, 9, 180
+enqueue Roxie Obrien, 18, 102
+enqueue Rosa Ramirez, 6, 81
+enqueue Katherine Ball, 5, 129
+dequeue Kenneth Johnson
+enqueue Doris Bennett, 12, 63
+dequeue Jill Morgan
+enqueue Alan Espinoza, 7, 256
+enqueue Harry Bell, 11, 265
+enqueue Ralph Arredondo, 4, 326
+dequeue Jose Spiller
+enqueue Annie Stephens, 9, 306
+dequeue Lenita Tarwater
+enqueue Victor Reding, 5, 99
+dequeue Robert Prindle
+enqueue Kathleen Judkins, 4, 31
+dequeue Brian Johnson
+dequeue Mark Evans
+enqueue Aurelia Seggerman, 17, 166
+dequeue Carlos Doherty
+enqueue Evelyn Powell, 5, 356
+dequeue Evelyn Powell
+dequeue Pablo Macko
+enqueue Sherry Gindlesperger, 20, 115
+enqueue Ron Munyon, 2, 97
+enqueue Dave Plourde, 2, 332
+enqueue Bryan Willette, 15, 272
+enqueue Lisa George, 12, 128
+dequeue Robert Madore
+dequeue Jenna Holt
+enqueue John Cadwell, 3, 341
+enqueue John Itson, 4, 197
+enqueue Woodrow Miller, 5, 206
+dequeue Patricia Danforth
+enqueue Minnie Roughton, 4, 157
+dequeue Edward Geiger
+enqueue Edna Markes, 1, 333
+enqueue Karen March, 18, 307
+dequeue Carol Martinez
+enqueue Maria Dietz, 11, 189
+dequeue Frances Dixon
+enqueue Nathan Hewell, 6, 187
+enqueue Rafael Bryant, 3, 251
+dequeue Rogelio Sledge
+dequeue Paul Zucco
+enqueue Neil Tarbutton, 7, 302
+enqueue Stephen Carmack, 20, 298
+enqueue Jose Garcia, 6, 63
+dequeue Joe Caudel
+dequeue George Custodio
+enqueue Rosemary Butcher, 6, 64
+enqueue Nathaniel Herrera, 10, 111
+dequeue Matthew Grimm
+enqueue Camille Jones, 6, 126
+enqueue Bianca Salas, 15, 340
+dequeue Bianca Salas
+dequeue John Cadwell
+dequeue Michael Rowland
+dequeue Shawn Parker
+enqueue Anita Campbell, 21, 169
+enqueue Linda Prechtl, 5, 155
+dequeue George Mayberry
+enqueue Holly Lawrence, 10, 283
+enqueue James Gamba, 14, 340
+dequeue James Gamba
+dequeue Roy Lam
+dequeue Linda Lewis
+dequeue Michael Jones
+dequeue Michelle Olivo
+dequeue Annmarie Miller
+dequeue Joseph Paul
+dequeue Walter Collins
+enqueue Lucas Rivera, 4, 235
+dequeue Pat Wright
+enqueue Misty Eckman, 20, 308
+dequeue Esther Oliver
+enqueue Mary Burnett, 14, 208
+dequeue Mohammad Sloan
+enqueue Jordan Chong, 4, 160
+enqueue Nancy Conklin, 11, 41
+dequeue Florence Mauck
+dequeue Patti Snelgrove
+enqueue Ivette Yanez, 18, 78
+enqueue Ricky Bussard, 6, 358
+dequeue Ricky Bussard
+enqueue Jeremy Schulze, 9, 139
+dequeue Richard Nedley
+enqueue Robert Grimm, 3, 4
+enqueue Richard Allamong, 19, 285
+enqueue Marie Seedorf, 8, 312
+dequeue Ted Austin
+enqueue Brian Andrews, 1, 148
+enqueue Steven Mullins, 16, 143
+enqueue Billy Hawkins, 12, 118
+dequeue Michael Styles
+dequeue Edna Markes
+dequeue Dorothy Brennan
+dequeue Sherrie Johnson
+enqueue Kevin Mems, 18, 133
+dequeue Heather Wickes
+enqueue Marty Benigno, 10, 234
+dequeue Samuel Hartung
+enqueue Terry Mitchell, 12, 355
+enqueue Douglas Mancuso, 18, 363
+dequeue Douglas Mancuso
+dequeue Terry Mitchell
+dequeue Dave Plourde
+enqueue Douglas Floyd, 11, 33
+dequeue Ray Bolding
+enqueue Emily Ruiz, 7, 248
+dequeue Ofelia Mikesell
+dequeue Daphne Barnes
+enqueue Manuel Clayton, 19, 321
+enqueue Shawn Stallsworth, 7, 109
+enqueue Roger Rhoden, 1, 95
+enqueue Florentino Lashley, 19, 175
+enqueue William Simonelli, 11, 260
+enqueue Steven Cofield, 11, 57
+enqueue Barbara Salas, 8, 349
+dequeue Barbara Salas
+dequeue Michael Taylor
+dequeue Nikki Delafuente
+enqueue Josephine Whatley, 3, 164
+dequeue Edith Meyer
+dequeue Matthew Irvine
+dequeue Rachel Azulay
+dequeue Ronald Nelson
+dequeue Lanette Gallman
+dequeue Mary Lacroix
+enqueue Dale Vasquez, 14, 335
+dequeue Dale Vasquez
+dequeue Angela Conklin
+dequeue Patricia Caldwell
+dequeue Ralph Arredondo
+enqueue Patricia Bishop, 18, 348
+dequeue Patricia Bishop
+dequeue Harold Hardy
+dequeue Steven Dover
+enqueue Michael Dobson, 17, 18
+enqueue Virgina Mathwich, 2, 144
+dequeue Hazel Rigby
+dequeue Richard Fletcher
+enqueue John Olenius, 12, 353
+enqueue John Todd, 15, 332
+dequeue John Olenius
+enqueue Robert Schaufelberge, 6, 174
+dequeue John Todd
+enqueue Evelyn Benson, 16, 322
+enqueue Jessica Wycoff, 11, 240
+dequeue Glenn Kowalsky
+enqueue Joseph Kennedy, 18, 92
+enqueue Annette Wetmore, 18, 344
+enqueue John Blair, 5, 83
+enqueue Don Stay, 5, 224
+enqueue Dorothy Mcdonough, 11, 65
+dequeue Annette Wetmore
+dequeue Christine Martinez
+dequeue Manuel Clayton
+enqueue Lucile Keller, 6, 31
+dequeue Evelyn Benson
+dequeue Jacquelyn Donovan
+dequeue Tina Ohearn
+enqueue Belinda Cruz, 2, 196
+enqueue Gertrude Emmons, 19, 240
+enqueue James Hollander, 11, 134
+dequeue Michael Gavin
+dequeue Zachary Carroll
+dequeue Mary Owens
+enqueue Martin Radcliffe, 17, 95
+dequeue Leonard Gonsales
+enqueue Madie Lockwood, 15, 92
+dequeue Raul Andrews
+dequeue Ann Steir
+enqueue Shirley Bradshaw, 8, 83
+dequeue Pamela Beck
+enqueue Brenda Coffee, 9, 228
+dequeue Mario Gardner
+dequeue Shelton Frank
+enqueue Gregory Cisneros, 4, 245
+enqueue Kathryn Gibson, 18, 301
+enqueue Anna Vil, 8, 294
+enqueue Robert Ballew, 6, 280
+dequeue Leon Walker
+dequeue Antoinette Higgins
+dequeue Rosemary Maldonado
+enqueue Dale Thompson, 19, 72
+dequeue Louis Slaughter
+dequeue Phyllis Ipock
+dequeue Ronald Rock
+enqueue Catherine Clark, 8, 28
+enqueue Ralph Fisher, 6, 156
+dequeue Rebecca Leavitt
+dequeue Joe Taylor
+enqueue Donald Mayes, 19, 108
+enqueue Linda Eaton, 1, 108
+enqueue Martin Simpson, 5, 40
+enqueue Juan Ruud, 9, 309
+enqueue Ernestina Hurt, 14, 247
+dequeue Isabel Broker
+dequeue Patricia Semple
+enqueue Frank Cooper, 15, 179
+dequeue William Pugmire
+dequeue John Rodriguez
+dequeue Frank Tatem
+enqueue Andrew Wold, 8, 196
+dequeue Todd Stavnes
+enqueue James Dossantos, 19, 49
+enqueue Eric Nelson, 20, 228
+dequeue Barry Koeller
+enqueue Donna Wagoner, 1, 59
+dequeue Irene Henderson
+enqueue Barbara Coggin, 12, 9
+dequeue Suzanne Sims
+dequeue Evon Alix
+enqueue Jeremy Hochstetler, 21, 20
+enqueue Stephen Reed, 6, 320
+dequeue Stephen Reed
+dequeue Sue Hopes
+enqueue Joshua Harper, 20, 17
+dequeue Joy Lunstrum
+dequeue Albert Jackson
+enqueue Refugio Fleming, 21, 99
+dequeue Gary Edwards
+dequeue Marie Seedorf
+dequeue Therese Middleton
+dequeue Christopher Wall
+dequeue Misty Eckman
+dequeue Brian Moses
+dequeue Lisa Stone
+enqueue Shannon Murphy, 13, 199
+enqueue Beatrice Kirby, 8, 235
+enqueue Alice Mccauley, 3, 49
+enqueue Scott Viera, 1, 353
+enqueue Susanne Nixon, 20, 51
+enqueue Deanna Abney, 1, 298
+dequeue Scott Viera
+enqueue William Callaway, 8, 113
+enqueue Larry Woodie, 19, 293
+enqueue Marion Mcgough, 21, 301
+enqueue David Bolen, 16, 251
+enqueue Harriet Brown, 6, 91
+enqueue Michael Cray, 2, 188
+dequeue Constance Anderson
+enqueue Daniel Anselmo, 21, 183
+enqueue Jennifer Harrison, 14, 133
+dequeue Karen March
+dequeue Denise Wells
+dequeue David Kumar
+dequeue Juan Ruud
+enqueue Robert Primus, 5, 20
+enqueue Leonard Hurst, 7, 335
+dequeue Leonard Hurst
+enqueue Sharon Gibson, 15, 233
+dequeue Robert Brown
+dequeue Reginald Falgout
+enqueue Daisy Culbertson, 21, 291
+dequeue Richard Hutton
+enqueue Louis Carter, 17, 60
+dequeue Milton Topel
+enqueue Leonora Duane, 6, 190
+enqueue Jennifer Holder, 12, 120
+enqueue Reginald Roberts, 11, 75
+dequeue Jose Myles
+enqueue Steven Lopez, 7, 268
+enqueue Ashley Biglin, 2, 294
+enqueue William Halsey, 7, 220
+dequeue Sarah Merrill
+dequeue Donna Kemmis
+enqueue Manuel Moore, 12, 213
+enqueue Timothy Maohu, 15, 340
+dequeue Timothy Maohu
+dequeue Annie Stephens
+dequeue Janet Daniels
+enqueue Adam Barksdale, 2, 157
+enqueue Doyle Mulinix, 19, 40
+enqueue Eliza Fowler, 5, 333
+enqueue Andrea Creekmur, 14, 60
+dequeue Eliza Fowler
+enqueue Joanne Hastings, 19, 126
+enqueue Yvette Jarvis, 19, 206
+enqueue Imelda Elliott, 1, 219
+enqueue Deborah Sapp, 21, 277
+dequeue Robert Johnston
+enqueue Andrew Witt, 19, 248
+dequeue Sandra Stevens
+dequeue Michelle Walton
+enqueue Mary Howard, 10, 258
+dequeue Mandy Meacham
+dequeue Marion Mcgough
+dequeue Bob Hawkin
+dequeue Kathryn Gibson
+enqueue Steven Durham, 11, 303
+dequeue Steven Durham
+dequeue Curtis Barrios
+dequeue Virginia Layton
+dequeue Joshua Walker
+enqueue Jean Heath, 18, 280
+enqueue Orville Snyder, 3, 63
+dequeue Neil Tarbutton
+enqueue Bradley Jackson, 18, 356
+enqueue Amanda Thomsen, 4, 54
+dequeue Bradley Jackson
+dequeue Lois Gunn
+dequeue Ted Butler
+enqueue Justin Jory, 20, 43
+dequeue Stephen Carmack
+enqueue Scott Caldwell, 18, 295
+dequeue Luis Espinal
+enqueue Bernice Felix, 7, 333
+dequeue Bernice Felix
+enqueue Douglas Shanklin, 10, 354
+dequeue Douglas Shanklin
+dequeue Jimmie Valentin
+dequeue Rachel Hallman
+dequeue Phillip Fields
+enqueue Marilyn Goeltz, 1, 80
+enqueue Jonathan Mills, 10, 228
+enqueue Charles Williams, 5, 222
+dequeue Michael Nichols
+dequeue Jennifer Marschke
+enqueue Darnell Stafford, 7, 346
+dequeue Darnell Stafford
+dequeue Julie Downing
+enqueue Willie Andes, 9, 339
+dequeue Willie Andes
+dequeue Richard Saathoff
+enqueue Lisa Webber, 6, 291
+enqueue James Rouse, 1, 177
+dequeue Jean Roy
+dequeue Oscar Powers
+dequeue Laura Hayes
+dequeue Scott Caldwell
+dequeue Crystal Williams
+enqueue Clarence Moore, 9, 210
+dequeue Linda Madrigal
+enqueue Albert Gillespie, 19, 27
+dequeue Deanna Abney
+dequeue Rachel Gaskill
+enqueue Terry Pedone, 1, 167
+enqueue David Cunningham, 2, 84
+enqueue Ivan Peltier, 19, 323
+enqueue Harold Shaver, 12, 334
+dequeue Harold Shaver
+dequeue Ivan Peltier
+dequeue David Farber
+dequeue Jennifer Michalski
+dequeue Marcus Lund
+enqueue Jacqueline Williamson, 5, 62
+enqueue Jacqueline Mendez, 16, 280
+dequeue Larry Woodie
+dequeue Kylee Gentle
+enqueue Paul Schwartz, 21, 331
+enqueue Dianne Freiseis, 18, 252
+enqueue Charles Legrand, 1, 311
+enqueue Vernon Villalobos, 15, 28
+dequeue Paul Schwartz
+enqueue Mayme Martinez, 16, 322
+enqueue Ashleigh Nielsen, 14, 242
+dequeue Mayme Martinez
+enqueue Norman Furlong, 16, 36
+enqueue Agatha Burrell, 18, 358
+enqueue Tricia Roscoe, 11, 85
+enqueue Lilly Marsingill, 3, 13
+dequeue Agatha Burrell
+enqueue Sharon Turner, 3, 301
+dequeue Charles Legrand
+enqueue Suzanne Harper, 2, 90
+dequeue Sharon Turner
+enqueue Candice Morguson, 20, 243
+enqueue Samuel Bowman, 18, 293
+dequeue Samuel Bowman
+dequeue Vilma Noble
+enqueue Michelle Smith, 21, 108
+enqueue Sarah Merten, 12, 218
+dequeue Susan Song
+enqueue Elizabeth Day, 3, 99
+enqueue David Kinkead, 18, 86
+dequeue John Duke
+dequeue Daisy Culbertson
+enqueue Steven Patterson, 17, 41
+dequeue Elizabeth Mock
+enqueue Clare Padilla, 20, 144
+enqueue Michael Alvaro, 19, 242
+enqueue Kera Thao, 2, 8
+enqueue Jeffrey Stevenson, 15, 310
+enqueue Donna Brown, 5, 72
+enqueue Fred Bryant, 5, 328
+enqueue Gregory Bond, 17, 357
+dequeue Gregory Bond
+enqueue William Clenney, 2, 206
+enqueue Nicholas Douglas, 21, 215
+enqueue Andrea Quesnell, 3, 35
+enqueue Doris Barry, 4, 28
+enqueue Charles Guerra, 17, 259
+enqueue George Jones, 8, 144
+enqueue Robert Mccowan, 21, 73
+dequeue Fred Bryant
+enqueue Kimberly Hook, 20, 299
+dequeue Jeffrey Stevenson
+dequeue Kimberly Hook
+dequeue April Johnson
+enqueue Karen Cherrington, 4, 51
+enqueue Kyong Hardin, 17, 290
+enqueue Lisa Kohn, 9, 103
+enqueue Bonnie Queen, 6, 77
+enqueue Woodrow Thomas, 5, 161
+dequeue Charles Farrow
+enqueue Rose Mcallister, 14, 85
+enqueue Cora Pitts, 3, 206
+enqueue Kim Walters, 2, 307
+dequeue Kim Walters
+dequeue Anna Vil
+enqueue Ruth Maines, 13, 153
+enqueue Marguerite Bowlds, 14, 313
+enqueue Donald Gay, 3, 291
+enqueue Clayton Detrick, 16, 339
+dequeue Clayton Detrick
+dequeue Marguerite Bowlds
+dequeue Tiffany Saville
+enqueue Denita Cruz, 7, 321
+dequeue Denita Cruz
+enqueue Ricky Fisher, 3, 140
+dequeue Ashley Biglin
+enqueue Diane Stewart, 11, 224
+enqueue Mildred Mazzocco, 5, 218
+dequeue David Jeffrie
+enqueue Linda Williams, 3, 27
+dequeue Michael Clemons
+enqueue Seth Franz, 16, 252
+dequeue Amanda Anderson
+enqueue Humberto Stevens, 6, 202
+enqueue Kelli Finn, 6, 329
+enqueue Jimmie Brand, 17, 205
+enqueue Lucy Torres, 10, 303
+enqueue Emil Pastrano, 7, 20
+enqueue Richard Lynch, 3, 110
+dequeue Kelli Finn
+enqueue Clint Vanschoick, 10, 235
+enqueue Jessica Stinson, 17, 175
+dequeue Lucy Torres
+dequeue Everett Raynor
+dequeue Kyong Hardin
+dequeue Stephanie Burgess
+enqueue James Edwards, 21, 143
+enqueue Darrell Pontiff, 15, 294
+enqueue Cindy Fletcher, 20, 363
+enqueue Rhonda Swick, 21, 284
+enqueue John Vise, 7, 275
+enqueue Lisa Torres, 7, 348
+dequeue Cindy Fletcher
+enqueue Jerry Blanks, 2, 222
+dequeue Lisa Torres
+enqueue Mary Love, 10, 298
+dequeue Mary Love
+dequeue Darrell Pontiff
+dequeue Michael Varney
+dequeue Craig Cochran
+enqueue Rick Curran, 9, 292
+enqueue Amos Brightharp, 2, 312
+enqueue Gertrude Leroy, 7, 224
+dequeue Amos Brightharp
+enqueue Karen Dammeyer, 20, 363
+enqueue Elizabeth Pettit, 13, 90
+enqueue Christina Bauman, 7, 146
+enqueue Janeen Verne, 1, 32
+dequeue Karen Dammeyer
+dequeue Rick Curran
+dequeue Richard White
+dequeue Emma Ibarra
+enqueue John Cisneros, 18, 265
+enqueue Allen Vent, 12, 122
+enqueue Shawn Mccoy, 19, 3
+enqueue Angela Lyon, 1, 224
+enqueue Maude Allen, 17, 284
+enqueue Christopher Williams, 21, 266
+enqueue Steve Hernandez, 9, 292
+enqueue Sharon Mariano, 4, 230
+dequeue Steve Hernandez
+dequeue Gayla Olson
+enqueue Brenda Lares, 9, 152
+dequeue Mikel Keenum
+enqueue Shannon Sapp, 6, 232
+enqueue Teresa Petrson, 13, 339
+dequeue Teresa Petrson
+enqueue William Hodges, 20, 91
+dequeue Lisa Webber
+dequeue Donald Gay
+enqueue Holley Miracle, 21, 262
+enqueue Miguel Schmidtke, 4, 195
+dequeue Robert Schmitz
+dequeue Clyde Hallberg
+enqueue Audrey Jones, 21, 201
+dequeue Catherine Starnes
+enqueue Margaret Roth, 15, 285
+enqueue Timothy Chester, 15, 194
+enqueue Kenneth Dodson, 13, 354
+enqueue James Robinson, 13, 326
+enqueue Donald Mcwhirt, 11, 13
+dequeue Kenneth Dodson
+enqueue Dorothy Glud, 11, 292
+enqueue Dorothy Houston, 8, 292
+dequeue James Robinson
+dequeue Dorothy Glud
+enqueue Hubert Carroll, 20, 289
+dequeue Hubert Carroll
+dequeue Dorothy Houston
+dequeue Dwayne Ling
+dequeue Minnie Waldrip
+enqueue Terry Upton, 9, 236
+enqueue Renato Champagne, 5, 240
+dequeue Richard Allamong
+enqueue Mary Phelps, 13, 281
+enqueue Raymond Warren, 17, 290
+dequeue Raymond Warren
+dequeue Rhonda Swick
+dequeue Kim Justice
+enqueue Alex Koran, 17, 100
+dequeue Dawn Mcmann
+dequeue Beth Reyes
+dequeue Nicholas Hightower
+enqueue Scott Jett, 11, 16
+dequeue Margaret Roth
+enqueue Charlene Sanders, 1, 315
+enqueue Arturo Crespo, 3, 57
+enqueue Doreen Greenhalgh, 6, 21
+dequeue Charlene Sanders
+enqueue Jose White, 10, 83
+dequeue John Leeper
+enqueue Elizabeth Mcneely, 14, 301
+dequeue Elizabeth Mcneely
+dequeue Daniel Secrease
+enqueue John Howard, 16, 343
+enqueue Jeff Marks, 6, 83
+dequeue John Howard
+dequeue Sally Elliot
+enqueue Tony Easterling, 17, 361
+dequeue Tony Easterling
+enqueue Joseph Ragusa, 11, 299
+enqueue Ira Wilkes, 18, 268
+enqueue Brian Price, 16, 346
+dequeue Brian Price
+enqueue David Delp, 4, 172
+dequeue Joseph Ragusa
+enqueue Kirk Yeast, 3, 287
+dequeue Kirk Yeast
+dequeue Jessie Pierce
+dequeue Maude Allen
+dequeue Stephen Chaney
+dequeue James Patrick
+dequeue Susan Correra
+enqueue Beatris Rector, 7, 297
+enqueue Hazel Snyder, 1, 336
+enqueue Amy Gordon, 7, 211
+dequeue Hazel Snyder
+enqueue Daniel Ray, 7, 271
+enqueue Eva Romriell, 3, 12
+enqueue Andrew Brown, 14, 338
+dequeue Andrew Brown
+dequeue Beatris Rector
+dequeue John Digangi
+dequeue Natasha Hall
+enqueue Luis Morrow, 3, 153
+dequeue Isabel White
+dequeue Holly Lawrence
+dequeue John Arnold
+enqueue Kenneth Munoz, 18, 335
+enqueue Lynda Broaddus, 9, 357
+enqueue Michael Ward, 3, 257
+dequeue Lynda Broaddus
+dequeue Kenneth Munoz
+dequeue Jean Heath
+enqueue Scott Pendergast, 19, 86
+dequeue Nathan Bass
+enqueue Connie Granado, 17, 154
+enqueue Justin Innocent, 12, 337
+dequeue Justin Innocent
+dequeue Mary Phelps
+enqueue Dorothy Ragusano, 16, 201
+enqueue Kimberly Timberlake, 4, 52
+enqueue Brian Petersen, 17, 307
+enqueue Abigail Flowers, 17, 174
+dequeue Brian Petersen
+enqueue Lawrence Wood, 3, 273
+dequeue Jacqueline Mendez
+enqueue Eric Foss, 7, 365
+dequeue Eric Foss
+enqueue Roy Zweier, 9, 101
+dequeue Neil Gimbel
+enqueue David Crawley, 12, 110
+dequeue Nina Espinoza
+enqueue Eric Postma, 10, 36
+enqueue Martina Woo, 2, 136
+enqueue Claude Page, 10, 198
+enqueue Gerard Washington, 17, 355
+enqueue Janet Johnson, 7, 304
+enqueue Douglas Moore, 20, 163
+enqueue Rick Dibiase, 5, 47
+dequeue Gerard Washington
+dequeue Janet Johnson
+enqueue James Hardt, 17, 74
+dequeue Deborah Sapp
+dequeue Maria Gramling
+dequeue Joan Barrios
+dequeue Corey Battle
+enqueue Teri Dudley, 6, 24
+dequeue Allison Tryon
+dequeue Robert Ballew
+enqueue Lori Coffman, 4, 280
+enqueue Ramon Davis, 13, 180
+enqueue Pamela Reed, 18, 331
+enqueue Vincent Kirkpatrick, 21, 355
+dequeue Vincent Kirkpatrick
+enqueue Elwood Lloyd, 18, 292
+dequeue Pamela Reed
+enqueue Judy Matthews, 2, 365
+dequeue Judy Matthews
+enqueue Juan Tenney, 13, 357
+enqueue James Smith, 2, 127
+enqueue Troy Williams, 3, 347
+enqueue Jenny Holland, 9, 191
+enqueue Vivian Maurer, 5, 345
+dequeue Juan Tenney
+enqueue Warren Barnett, 14, 278
+dequeue Troy Williams
+enqueue Christine Miller, 16, 23
+enqueue Julia Walsh, 7, 251
+dequeue Vivian Maurer
+dequeue Elwood Lloyd
+enqueue Bradford Santos, 4, 331
+enqueue Richard Westra, 17, 291
+dequeue Bradford Santos
+enqueue Belinda Figueroa, 14, 129
+enqueue Jose Avery, 18, 353
+dequeue Jose Avery
+dequeue Richard Westra
+dequeue Lori Coffman
+enqueue Keith Cropper, 19, 365
+enqueue Jonas Gundrum, 6, 355
+dequeue Keith Cropper
+enqueue Walter Mangum, 1, 264
+dequeue Jonas Gundrum
+enqueue Rusty Austin, 14, 352
+enqueue John Chaney, 21, 54
+enqueue Charles Bramer, 20, 294
+enqueue Evelyn Wells, 11, 143
+enqueue Karen Minichiello, 17, 327
+enqueue Gregory Bosworth, 15, 363
+dequeue Gregory Bosworth
+enqueue Jeanne Jackson, 9, 219
+enqueue John Schilling, 13, 282
+dequeue Rusty Austin
+dequeue Karen Minichiello
+dequeue Charles Bramer
+dequeue John Schilling
+dequeue Warren Barnett
+enqueue Gregory Krause, 2, 179
+enqueue Alberto Stephens, 4, 307
+enqueue James Parsons, 13, 65
+enqueue Lisa Philbert, 13, 249
+enqueue Angel Echols, 11, 333
+enqueue Magda Mcentegart, 11, 107
+enqueue Sarah Edwards, 5, 250
+dequeue Angel Echols
+dequeue Alberto Stephens
+dequeue Patrick Hinger
+dequeue William Anderson
+enqueue Shirley Pittman, 15, 22
+dequeue Daniel Castle
+dequeue Joan Branham
+dequeue Alison Reaves
+enqueue Carmen Sanders, 5, 104
+enqueue Joseph Gonzales, 6, 191
+dequeue Vernice Perez
+dequeue Anna Grossman
+enqueue Jimmy Brustmann, 5, 180
+enqueue Brian Alexander, 9, 365
+enqueue Bonnie Huber, 11, 303
+enqueue Betty Connor, 2, 252
+dequeue Brian Alexander
+enqueue Nicholas Vann, 18, 129
+dequeue Bonnie Huber
+enqueue Helena Young, 10, 332
+dequeue Helena Young
+dequeue David Frazier
+enqueue Justin Brown, 5, 18
+enqueue Mary Ronca, 17, 347
+enqueue Kelly Breedon, 4, 188
+enqueue Linda Price, 1, 283
+enqueue Phillip Greer, 11, 116
+enqueue Maria Holley, 19, 279
+enqueue Ronnie Martone, 1, 250
+dequeue Mary Ronca
+enqueue John Hicks, 14, 315
+enqueue Javier Jackson, 20, 320
+enqueue Michelle Stivers, 9, 171
+enqueue Carolyn Roy, 16, 347
+dequeue Carolyn Roy
+enqueue Tami Rodriguez, 20, 122
+dequeue Javier Jackson
+enqueue Bruce Seabrooke, 6, 322
+dequeue Bruce Seabrooke
+dequeue John Hicks
+dequeue Linda Price
+enqueue Christine Lord, 11, 31
+dequeue Maria Holley
+dequeue Maria Wince
+enqueue Charles Erskine, 5, 237
+enqueue Warren Veno, 1, 191
+enqueue Brianna Leitch, 13, 32
+dequeue Betty Doyle
+enqueue Amanda Davis, 9, 169
+dequeue Christie Washington
+dequeue Cindy Silverman
+enqueue Evelyn Bianchi, 17, 26
+dequeue Ida Easterly
+enqueue Gene Ringgold, 17, 280
+dequeue Gene Ringgold
+dequeue Marie Jones
+enqueue Colleen Sparks, 13, 315
+enqueue Frank Shriver, 16, 207
+enqueue Frank Yetsko, 18, 280
+dequeue Colleen Sparks
+dequeue Frank Yetsko
+enqueue Micheal Harris, 11, 258
+dequeue Scott Chaney
+dequeue Carol Baker
+enqueue Eleanor Christie, 13, 229
+enqueue Nolan Ambrose, 2, 209
+enqueue Linda Brookshire, 9, 19
+enqueue Angie Simons, 13, 235
+dequeue Vincent Arnett
+enqueue Cecile Bleau, 10, 261
+enqueue John Nicholson, 19, 36
+enqueue Walter Wilcutt, 12, 345
+enqueue Gertrude Foster, 9, 279
+dequeue Walter Wilcutt
+enqueue Elizabeth Liao, 12, 89
+enqueue Terry Hebert, 1, 298
+enqueue Mark Dryer, 8, 1
+enqueue Antonio Williams, 4, 301
+enqueue John Averill, 8, 66
+dequeue Antonio Williams
+dequeue Terry Hebert
+dequeue Gertrude Foster
+enqueue Scott Carey, 11, 9
+enqueue Tracy Hernandez, 1, 297
+enqueue Sarah Anderson, 9, 89
+enqueue Ashley Sigmon, 4, 171
+dequeue Tracy Hernandez
+dequeue John Vise
+dequeue Helen Pruett
+enqueue Myrtle Ferguson, 4, 323
+enqueue Shirley Cornell, 9, 192
+dequeue Myrtle Ferguson
+enqueue William Carter, 1, 304
+dequeue William Carter
+enqueue Eileen Krause, 13, 146
+enqueue Eric Apodaca, 5, 26
+dequeue Mark Karasti
+enqueue Tracy Backes, 9, 282
+dequeue Tracy Backes
+enqueue John Watkins, 11, 37
+dequeue Bryan Willette
+enqueue Darius Banks, 2, 107
+dequeue George Deluca
+dequeue Maricela Jackson
+dequeue Anthony Jones
+enqueue Sun Lessard, 21, 141
+dequeue Joann Garcia
+enqueue Sharon Sweet, 5, 266
+enqueue Kevin Francis, 11, 200
+dequeue Lawrence Wood
+dequeue Sharon Engel
+enqueue Janice Gisin, 14, 14
+dequeue Ronald Carroll
+enqueue Darrell Chase, 17, 184
+dequeue Kathleen Sheffield
+dequeue Christine Galbreath
+dequeue Daniel Ray
+enqueue Theodore Coward, 7, 88
+dequeue Jennifer Padilla
+enqueue William Marquez, 10, 193
+enqueue John Leblanc, 17, 83
+dequeue Ira Wilkes
+enqueue Jennifer Mangum, 4, 267
+dequeue Howard Holmes
+enqueue James Perry, 21, 341
+dequeue James Perry
+dequeue Carolyn Bradley
+enqueue Lillian Conway, 12, 33
+dequeue Christopher Williams
+enqueue Oma Harrell, 5, 15
+dequeue Matthew Gilchrest
+enqueue Delbert Vizarro, 12, 143
+enqueue Melissa Plotz, 6, 352
+enqueue Anita Hardage, 4, 320
+enqueue Tom Edell, 8, 270
+enqueue Andrew Rowton, 6, 242
+dequeue Melissa Plotz
+enqueue Carla Lafrance, 1, 119
+dequeue Anita Hardage
+enqueue Edna Blacker, 2, 13
+enqueue Paul Berry, 16, 209
+enqueue Timothy Gant, 5, 348
+dequeue Timothy Gant
+enqueue Dawn Welch, 16, 217
+dequeue Tom Edell
+enqueue Dayle Osborne, 11, 328
+enqueue Sibyl Higgins, 14, 315
+enqueue Paula Tuenge, 20, 344
+dequeue Paula Tuenge
+dequeue Dayle Osborne
+dequeue Sibyl Higgins
+enqueue Susie Harris, 6, 259
+dequeue Bobby Mcshea
+enqueue Kimberly Drewett, 6, 40
+enqueue Gerald Harrell, 9, 257
+enqueue Lyle Howard, 16, 218
+enqueue Micah Bui, 16, 94
+enqueue Deanne Pelham, 5, 242
+enqueue Roger Smith, 18, 77
+dequeue Diane Parrish
+dequeue Gregory Barrow
+enqueue Elisabeth Moore, 13, 125
+enqueue Gerald Sandoval, 4, 280
+dequeue Gerald Sandoval
+enqueue Antonio Cole, 20, 199
+dequeue Steven Lopez
+enqueue Elizabeth Stiteler, 19, 11
+enqueue Mildred Stephens, 12, 125
+enqueue Jessie Green, 7, 122
+enqueue Denis Harrison, 21, 293
+dequeue Denis Harrison
+dequeue Margaret Mccormack
+dequeue Esther Moore
+dequeue John Cisneros
+dequeue Mary Crisp
+enqueue Marion Brown, 16, 179
+enqueue Carl Ortega, 19, 256
+dequeue William Ellis
+dequeue James Loock
+enqueue Joseph Dehart, 2, 125
+enqueue Robert Spence, 21, 264
+enqueue Larry Branch, 10, 354
+dequeue Larry Branch
+enqueue Mildred Willis, 5, 328
+enqueue Brenda Clapham, 20, 242
+enqueue Yvonne Creger, 17, 303
+enqueue Patricia Dome, 10, 335
+dequeue Patricia Dome
+dequeue Mildred Willis
+enqueue Ervin Griffin, 12, 241
+dequeue Yvonne Creger
+dequeue Robert Spence
+enqueue Jerald Avella, 3, 52
+dequeue Jennifer Mangum
+dequeue Jaunita Kennell
+enqueue Priscilla Monton, 17, 270
+enqueue Lisa Kitzmiller, 14, 131
+dequeue Priscilla Monton
+enqueue Rita Caldwell, 4, 307
+dequeue Rita Caldwell
+dequeue William Bush
+enqueue Sheryl Hutchinson, 19, 229
+enqueue Selene Mosley, 9, 282
+enqueue Ernest Ingram, 4, 365
+enqueue Lavonne Sobus, 7, 219
+enqueue Sara Gaskins, 1, 284
+enqueue James Moore, 1, 152
+enqueue David Stokes, 6, 105
+dequeue Ernest Ingram
+dequeue Sara Gaskins
+enqueue George Perez, 20, 134
+enqueue Susan Anderson, 1, 269
+dequeue Selene Mosley
+enqueue James Caudell, 1, 163
+enqueue Jennifer Tompkins, 8, 292
+dequeue Jennifer Tompkins
+dequeue Susan Anderson
+dequeue Blake Whitesell
+dequeue Shaun Berryhill
+enqueue Jennifer Prior, 5, 229
+enqueue Ruth Baker, 14, 144
+enqueue Joseph Schaffer, 16, 326
+dequeue Joseph Schaffer
+enqueue Maria Dearmitt, 11, 12
+enqueue Alicia Brittingham, 4, 167
+dequeue Holley Miracle
+dequeue Sharon Sweet
+enqueue Vivian Barney, 21, 285
+enqueue John Mcgranahan, 6, 231
+dequeue Vivian Barney
+enqueue Cornelius Raney, 15, 184
+dequeue Harry Bell
+dequeue Bill Grau
+enqueue Juan Frazer, 21, 1
+dequeue Alison Phillips
+enqueue Travis Storey, 15, 274
+dequeue Travis Storey
+dequeue Thomas Hanneman
+enqueue Linda Bishop, 3, 356
+enqueue Jackie Flook, 15, 231
+enqueue Scott Hudson, 15, 223
+dequeue Linda Bishop
+dequeue Lawrence Bailey
+dequeue Daniel Quinones
+dequeue Barbara Gonzales
+enqueue Melissa Kaltz, 17, 213
+enqueue Daniel Mcneil, 16, 293
+enqueue Diego Anderson, 5, 262
+enqueue Thomas Jorgensen, 9, 288
+enqueue Beverly Allen, 15, 170
+enqueue Johnny Lawyer, 7, 209
+enqueue Kimberly Desai, 12, 311
+dequeue Kimberly Desai
+dequeue Daniel Mcneil
+dequeue Thomas Jorgensen
+enqueue Terry Kelly, 12, 105
+enqueue Tom Kintzer, 9, 6
+enqueue Shirley Chan, 5, 269
+enqueue Thomas Lindell, 17, 206
+dequeue Shirley Chan
+enqueue Denise Anastasiades, 7, 230
+enqueue Martha Harrison, 4, 286
+dequeue Martha Harrison
+dequeue Veronica Frierson
+dequeue Hollie Beaty
+enqueue Jimmie Kennedy, 10, 60
+dequeue Claudia Wlodarek
+dequeue Walter Mangum
+dequeue Lynda Barone
+enqueue Roger Battaglia, 10, 98
+enqueue James Murphy, 12, 268
+enqueue Alex Whittington, 17, 135
+enqueue Jeffrey Lane, 6, 85
+enqueue Alline Larson, 21, 124
+dequeue James Murphy
+enqueue Rosa Douglas, 9, 141
+enqueue Siu Age, 15, 263
+enqueue Barbara Kellogg, 18, 107
+dequeue Siu Age
+dequeue Marian Martin
+dequeue Dale Romo
+enqueue Robert Anderson, 15, 135
+dequeue Raymond Chesla
+enqueue April Howard, 3, 264
+dequeue April Howard
+enqueue Jessie Ramirez, 19, 197
+dequeue Thomas Berman
+enqueue Wade Stephens, 9, 274
+enqueue Gordon Moreno, 13, 114
+enqueue Dee Register, 20, 187
+dequeue Wade Stephens
+enqueue Arthur Saul, 15, 319
+enqueue George Johnson, 6, 92
+dequeue Arthur Saul
+enqueue Leona Smith, 21, 56
+dequeue Michele Mahaffey
+enqueue Alma Jones, 3, 56
+enqueue Cornelia Valverde, 3, 10
+enqueue Jerri Brotherton, 17, 122
+dequeue Anthony Ford
+enqueue Christopher Olsen, 5, 27
+dequeue Diego Anderson
+dequeue Samuel Moye
+enqueue Kathy Jones, 1, 213
+enqueue Patricia Laughlin, 7, 10
+enqueue Casey Franklin, 5, 365
+dequeue Casey Franklin
+dequeue Cecile Bleau
+enqueue Helen Kosiorek, 14, 100
+enqueue Marie Corbett, 1, 111
+enqueue Gerald Hay, 12, 142
+dequeue Charles Guerra
+enqueue Virginia Butz, 15, 128
+dequeue Tracey Reid
+dequeue William Simonelli
+enqueue Irene Banchero, 8, 114
+dequeue Audrey Edwards
+dequeue Ernest Harris
+dequeue Lucille Snow
+dequeue David Jernigan
+dequeue Elizabeth Jackson
+enqueue Laura Grant, 17, 25
+dequeue Pamela Peckham
+dequeue Carl Ortega
+dequeue Susie Harris
+dequeue Lucia Chavez
+dequeue Micheal Harris
+dequeue Maggie Smyth
+dequeue Mary Howard
+dequeue Donna Thielman
+dequeue Buford Gholston
+dequeue Mark Mills
+enqueue George Gonzalez, 6, 328
+dequeue George Gonzalez
+enqueue Phyllis Zolezzi, 7, 112
+enqueue Ethan Grant, 21, 122
+enqueue Larry Townsend, 1, 262
+dequeue Larry Townsend
+enqueue Carmen Mansfield, 15, 263
+dequeue Carmen Mansfield
+enqueue John Seward, 5, 144
+enqueue David Jobson, 6, 289
+dequeue David Jobson
+dequeue Gerald Harrell
+enqueue Bridget Burke, 9, 81
+enqueue William Vanderveen, 15, 345
+enqueue Ronald Jones, 13, 85
+enqueue Jack Manning, 13, 250
+dequeue William Vanderveen
+enqueue Martina Beck, 21, 366
+dequeue Martina Beck
+enqueue Robert Johnson, 12, 302
+dequeue Robert Johnson
+dequeue Melissa Santiago
+enqueue Kathy Adams, 4, 277
+enqueue Lucy Kye, 14, 67
+dequeue Kathy Adams
+enqueue Agnes Brown, 5, 312
+enqueue Angelina Krigger, 1, 345
+enqueue Carrie Allen, 19, 141
+dequeue Angelina Krigger
+dequeue Agnes Brown
+dequeue Michael Ward
+enqueue Ina Fitzgerald, 16, 290
+dequeue Ina Fitzgerald
+dequeue James Adell
+enqueue Nina Bryant, 3, 9
+enqueue Lawrence Wilson, 14, 27
+enqueue Jewell Elmore, 21, 168
+enqueue Linda Varney, 2, 240
+dequeue Alan Espinoza
+enqueue Alicia Huelse, 17, 75
+enqueue Julie Sykes, 13, 313
+enqueue Yoshiko Mcqueen, 3, 354
+dequeue Yoshiko Mcqueen
+dequeue Julie Sykes
+dequeue Carson Amos
+dequeue William Drane
+enqueue Lydia Leonard, 14, 238
+dequeue Dianne Freiseis
+dequeue Marilyn Langley
+dequeue Juliana James
+enqueue Michael Coleman, 20, 191
+enqueue Bruce Butler, 3, 176
+enqueue Elizabeth Mcqueen, 9, 18
+dequeue Seth Franz
+enqueue Wayne Antonio, 9, 345
+enqueue Terry Smith, 2, 26
+enqueue April Noriega, 19, 327
+enqueue Pamala Garrett, 15, 246
+dequeue Wayne Antonio
+dequeue April Noriega
+enqueue Mabel Cush, 12, 354
+dequeue Mabel Cush
+dequeue William Stamps
+enqueue Howard Irwin, 5, 202
+dequeue David Bolen
+dequeue Lee Keith
+dequeue Gary Baer
+enqueue Erika Simpson, 1, 168
+enqueue Candace Lingenfelter, 18, 132
+dequeue David Pugh
+enqueue Lynne Ashford, 8, 131
+dequeue John Carls
+enqueue Sandra Tobias, 14, 299
+dequeue Sandra Tobias
+enqueue Gerald Pedregon, 2, 297
+enqueue Charles Sanchez, 14, 153
+enqueue Brenda Baxley, 12, 233
+dequeue Gerald Pedregon
+enqueue Christopher Matteucci, 8, 46
+dequeue James Rivera
+enqueue Lillie Flynn, 8, 332
+enqueue Trent Granger, 7, 128
+dequeue Lillie Flynn
+enqueue Charles Snider, 9, 297
+dequeue Charles Snider
+dequeue Rodney Johnston
+dequeue Betty Connor
+dequeue Jack Manning
+enqueue Lewis Daquino, 17, 200
+enqueue Lisa Oxendine, 7, 210
+dequeue Robert Cheatwood
+dequeue Andrew Witt
+dequeue Julia Walsh
+dequeue Amy Landis
+dequeue John Cain
+dequeue Anthony Hulbert
+enqueue Frank Ringrose, 1, 197
+dequeue Noah Summers
+enqueue Amber Sengbusch, 11, 265
+enqueue Julie Metts, 13, 268
+enqueue Andrew Savage, 7, 54
+enqueue James Mcaulay, 1, 162
+enqueue Margaret Adank, 5, 352
+enqueue Joseph Lu, 19, 76
+enqueue Richard Breau, 12, 170
+enqueue Paula Switzer, 4, 355
+dequeue Paula Switzer
+enqueue Shirley Owens, 4, 23
+dequeue Margaret Adank
+enqueue Dawn Detweiler, 3, 212
+enqueue George Ehret, 16, 321
+enqueue Gary Faire, 9, 258
+enqueue Robin Vonstein, 5, 255
+enqueue Tyree Grant, 16, 284
+dequeue George Ehret
+dequeue Tyree Grant
+dequeue Julie Metts
+dequeue Amber Sengbusch
+enqueue Henry Rodriguez, 18, 216
+enqueue Gerald Cornett, 16, 327
+enqueue Tia Stokes, 18, 16
+enqueue Kevin Honeywell, 4, 365
+dequeue Kevin Honeywell
+enqueue Anthony Cavitt, 7, 256
+dequeue Gerald Cornett
+dequeue Gary Faire
+enqueue Patricia Cuneo, 17, 324
+enqueue Martha Gonzalez, 19, 52
+dequeue Patricia Cuneo
+enqueue Sarah Dilliard, 20, 103
+enqueue Dennis Lee, 18, 256
+dequeue Dennis Lee
+dequeue Anthony Cavitt
+dequeue Robin Vonstein
+enqueue Brian Collins, 19, 289
+enqueue Theresa Robinson, 8, 198
+enqueue Katherine Leary, 13, 322
+enqueue Carole Salyer, 19, 253
+enqueue Timothy Houghtelling, 16, 76
+enqueue John Schryer, 18, 246
+dequeue Katherine Leary
+dequeue Brian Collins
+dequeue Carole Salyer
+enqueue Janet Peets, 18, 105
+enqueue Luis Canady, 6, 324
+dequeue Luis Canady
+enqueue Joseph Hinds, 15, 30
+enqueue Lisa Buff, 21, 156
+enqueue Melinda Cassels, 6, 321
+dequeue Melinda Cassels
+enqueue Christopher Smith, 7, 18
+enqueue Kiera Roussel, 6, 275
+dequeue Kiera Roussel
+dequeue Rafael Bryant
+dequeue Lisa Philbert
+dequeue Sarah Edwards
+enqueue Rose Lenigan, 2, 315
+enqueue Odell Frede, 16, 74
+dequeue Rose Lenigan
+enqueue Frederick Saunders, 7, 138
+enqueue Jamie Gonzalez, 1, 255
+dequeue Jamie Gonzalez
+enqueue George Gupton, 19, 105
+enqueue Monica Brown, 15, 21
+dequeue Ronnie Martone
+dequeue John Schryer
+enqueue Jessica Arledge, 14, 227
+enqueue Julie Thomas, 12, 362
+dequeue Julie Thomas
+enqueue James Mccloskey, 1, 52
+dequeue Ernestina Hurt
+dequeue Emily Ruiz
+dequeue Pamala Garrett
+dequeue Vincenzo Martin
+dequeue Drew Heard
+dequeue Betty Freeman
+dequeue Michael Matthews
+enqueue Mary Reed, 5, 156
+enqueue Ethel Bailey, 14, 199
+dequeue Candice Morguson
+dequeue Emmanuel Mills
+enqueue Mark Davis, 3, 222
+enqueue Andrea Penttila, 21, 150
+enqueue Lonnie Meagher, 12, 253
+enqueue Dolores Waldon, 10, 141
+enqueue Benjamin Sharp, 17, 186
+enqueue Jennifer Harman, 11, 197
+dequeue Lonnie Meagher
+dequeue Richard Albano
+enqueue Margaret Garcia, 14, 339
+dequeue Margaret Garcia
+enqueue Thomas Cuccia, 20, 208
+enqueue Dorothy Haynes, 15, 75
+enqueue Daniel Roberts, 9, 16
+dequeue Judy Irwin
+dequeue Brenda Clapham
+enqueue Gary Wiley, 13, 326
+enqueue Brian Snyder, 6, 79
+dequeue Gary Wiley
+dequeue Michael Alvaro
+enqueue Michell Yodis, 21, 319
+enqueue Sara Cooper, 20, 352
+dequeue Sara Cooper
+enqueue Louis Anderson, 15, 323
+enqueue Denise Donze, 10, 129
+enqueue David Greaves, 1, 149
+enqueue Linda Nest, 20, 180
+dequeue Louis Anderson
+enqueue Ruth Sanford, 16, 4
+enqueue Brandon Williams, 9, 146
+enqueue Brenda Peters, 20, 97
+enqueue Wayne Carr, 9, 94
+dequeue Michell Yodis
+enqueue Tracy Pyle, 17, 365
+dequeue Tracy Pyle
+enqueue Donald Mauer, 20, 294
+dequeue Donald Mauer
+dequeue Troy Basque
+enqueue Richard Walko, 11, 345
+dequeue Richard Walko
+dequeue Gregory Cisneros
+dequeue Linda Dean
+enqueue Leon Bedford, 1, 264
+enqueue Gladys Williams, 17, 19
+enqueue Matthew Porter, 19, 38
+enqueue David Hsu, 17, 61
+dequeue Leon Bedford
+dequeue Angela Peoples
+dequeue Tiffany Perdomo
+enqueue Andrew Blanton, 4, 140
+enqueue Christopher Fitzgerald, 19, 363
+dequeue Christopher Fitzgerald
+dequeue Joseph Casey
+enqueue Brian Dalton, 19, 235
+enqueue Ella Whitecotton, 13, 252
+enqueue James Orozco, 1, 247
+enqueue Kelsey Anderson, 19, 360
+enqueue Ruth Colvin, 21, 110
+enqueue Karen Smith, 18, 19
+enqueue Charles Robertson, 9, 159
+dequeue Kelsey Anderson
+enqueue Karen Dominguez, 5, 282
+dequeue Karen Dominguez
+enqueue Ginette Martinez, 15, 320
+enqueue Angela Heilmann, 21, 184
+dequeue Ginette Martinez
+dequeue Ella Whitecotton
+enqueue Claudia Barta, 14, 356
+dequeue Claudia Barta
+dequeue James Orozco
+dequeue Sarita Terry
+enqueue Brent Honkanen, 5, 4
+dequeue John Parker
+dequeue Ashleigh Nielsen
+dequeue Richard Lopez
+dequeue Gertrude Emmons
+dequeue Anne Ratledge
+dequeue Jean Sanchez
+enqueue Ernest Anderson, 8, 279
+dequeue Ernest Anderson
+enqueue Gregory Griffin, 9, 111
+enqueue Michael Gallahan, 4, 323
+dequeue Michael Gallahan
+dequeue Charles Rickon
+dequeue Ervin Griffin
+dequeue Andrew Rowton
+enqueue Joan Terry, 16, 294
+dequeue Joan Terry
+enqueue Angela Thomas, 19, 351
+enqueue Clarence Baldridge, 1, 9
+dequeue Angela Thomas
+dequeue Deanne Pelham
+enqueue John Papa, 2, 221
+enqueue Alyssa Pring, 13, 201
+enqueue Mildred Nicholson, 15, 265
+dequeue Mildred Nicholson
+dequeue Kevin Throgmorton
+enqueue Paul Nighman, 4, 198
+enqueue James Johnson, 3, 188
+dequeue Irene Garcia
+enqueue Tammy Compton, 11, 129
+dequeue Shelby Mercedes
+enqueue Frances Barrientos, 21, 297
+dequeue Frances Barrientos
+enqueue Aline Keely, 14, 226
+enqueue Lavern Henderson, 16, 358
+dequeue Lavern Henderson
+enqueue Sarah Barnes, 12, 134
+enqueue Shawn Joseph, 13, 23
+dequeue Joi Boehman
+dequeue Alberta Valdes
+enqueue Duane Mcgary, 13, 54
+dequeue Jessica Wycoff
+dequeue Margaret Schoonover
+dequeue Shirley Dow
+enqueue Billy Scroggs, 15, 119
+enqueue Donna Hale, 1, 99
+dequeue Eric Patrick
+dequeue Helen Lyles
+dequeue Garry Bacurin
+enqueue William Devaney, 16, 39
+dequeue Renato Champagne
+enqueue Nathan Howell, 8, 290
+enqueue Patricia Bennett, 6, 251
+dequeue Nathan Howell
+enqueue Marvin Hill, 1, 221
+dequeue Patricia Bennett
+enqueue Elizabeth Lastufka, 7, 350
+dequeue Elizabeth Lastufka
+dequeue Linda Varney
+enqueue Kevin Polk, 3, 210
+dequeue Lydia Leonard
+dequeue Stephanie Frith
+dequeue Nancy Alcantar
+dequeue Dale Lee
+enqueue Mildred Harbour, 12, 205
+dequeue Dale Horning
+enqueue Thomas Jones, 5, 141
+enqueue Terry Bertalan, 9, 326
+enqueue Carrie Scheppke, 19, 342
+dequeue Carrie Scheppke
+dequeue Terry Bertalan
+enqueue Helen Barnes, 21, 357
+enqueue Darrin Abell, 18, 344
+enqueue Ronald Thayer, 21, 308
+dequeue Helen Barnes
+dequeue Darrin Abell
+enqueue Alexis Hart, 9, 49
+enqueue Michael Marshall, 13, 39
+dequeue Ronald Thayer
+enqueue Mack Aguirre, 21, 234
+dequeue Marsha Jones
+enqueue Michelle Tatro, 13, 70
+enqueue Howard Batista, 17, 354
+dequeue Howard Batista
+dequeue Debbie Shannon
+enqueue Imogene Boyd, 7, 134
+dequeue Liliana Brodowski
+dequeue Brian Dalton
+enqueue David Ford, 18, 128
+enqueue Sharon Horne, 5, 300
+dequeue Sharon Horne
+enqueue Danny Weber, 9, 345
+dequeue Danny Weber
+enqueue Briana Laskowski, 21, 28
+enqueue Opal Acton, 19, 298
+enqueue Stephanie Martin, 20, 265
+dequeue Opal Acton
+dequeue Stephanie Martin
+enqueue Willard Reid, 7, 272
+dequeue Willard Reid
+dequeue Jonathan Schuster
+enqueue Bobby Trueman, 21, 105
+dequeue Mack Aguirre
+dequeue April Chittum
+dequeue Sharon Johnson
+dequeue Denver Emerson
+enqueue Latricia Fryer, 14, 8
+enqueue Shad White, 9, 333
+enqueue Edward Owen, 13, 302
+enqueue Mike Otto, 15, 193
+enqueue Michelle Odell, 13, 40
+enqueue Shirley Torres, 1, 209
+dequeue Shad White
+enqueue Annemarie Velez, 19, 115
+dequeue Edward Owen
+enqueue Alison Alexander, 15, 319
+enqueue Joey Flanders, 21, 313
+enqueue Shirley Schreiber, 19, 151
+enqueue Gordon Flores, 6, 279
+dequeue Alison Alexander
+dequeue Joey Flanders
+enqueue Mechelle Kinkead, 7, 327
+enqueue Linda King, 8, 156
+dequeue Mechelle Kinkead
+enqueue William Rego, 13, 213
+enqueue Lyle Mooney, 7, 215
+enqueue Peter Garner, 2, 93
+enqueue Charles Froneberger, 9, 267
+enqueue Allen Dial, 8, 152
+dequeue Gordon Flores
+enqueue James Anderson, 12, 186
+dequeue Charles Froneberger
+dequeue Charles Erskine
+enqueue James Fogle, 20, 77
+dequeue Michael Freidman
+enqueue Norma Lint, 19, 266
+dequeue Norma Lint
+enqueue Richard Howell, 1, 227
+enqueue Betty Diaz, 16, 351
+enqueue Charline Benson, 3, 95
+dequeue Betty Diaz
+dequeue Brian Wyland
+enqueue Michael Bormuth, 10, 44
+enqueue Barbara Langer, 9, 328
+enqueue Brian Perfater, 5, 278
+enqueue Nancy Morgan, 2, 334
+dequeue Nancy Morgan
+dequeue Barbara Langer
+enqueue Adam Houchins, 13, 175
+dequeue Brian Perfater
+enqueue Thelma Benn, 8, 62
+enqueue Jay Hunt, 3, 7
+dequeue Terry Upton
+dequeue Angie Simons
+enqueue Joshua Smith, 3, 218
+dequeue Robin Lazzara
+dequeue Emily Baima
+enqueue Ruby Brainard, 19, 78
+enqueue Ruby Hsiao, 20, 322
+enqueue Roger Johnson, 5, 66
+dequeue Ruby Hsiao
+dequeue Delores Vanhoose
+enqueue Patrick Wright, 17, 79
+dequeue Clint Vanschoick
+dequeue Beatrice Kirby
+enqueue Anthony Cummings, 11, 151
+dequeue Alicia Wooten
+dequeue Michelle Ladd
+enqueue Sana Riley, 16, 186
+enqueue Joann Bow, 1, 20
+dequeue Lois Champion
+enqueue Wanda Steffes, 19, 25
+dequeue Brent Mccarty
+enqueue John Harkin, 10, 184
+enqueue Cassandra Saunders, 5, 106
+dequeue Sharon Gibson
+dequeue Lucas Rivera
+enqueue James Young, 18, 109
+dequeue Marty Benigno
+enqueue Clarence Koenig, 14, 278
+dequeue Clarence Koenig
+enqueue Winifred Lederman, 18, 177
+enqueue Micheal Soto, 13, 346
+dequeue Micheal Soto
+enqueue William Fyall, 2, 172
+dequeue Janet Evans
+enqueue William Martin, 19, 111
+dequeue Junita Huffman
+dequeue Brenda Baxley
+enqueue Louise Breiner, 19, 332
+dequeue Louise Breiner
+dequeue Richard Bloxom
+enqueue Arthur Simmons, 5, 311
+dequeue Arthur Simmons
+dequeue John Cooksey
+enqueue Henry Courser, 9, 292
+dequeue Henry Courser
+dequeue Wilda Anderson
+enqueue Sandra Powell, 10, 76
+dequeue Rhonda Corrieri
+enqueue Mary Kittelson, 17, 12
+enqueue Lynn Williams, 21, 178
+enqueue John Ford, 19, 220
+dequeue Jackie Flook
+enqueue Sandra Kirkland, 7, 23
+enqueue Reba Christian, 6, 283
+enqueue Billy Mcinnis, 4, 70
+enqueue Daniel Krul, 19, 291
+dequeue Daniel Krul
+dequeue Reba Christian
+dequeue Sheryl Hutchinson
+enqueue Sharon Thomas, 15, 224
+dequeue Shannon Sapp
+dequeue Hattie Taylor
+enqueue Cynthia Vasquez, 15, 342
+dequeue Cynthia Vasquez
+enqueue Geoffrey Wiltberger, 4, 308
+dequeue Geoffrey Wiltberger
+enqueue Kia Mueller, 19, 334
+dequeue Kia Mueller
+enqueue John Brill, 7, 279
+dequeue John Brill
+enqueue Donna Wilson, 3, 190
+enqueue Robert Holland, 11, 254
+dequeue Robert Holland
+enqueue Amanda Satchell, 19, 10
+enqueue Jeanette Dickerson, 7, 38
+enqueue Jeffry Denton, 21, 123
+dequeue Theresa Acker
+dequeue Eric Nelson
+enqueue James Malone, 13, 17
+enqueue Lillian Naegeli, 16, 113
+enqueue Tyisha Womack, 2, 3
+enqueue Teresa Hamilton, 16, 262
+enqueue Charles Carpino, 14, 280
+enqueue Diamond Boyce, 4, 65
+dequeue Charles Carpino
+enqueue Andrew Numbers, 10, 299
+enqueue Ann Propst, 18, 153
+dequeue Andrew Numbers
+dequeue Teresa Hamilton
+dequeue Kevin Raya
+dequeue John Mcgranahan
+enqueue Jorge Gadson, 2, 297
+dequeue Jorge Gadson
+dequeue Richard Rodriguez
+enqueue David Bingham, 1, 105
+dequeue Sterling Denis
+enqueue Steven Billingsley, 17, 159
+dequeue Eric Illsley
+enqueue Miki Smith, 20, 137
+dequeue Eleanor Christie
+enqueue Maurice Livesay, 2, 46
+enqueue Joyce Brown, 8, 158
+enqueue Nathan Evans, 10, 65
+dequeue Franklin Kutzner
+enqueue Thomas Shepherd, 14, 135
+enqueue Jason Warner, 4, 2
+dequeue Denise Anastasiades
+dequeue Sharon Mariano
+dequeue Annie Ackies
+dequeue Rodger Moreno
+dequeue Jennifer Prior
+enqueue Joyce Nunez, 13, 315
+dequeue Joyce Nunez
+enqueue Kevin Ibarra, 17, 101
+dequeue Darla Sorensen
+enqueue Jeff Holmes, 13, 188
+enqueue Luis Lucht, 15, 148
+enqueue Patsy Miles, 4, 32
+enqueue Johnny Rayburn, 12, 127
+dequeue Lucas Baker
+enqueue Mildred Lawless, 21, 89
+enqueue Christina Ayala, 18, 24
+enqueue Timothy Barnett, 15, 17
+enqueue Clara Potthoff, 3, 113
+dequeue Jonathan Mills
+dequeue Jessica Arledge
+dequeue Brenda Coffee
+enqueue Jason Wilson, 11, 203
+dequeue Roy Helmus
+dequeue Jacob Harman
+enqueue Joe Darnell, 15, 352
+enqueue Theodora Brown, 13, 162
+enqueue Thomas Weidenbach, 21, 342
+dequeue Joe Darnell
+enqueue Louis Nelms, 16, 341
+enqueue Cynthia Doe, 5, 319
+dequeue Thomas Weidenbach
+enqueue Robin Ratliff, 12, 272
+dequeue Louis Nelms
+dequeue Cynthia Doe
+enqueue Mary Leavitt, 19, 267
+enqueue John Syphers, 14, 32
+dequeue Robin Ratliff
+dequeue Mary Leavitt
+dequeue Kenneth Salvo
+dequeue Kiley Ashbrook
+enqueue Florinda Cordero, 12, 69
+dequeue Aline Keely
+enqueue Josue Mayer, 9, 226
+dequeue Kellie Scovil
+enqueue George Jacob, 1, 258
+dequeue George Jacob
+enqueue Steven Hawkins, 2, 197
+dequeue Russell Bookwalter
+dequeue Annette Guerette
+dequeue Richard Howell
+enqueue Larry Sung, 2, 106
+enqueue Paul Powell, 21, 102
+dequeue Wayne Abernathy
+enqueue Elizabeth Libel, 12, 352
+enqueue Patrick Bradley, 17, 281
+enqueue Mabel Mckown, 7, 233
+dequeue Elizabeth Libel
+enqueue Francis Kelley, 7, 253
+dequeue Patrick Bradley
+enqueue Susan Garcia, 11, 300
+dequeue Susan Garcia
+dequeue Francis Kelley
+dequeue Mabel Mckown
+dequeue Josue Mayer
+enqueue Patrick Longino, 17, 296
+enqueue Kevin Angert, 3, 324
+dequeue Kevin Angert
+dequeue Patrick Longino
+enqueue Valentine Moore, 9, 309
+dequeue Valentine Moore
+dequeue Veronica Mooney
+dequeue Jose Brunetto
+enqueue Valerie Bennett, 6, 304
+enqueue Viola Wood, 21, 61
+enqueue Ruth Ritchie, 15, 310
+dequeue Ruth Ritchie
+dequeue Valerie Bennett
+enqueue Kirsten Havener, 19, 346
+dequeue Kirsten Havener
+enqueue Alan Hope, 15, 50
+dequeue Sharon Thomas
+dequeue Rafael Malone
+dequeue Eric Greer
+enqueue Wendy Lewis, 4, 279
+enqueue Jacqueline White, 4, 187
+dequeue Wendy Lewis
+enqueue Jessica Smith, 1, 347
+dequeue Jessica Smith
+enqueue Hannah Weber, 7, 161
+enqueue Carole Barker, 17, 139
+enqueue James Kaplan, 9, 29
+enqueue Christina Zaczek, 14, 366
+dequeue Christina Zaczek
+dequeue David Diggs
+enqueue Nicholas Rauer, 9, 10
+dequeue Lindsay Dueber
+enqueue Glen Wick, 6, 97
+enqueue Phyllis Samuel, 1, 205
+dequeue Scott Hudson
+dequeue Wayne Romney
+dequeue Diane Stewart
+enqueue Joe Torres, 12, 250
+enqueue George Libel, 1, 323
+enqueue Brian Rollefson, 19, 26
+dequeue George Libel
+enqueue Rosie Stitt, 12, 87
+enqueue Melody Herrera, 12, 161
+enqueue Dominic Gillum, 19, 42
+enqueue Kevin Gatewood, 7, 266
+dequeue Kevin Gatewood
+enqueue Antonio Policare, 8, 58
+dequeue Joe Torres
+dequeue Ronnie Allgood
+dequeue Gertrude Leroy
+enqueue Marc Williams, 16, 14
+dequeue Don Stay
+dequeue Ricardo Simmons
+dequeue Angela Lyon
+dequeue John Ford
+dequeue Darcy Close
+enqueue Barbara Fears, 11, 53
+dequeue Russell Willer
+dequeue Bernardina Bowden
+dequeue Richard Natale
+dequeue Megan Smith
+enqueue Kathy Bendel, 4, 259
+dequeue Kathy Bendel
+enqueue Mary Defoor, 10, 238
+dequeue Mary Defoor
+enqueue Robert Jackson, 15, 350
+enqueue Linda Bokor, 2, 4
+dequeue Robert Jackson
+dequeue Charles Williams
+enqueue Rodolfo Stewart, 16, 229
+dequeue Rodolfo Stewart
+enqueue Georgia Chin, 14, 162
+enqueue Joseph Dandrea, 12, 75
+dequeue Mark Davis
+enqueue Mark Bertram, 5, 353
+enqueue Andrew Crews, 15, 340
+enqueue Richard Phillips, 8, 286
+enqueue Shavonne Martin, 20, 271
+enqueue Cecil Nicholas, 10, 226
+dequeue Mark Bertram
+dequeue Andrew Crews
+enqueue John Morgret, 13, 217
+enqueue David Baker, 6, 55
+dequeue Richard Phillips
+dequeue Shavonne Martin
+enqueue Robert Hernandez, 19, 219
+dequeue Cecil Nicholas
+enqueue Delbert Wilkins, 11, 101
+enqueue Dean Mendez, 17, 329
+enqueue Theodore Beasley, 11, 262
+enqueue Ian Thomas, 9, 229
+dequeue Dean Mendez
+enqueue Christina Arcuri, 10, 257
+dequeue Theodore Beasley
+dequeue Christina Arcuri
+enqueue Patricia Schaffer, 12, 123
+dequeue Ian Thomas
+dequeue Robert Hernandez
+dequeue Jerry Blanks
+enqueue Sara Bemis, 13, 187
+enqueue Douglas Crawley, 7, 117
+dequeue Willy Muldowney
+dequeue John Papa
+enqueue Barbara Lantz, 4, 354
+enqueue Ramon Custodio, 16, 213
+dequeue Barbara Lantz
+enqueue Patricia Hallenbeck, 19, 357
+enqueue Jon Mccain, 5, 282
+dequeue Patricia Hallenbeck
+dequeue Jon Mccain
+enqueue Anna Webb, 3, 59
+dequeue Marvin Hill
+enqueue Doris Ott, 10, 133
+dequeue Lyle Howard
+enqueue Tony Smith, 14, 349
+enqueue Clara Kelling, 2, 264
+dequeue Tony Smith
+enqueue Mitchell Williams, 9, 66
+enqueue Dennis Utley, 3, 154
+dequeue Clara Kelling
+dequeue William Halsey
+dequeue Martha Quilliams
+enqueue Darlene Meir, 1, 67
+dequeue Vivian Austin
+enqueue Truman Politi, 18, 1
+enqueue Mary Greany, 13, 241
+dequeue Mary Greany
+enqueue William Hodo, 5, 64
+dequeue Jordan Hernandez
+enqueue Lester Rivera, 2, 243
+enqueue Ma Blumberg, 5, 107
+enqueue Alfredo Cooper, 8, 238
+enqueue Dan Mcmurray, 5, 3
+dequeue Lester Rivera
+enqueue Anna Funk, 6, 248
+enqueue Ryann Sinn, 19, 185
+dequeue Anna Funk
+dequeue Alfredo Cooper
+enqueue William Duffy, 8, 232
+enqueue Clinton Davidson, 18, 116
+enqueue Donna Jones, 9, 126
+enqueue Ray Loveman, 8, 176
+enqueue Carl Armstrong, 10, 291
+dequeue Carl Armstrong
+dequeue William Duffy
+enqueue David Anderson, 9, 44
+dequeue Jeanne Jackson
+dequeue Dorathy Black
+enqueue Connie Hunter, 16, 232
+dequeue Connie Hunter
+dequeue Dawn Welch
+dequeue Lavonne Sobus
+dequeue Sarah Merten
+dequeue Nicholas Douglas
+enqueue Julie Herring, 16, 340
+enqueue Christine Pinder, 8, 293
+enqueue Edward Stone, 16, 233
+enqueue Terri Berry, 8, 160
+enqueue James Gary, 5, 280
+enqueue Myrtis Bell, 21, 262
+enqueue Daniel Bailey, 3, 226
+enqueue Erika Foster, 16, 262
+dequeue Julie Herring
+dequeue Christine Pinder
+dequeue James Gary
+dequeue Myrtis Bell
+enqueue Weston Crawford, 2, 151
+enqueue Stephen Eaton, 5, 299
+dequeue Stephen Eaton
+enqueue Jamie Hodges, 13, 303
+dequeue Jamie Hodges
+dequeue Erika Foster
+enqueue Anna Reynolds, 10, 284
+enqueue Frank Bowman, 6, 43
+dequeue Anna Reynolds
+dequeue Edward Stone
+dequeue Daniel Bailey
+dequeue Henry Rodriguez
+enqueue Brianna Ahlers, 9, 13
+dequeue Imelda Elliott
+enqueue Virginia Lewis, 17, 235
+enqueue William Diaz, 12, 245
+dequeue William Diaz
+dequeue Virginia Lewis
+dequeue John Morgret
+dequeue Mildred Mazzocco
+enqueue Florence Goddard, 12, 91
+dequeue Armand Norris
+enqueue Daniel Hensley, 14, 358
+dequeue Daniel Hensley
+dequeue Virginia Stamand
+dequeue Joshua Smith
+enqueue Dolores Haro, 15, 303
+enqueue Shelia Ledesma, 17, 281
+dequeue Dolores Haro
+dequeue Shelia Ledesma
+dequeue Oscar Durazo
+dequeue Alan Alix
+dequeue Helen Fine
+dequeue George Moody
+dequeue Dena Lewis
+dequeue Rhonda Campbell
+dequeue John Williamson
+dequeue Melissa Kaltz
+dequeue Shirley Dini
+dequeue Ramon Custodio
+dequeue Lyle Mooney
+dequeue David Burnside
+dequeue William Rego
+dequeue Manuel Moore
+dequeue Teresa Henrick
+dequeue Basil Galioto
+dequeue Anne Blue
+dequeue Evelyn Gulotta
+dequeue Jon Perez
+dequeue Kathy Jones
+dequeue Shirley Jackson
+dequeue Larry Chumley
+dequeue Timothy Mallet
+dequeue Dawn Detweiler
+dequeue Thomas Cuccia
+dequeue Laurie Seed
+dequeue Paul Berry
+dequeue Amy Gordon
+dequeue James Hiatt
+dequeue Rose Broady
+dequeue Barbara Ventura
+dequeue Clarence Moore
+dequeue Lisa Oxendine
+dequeue Thelma Smith
+dequeue Kevin Polk
+dequeue Mary Burnett
+dequeue Jordan Sutton
+dequeue Yvette Jarvis
+dequeue Frank Shriver
+dequeue Johnny Lawyer
+dequeue Kaye Earley
+dequeue Gary Mayer
+dequeue Michael Mitchell
+dequeue Nolan Ambrose
+dequeue Shirley Torres
+dequeue Thomas Lindell
+dequeue Jimmie Brand
+dequeue Charles Florian
+dequeue Mike Campbell
+dequeue Janet Murray
+dequeue Rachel Arreola
+dequeue Lisa Parrish
+dequeue Mildred Harbour
+dequeue Tommy Burton
+dequeue Woodrow Miller
+dequeue Wesley Rivera
+dequeue Cora Pitts
+dequeue William Clenney
+dequeue Sidney Norley
+dequeue Cynthia Marsh
+dequeue Alma Broyles
+dequeue Brian Hitchcock
+dequeue Nicholas Rudzik
+dequeue Audrey Jones
+dequeue Alice Sixkiller
+dequeue Phyllis Samuel
+dequeue Jerry Knight
+dequeue Jason Wilson
+dequeue Jay Schultz
+dequeue Barbara Randall
+dequeue Les Williams
+dequeue Dorothy Ragusano
+dequeue Richard Rodriquez
+dequeue Salvador Potter
+dequeue Charlie Alcazar
+dequeue Dustin Fisher
+dequeue Robert Walker
+dequeue Antonio Cole
+dequeue Lewis Daquino
+dequeue Alyssa Pring
+dequeue Humberto Stevens
+dequeue Howard Irwin
+dequeue Sara Cody
+dequeue Kevin Francis
+dequeue Carl Burton
+dequeue Ethel Bailey
+dequeue Matthew Brown
+dequeue Shannon Murphy
+dequeue Patrick Land
+dequeue Jessie Ramirez
+dequeue Richard Hatfield
+dequeue Amy Vining
+dequeue Steven Jackson
+dequeue Hilda Mallon
+dequeue Marcos King
+dequeue Donna Howery
+dequeue Virgil Arnold
+dequeue Janice Wooldridge
+dequeue Claude Page
+dequeue Theresa Robinson
+dequeue Kenneth Briggs
+dequeue Luz Johnson
+dequeue Jennifer Harman
+dequeue Paul Nighman
+dequeue Richard Broadway
+dequeue Robert Kaeo
+dequeue Joseph Mayo
+dequeue John Itson
+dequeue Steven Hawkins
+dequeue Frank Ringrose
+dequeue Vincent Denny
+dequeue Andrew Wold
+dequeue Don Edmond
+dequeue Timothy Chester
+dequeue Belinda Cruz
+dequeue Gilbert Torrez
+dequeue Jacob Charles
+dequeue Catherine Powell
+dequeue Mike Otto
+dequeue Miguel Schmidtke
+dequeue Michelle Burford
+dequeue Michael Coleman
+dequeue Brian Comeau
+dequeue Sharon Tannehill
+dequeue John Jones
+dequeue William Marquez
+dequeue Willie Gerdes
+dequeue Linda Sawyer
+dequeue Diane Ruiz
+dequeue Shirley Cornell
+dequeue Deborah Ross
+dequeue Jenny Holland
+dequeue Theresa Larsen
+dequeue Bob Boyda
+dequeue Richard Axel
+dequeue Joseph Gonzales
+dequeue Mandy Felix
+dequeue Warren Veno
+dequeue Dee Register
+dequeue Bert Busch
+dequeue Leonora Duane
+dequeue Gwendolyn Welch
+dequeue Michael Strahl
+dequeue Maria Dietz
+dequeue Donna Wilson
+dequeue Jeff Holmes
+dequeue Rachel Evans
+dequeue Janet Palmer
+dequeue Benjamin Sharp
+dequeue Tasha Ivey
+dequeue Sara Bemis
+dequeue Ryann Sinn
+dequeue Sana Riley
+dequeue Angela Heilmann
+dequeue June Polhemus
+dequeue Sara Hager
+dequeue Kelly Breedon
+dequeue James Johnson
+dequeue Michael Cray
+dequeue Mark Jackson
+dequeue Anita Harvey
+dequeue Ellen Mack
+dequeue Gordon Crooks
+dequeue James Anderson
+dequeue Daniel Anselmo
+dequeue Nathan Hewell
+dequeue Jacqueline White
+dequeue Darrell Chase
+dequeue Susan Robles
+dequeue Gregory Steed
+dequeue Herman Villalpando
+dequeue Cornelius Raney
+dequeue John Harkin
+dequeue Arden Johansen
+dequeue Nina Pierson
+dequeue Linda Nest
+dequeue Bruce Larson
+dequeue Renee Holt
+dequeue Robert Whitenack
+dequeue Blair Hayes
+dequeue Robert Noell
+dequeue Constance Chamberlain
+dequeue David Kendall
+dequeue Lynn Williams
+dequeue Daniel Moorhouse
+dequeue John Ciaburri
+dequeue Ramon Davis
+dequeue Marion Brown
+dequeue Louis Sandberg
+dequeue Frank Cooper
+dequeue Donald Alcorn
+dequeue Peggy Elliott
+dequeue Ashley Moran
+dequeue Daryl Aldrich
+dequeue Alexander Dixon
+dequeue Jimmy Brustmann
+dequeue Winifred Lederman
+dequeue Dexter Mata
+dequeue Cynthia Tirk
+dequeue Gregory Krause
+dequeue Patrick Hall
+dequeue Florentino Lashley
+dequeue Brian Brooks
+dequeue Robert Goodwin
+dequeue Rebecca Madison
+dequeue Jessica Stinson
+dequeue Russell Haney
+dequeue James Rouse
+dequeue Harold Kennedy
+dequeue Abigail Flowers
+dequeue Lisa Mader
+dequeue Adam Houchins
+dequeue Ray Loveman
+dequeue June Ratcliff
+dequeue Charles Calderin
+dequeue Louis Cross
+dequeue Helen Ward
+dequeue Bruce Butler
+dequeue James Myers
+dequeue William Woolford
+dequeue Teresa Marrero
+dequeue Floyd Kistner
+dequeue Everett Engle
+dequeue Elizabeth Theden
+dequeue Robert Schaufelberge
+dequeue Melissa Gatto
+dequeue Kevin Conditt
+dequeue Wilson Pagan
+dequeue Marcus Fagan
+dequeue Anita Campbell
+dequeue Floyd Bryant
+dequeue Jewell Elmore
+dequeue Beverly Allen
+dequeue David Delp
+dequeue Mary Mcdougall
+dequeue William Fyall
+dequeue Fernando Reeder
+dequeue Michelle Stivers
+dequeue Rosemary Brunkhorst
+dequeue Walter Rivera
+dequeue Richard Breau
+dequeue Sheila Kovacs
+dequeue Gina Harrington
+dequeue Ashley Sigmon
+dequeue Lorraine Thomas
+dequeue George Hunt
+dequeue Shelley Bauer
+dequeue Yvonne Santos
+dequeue Amanda Davis
+dequeue Donald Lofland
+dequeue Ruby Tam
+dequeue Tracy Oakley
+dequeue Charles Roudabush
+dequeue Aurelia Seggerman
+dequeue Michael Tarnoff
+dequeue Erika Simpson
+dequeue Lisa Granger
+dequeue Alicia Brittingham
+dequeue Terry Pedone
+dequeue Douglas Moore
+dequeue Edward Brooks
+dequeue Gordon Daniel
+dequeue Henry Frazier
+dequeue George Hagler
+dequeue Eugene Whitehurst
+dequeue Deborah Elder
+dequeue Francis Jackson
+dequeue Randy Pena
+dequeue Josephine Whatley
+dequeue Jonnie Shaffer
+dequeue Georgia Chin
+dequeue Theodora Brown
+dequeue Brenda Ryan
+dequeue Barbara Johnson
+dequeue Gary Matthews
+dequeue James Caudell
+dequeue Robert Abbott
+dequeue Bethany Walker
+dequeue Melody Herrera
+dequeue Bobbye Rodriguez
+dequeue Margaret Spoor
+dequeue James Mcaulay
+dequeue James Munoz
+dequeue Steven Billingsley
+dequeue Hannah Weber
+dequeue Mary Flanagan
+dequeue Woodrow Thomas
+dequeue Derek Krueger
+dequeue Diane Simon
+dequeue Terri Berry
+dequeue Lisa Buff
+dequeue Jordan Chong
+dequeue Carmen Caldwell
+dequeue Charles Robertson
+dequeue Freeman Purtle
+dequeue David Rodriguez
+dequeue Laura Williams
+dequeue Susie Williams
+dequeue Eric Hampton
+dequeue Joyce Brown
+dequeue Ralph Bonilla
+dequeue Joseph Souders
+dequeue Michael Sorensen
+dequeue Patrick Montoya
+dequeue Stephan Jimenez
+dequeue Frank Branscum
+dequeue Nicolas Onell
+dequeue Richard Carter
+dequeue Minnie Roughton
+dequeue Adam Barksdale
+dequeue Connie Granado
+dequeue Lina Freund
+dequeue Linda King
+dequeue Ralph Fisher
+dequeue Mary Reed
+dequeue Ann Propst
+dequeue Ora Broenneke
+dequeue Kathlene Fulton
+dequeue Linda Prechtl
+dequeue Lillian Sharick
+dequeue Paul Pruitt
+dequeue Charles Sanchez
+dequeue Rosemary Little
+dequeue Ruth Maines
+dequeue Shirley Schreiber
+dequeue Carrie Emery
+dequeue Andrea Penttila
+dequeue Dennis Utley
+dequeue Patrick Brown
+dequeue Tyler Boggs
+dequeue Delia Sowinski
+dequeue Luis Morrow
+dequeue Brenda Lares
+dequeue Allen Dial
+dequeue Louis Coberly
+dequeue Anthony Cummings
+dequeue Christina Thompson
+dequeue James Moore
+dequeue Rebbeca Redmond
+dequeue Nicholas Williams
+dequeue Weston Crawford
+dequeue Gerald Morris
+dequeue Theodore Avalos
+dequeue Luis Lucht
+dequeue Adrian Knight
+dequeue Harold Andrews
+dequeue Anthony Lee
+dequeue Rhonda Kolesar
+dequeue David Greaves
+dequeue John Mullen
+dequeue Dominic Briggs
+dequeue Joseph Buehlman
+dequeue Brian Andrews
+dequeue Clare Padilla
+dequeue Eileen Krause
+dequeue Anthony Crawford
+dequeue James Edwards
+dequeue Debra Smith
+dequeue Brandon Williams
+dequeue Thomas Warren
+dequeue Christina Bauman
+dequeue Freddy Tutt
+dequeue Micheal Carl
+dequeue Raymond Cloud
+dequeue Ruth Baker
+dequeue Liz Salcedo
+dequeue Steven Mullins
+dequeue Bernice Rykert
+dequeue Sun Lessard
+dequeue Jesse Harlan
+dequeue Julius Ritter
+dequeue George Jones
+dequeue Carrie Allen
+dequeue Delbert Vizarro
+dequeue John Seward
+dequeue Evelyn Wells
+dequeue Virgina Mathwich
+dequeue Amos Hunt
+dequeue Megan Helton
+dequeue Gerald Hay
+dequeue Irene Wade
+dequeue Brenda Santiago
+dequeue Margaret Wheatley
+dequeue Dolores Waldon
+dequeue Carole Barker
+dequeue Rosa Douglas
+dequeue Thomas Jones
+dequeue Edith Rojas
+dequeue Miki Smith
+dequeue Clayton Sims
+dequeue Ronald Kaster
+dequeue Andrew Blanton
+dequeue Ricky Fisher
+dequeue Denae Hatton
+dequeue Kristen Sumner
+dequeue Jeremy Schulze
+dequeue Eugene Hutchison
+dequeue Gerald Rowe
+dequeue Annette Ellzey
+dequeue John Hier
+dequeue Frederick Saunders
+dequeue Sandy Torres
+dequeue Thomas Mazor
+dequeue Donna Reich
+dequeue George Perez
+dequeue Lois Starkey
+dequeue Alex Whittington
+dequeue Robert Anderson
+dequeue Thomas Shepherd
+dequeue Alfred Aguilar
+dequeue Laura Loureiro
+dequeue Jess Panchik
+dequeue Kevin Mems
+dequeue Martina Woo
+dequeue Jackie Knotts
+dequeue Sarah Barnes
+dequeue Maria Hanes
+dequeue Edward Carr
+dequeue Candace Lingenfelter
+dequeue James Hollander
+dequeue Antoine Brown
+dequeue Jennifer Harrison
+dequeue Lowell Lightsey
+dequeue Imogene Boyd
+dequeue Curtis Torgerson
+dequeue Doris Ott
+dequeue Mary Riel
+dequeue Harry Brogan
+dequeue Luisa Galayda
+dequeue Lisa Kitzmiller
+dequeue Bruce Webber
+dequeue John Williams
+dequeue Dorothy Norstrom
+dequeue Anthony Davidson
+dequeue Nicholas Vann
+dequeue Kenny Reusswig
+dequeue Lynne Ashford
+dequeue Rena Schultz
+dequeue Kevin Spragg
+dequeue David Ford
+dequeue Shawn Littlefield
+dequeue Belinda Figueroa
+dequeue Crystal Kilgore
+dequeue Crystal Camacho
+dequeue Virginia Butz
+dequeue Tammy Compton
+dequeue John Cannon
+dequeue Denise Donze
+dequeue Joanne Hastings
+dequeue Lisa George
+dequeue Katherine Ball
+dequeue Ida Hamrick
+dequeue Marcel Caplinger
+dequeue Trent Granger
+dequeue Johnny Rayburn
+dequeue Alline Larson
+dequeue David Wall
+dequeue Hugo Sanchez
+dequeue Patty Essex
+dequeue Jeffry Denton
+dequeue Robert Richard
+dequeue James Smith
+dequeue Harrison Presley
+dequeue Donna Jones
+dequeue Elisabeth Moore
+dequeue Elizabeth Ryan
+dequeue Mildred Stephens
+dequeue Ethan Grant
+dequeue Camille Jones
+dequeue Emmett Rodriguez
+dequeue Holly Washington
+dequeue Elizabeth Flanagan
+dequeue Tami Rodriguez
+dequeue Ken Lawson
+dequeue Lester Kruger
+dequeue Brian Nieland
+dequeue Amanda Muscarella
+dequeue Stacey Graham
+dequeue Timothy Hudgens
+dequeue Scott Lum
+dequeue Joseph Dehart
+dequeue Alisha Eaker
+dequeue Jerri Brotherton
+dequeue Dianne Montalto
+dequeue Laura Estrada
+dequeue Patricia Schaffer
+dequeue Ai Bucker
+dequeue Veronica Doyel
+dequeue Jeffrey Medley
+dequeue Dale Brixey
+dequeue William Griffin
+dequeue Sergio Johnson
+dequeue Allen Vent
+dequeue Suzanne Wright
+dequeue Janis Thomas
+dequeue Monique Roberts
+dequeue Christian Dickinson
+dequeue Amber Johnson
+dequeue Teresa Harris
+dequeue Greg Kless
+dequeue Jessie Green
+dequeue Richard Stahly
+dequeue Mary Jenkins
+dequeue Emily Borrego
+dequeue Jeffrey Anderson
+dequeue James Roberts
+dequeue Bernard Lindsey
+dequeue Lory George
+dequeue Jennifer Holder
+dequeue Billy Scroggs
+dequeue Richard Henderson
+dequeue Dorothy Hines
+dequeue Daisy Gilmore
+dequeue Christian Henderson
+dequeue Roger Robinson
+dequeue Gregg Romero
+dequeue Billy Hawkins
+dequeue Jesse Bush
+dequeue Clinton Davidson
+dequeue Carla Lafrance
+dequeue Sherry Gindlesperger
+dequeue Nancy Castoe
+dequeue David Mcdonald
+dequeue Annemarie Velez
+dequeue Jessica Rosado
+dequeue Ralph Porter
+dequeue Shona Waterman
+dequeue Nicolas Hibbert
+dequeue Daryl Kutch
+dequeue Douglas Crawley
+dequeue Phillip Greer
+dequeue Jill Binegar
+dequeue Angelina Helbert
+dequeue Max Driscoll
+dequeue Tony Martin
+dequeue Matt Groner
+dequeue Inez Stringfellow
+dequeue Gordon Moreno
+dequeue Lillian Naegeli
+dequeue Kellie Cacciotti
+dequeue Virginia Marks
+dequeue Sean Long
+dequeue Irene Banchero
+dequeue William Martin
+dequeue Ruth Colvin
+dequeue Mary Cloutier
+dequeue William Callaway
+dequeue Susan Heidel
+dequeue Tony Tieng
+dequeue Lydia Edgecomb
+dequeue Clara Potthoff
+dequeue Phyllis Zolezzi
+dequeue Michelle Smith
+dequeue James Young
+dequeue Nathaniel Herrera
+dequeue Gregory Griffin
+dequeue Donald Mayes
+dequeue David Crawley
+dequeue Jinny Ryan
+dequeue Carl Oakley
+dequeue Anne Hensley
+dequeue Marie Corbett
+dequeue Susan King
+dequeue Dallas Potts
+dequeue Barbara Kellogg
+dequeue Richard Lynch
+dequeue Shawn Stallsworth
+dequeue Bobby Trueman
+dequeue Matthew Miller
+dequeue Wanda Phillips
+dequeue Melissa Anderson
+dequeue Diana Barnes
+dequeue Margaret Reynolds
+dequeue George Gupton
+dequeue Janet Peets
+dequeue Magda Mcentegart
+dequeue Linda Eaton
+dequeue Barbara Harmon
+dequeue Ma Blumberg
+dequeue Ronald Segars
+dequeue Darius Banks
+dequeue Sarah Dilliard
+dequeue Robert Milhorn
+dequeue Michael Davenport
+dequeue Terry Kelly
+dequeue Paul Powell
+dequeue Cassandra Saunders
+dequeue Lena Wheeler
+dequeue Sanjuana Humphries
+dequeue Larry Sung
+dequeue David Stokes
+dequeue Roxie Obrien
+dequeue David Bingham
+dequeue Laura Kleinman
+dequeue Mildred Letlow
+dequeue Carmen Sanders
+dequeue Dorothy Lee
+dequeue Kevin Ibarra
+dequeue Lisa Kohn
+dequeue Refugio Fleming
+dequeue Iva Pocai
+dequeue Herbert Wiley
+dequeue Joshua Garcia
+dequeue Greg Horne
+dequeue Alex Koran
+dequeue Delbert Wilkins
+dequeue Ralph Ward
+dequeue Robert Dunnington
+dequeue Helen Kosiorek
+dequeue Roy Zweier
+dequeue George Mcdaniel
+dequeue Thomas Landor
+dequeue Brenda Peters
+dequeue Sherita Brown
+dequeue Joseph Bowling
+dequeue Timothy Crouch
+dequeue Ernest Palmer
+dequeue Candace Ahearn
+dequeue Ryan Hayes
+dequeue Karen Schrenk

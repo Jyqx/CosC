@@ -1,0 +1,604 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+500
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+Jc Norton, 7, 356
+Linda Lewis, 15, 336
+Nina Sheffield, 16, 20
+Joe Matton, 5, 49
+Rachel Hallman, 12, 300
+Isabel Broker, 8, 316
+Mary Crisp, 10, 267
+Wesley Rivera, 4, 206
+Christine Martinez, 17, 322
+Clarence Folwell, 21, 8
+Sarita Terry, 18, 241
+Annie Ackies, 10, 229
+Elizabeth Jackson, 2, 260
+Oscar Powers, 16, 296
+Karl Sperry, 10, 359
+Denise Wells, 2, 310
+Byron Mahoney, 12, 68
+Melanie Chaney, 19, 19
+William Pugmire, 5, 316
+Vincent Kozan, 17, 4
+April Chittum, 15, 236
+Carolyn Bradley, 10, 270
+Mary Wallace, 8, 43
+Tony Tieng, 21, 109
+Lisa Granger, 16, 165
+Helen Lyles, 9, 240
+Kellie Scovil, 19, 224
+Ai Bucker, 6, 124
+Julie Hagan, 6, 57
+Jaunita Kennell, 2, 267
+Dena Lewis, 8, 216
+Ross Lopez, 7, 89
+Sandra Stevens, 18, 303
+Lois Starkey, 14, 136
+Shirley Jackson, 10, 212
+Juanita Mcdermott, 1, 96
+Thelma Howard, 19, 365
+Anthony Jones, 18, 270
+Theresa Herrmann, 10, 72
+Patrick Brown, 8, 153
+Richard Henderson, 14, 119
+Esther Moore, 15, 266
+Dexter Mata, 13, 178
+Jill Morgan, 13, 346
+Richard Carter, 18, 154
+Theresa Acker, 4, 232
+Bernardina Bowden, 17, 220
+Christina Thompson, 2, 152
+Jonathan Ebersole, 6, 13
+Carrie Emery, 16, 152
+Theodore Avalos, 17, 148
+Liz Salcedo, 19, 142
+Jordan Sutton, 8, 209
+Mark Mills, 15, 256
+Walter Rivera, 19, 168
+Juliana James, 8, 254
+Louise Rivera, 3, 50
+Kellie Cacciotti, 21, 111
+Lissette Muniz, 7, 78
+Tina Seymour, 20, 12
+Virginia Marks, 4, 115
+Barbara Gonzales, 11, 264
+Leonard Gonsales, 15, 320
+Candace Ahearn, 10, 99
+Alfred Aguilar, 17, 134
+Bruce Cannady, 18, 60
+Hazel Rigby, 14, 324
+Nancy Alcantar, 7, 239
+Daniel Patterson, 11, 21
+Audrey West, 14, 24
+Barbara Randall, 9, 203
+Donna Howery, 16, 197
+Robert Tylwalk, 18, 20
+Willie Mooney, 4, 37
+Thelma Smith, 11, 209
+Joshua Walker, 9, 302
+Rena Schultz, 6, 131
+Silas Lewis, 13, 360
+Oscar Durazo, 10, 217
+Yvonne Santos, 2, 170
+Timothy Hudgens, 11, 124
+Dale Brixey, 4, 124
+Randy Pena, 11, 163
+Alice Hussain, 1, 2
+David Farber, 12, 296
+Richard Albano, 12, 245
+Michael Gray, 13, 38
+Annette Ellzey, 10, 138
+Lashawnda Curtis, 3, 358
+Basil Galioto, 3, 214
+Christopher Mercurio, 5, 57
+Joseph Bowling, 17, 98
+Elena Mitchell, 11, 96
+Joseph Rutledge, 2, 98
+Phyllis Ipock, 16, 316
+Jesse Bush, 5, 119
+Donna Kemmis, 15, 305
+Dorothy Brennan, 10, 332
+Russell Haney, 15, 175
+Norman Lin, 19, 82
+Roy Helmus, 7, 228
+Matthew Graham, 12, 3
+Debra Smith, 3, 147
+Debbie Miller, 20, 60
+Terrence Rowland, 18, 65
+Vivian Austin, 18, 217
+Guadalupe Hawk, 20, 9
+Marshall Cupples, 8, 90
+Veronica Mooney, 13, 225
+Jacqueline Buroker, 2, 60
+Sally Elliot, 10, 286
+Katherine Quintero, 16, 29
+Harry Castor, 19, 71
+Barbara Wilke, 16, 362
+Adrian Knight, 3, 150
+Alicia Wooten, 16, 233
+Tiffany Perdomo, 13, 243
+Vincent Morataya, 13, 93
+Richard Stahly, 12, 121
+Freeman Purtle, 13, 158
+Megan Smith, 19, 219
+John Rodriguez, 2, 316
+Bobby Mcshea, 18, 267
+Joi Boehman, 21, 237
+Stephen Ryan, 19, 83
+David Pugh, 6, 253
+Shelton Frank, 4, 320
+Annette Guerette, 11, 226
+Mary Cloutier, 18, 111
+Armand Norris, 18, 215
+John Jones, 18, 191
+Mike Campbell, 19, 204
+April Johnson, 1, 295
+Patricia Caldwell, 21, 322
+Fernando Reeder, 10, 171
+Rhonda Ellis, 16, 64
+Shawn Tripp, 8, 34
+Chad Riseden, 17, 51
+Jack Moore, 21, 68
+Jessica Rosado, 15, 116
+Anne Hensley, 2, 111
+Michelle Clegg, 1, 350
+Laurie Guedjian, 6, 84
+Angela Conklin, 8, 326
+Frank Gause, 15, 72
+Michael Freidman, 14, 235
+Susan King, 17, 108
+Jessie Herrmann, 16, 18
+Rachel Reams, 19, 43
+Jennifer Padilla, 5, 271
+Lenard Cates, 12, 366
+David Ragland, 2, 353
+Joseph Paul, 12, 335
+Micheal Goldbach, 21, 33
+Richard Rodriguez, 3, 231
+Jonnie Shaffer, 10, 163
+David Rodriguez, 19, 156
+Franklin Allen, 12, 26
+Heather Holtsclaw, 16, 347
+Ruth Sheridan, 7, 41
+Anthony Ford, 7, 262
+Richard White, 15, 290
+Steven Jackson, 4, 200
+Tim Bingman, 21, 95
+Donna Sellers, 7, 86
+Seth Glickman, 1, 37
+Catherine Rippee, 5, 89
+Brenda Santiago, 11, 141
+Derek Bonner, 9, 62
+Michael Hughes, 9, 43
+James Casella, 16, 53
+Ted Austin, 21, 329
+Carl Burton, 10, 200
+Stephen Jones, 3, 355
+Evelyn Gulotta, 9, 213
+John Duke, 12, 294
+Kiley Ashbrook, 10, 227
+Patricia Semple, 16, 314
+Brian Johnson, 1, 346
+Stephan Jimenez, 4, 158
+Betty Ervin, 4, 39
+Melissa Anderson, 3, 109
+Eva Dais, 19, 55
+James Myers, 2, 176
+Pat Wright, 3, 336
+Glenn Kowalsky, 15, 323
+Todd Stavnes, 7, 315
+Monique Hamilton, 16, 83
+Curtis Torgerson, 6, 134
+Russell Willer, 3, 223
+Miranda Jefferies, 13, 62
+Ned Mcinnis, 2, 350
+Nicolas Onell, 5, 157
+Veronica Doyel, 5, 124
+John Ciaburri, 3, 182
+Shawn Parker, 5, 340
+Dale Horning, 18, 236
+Ingrid Heon, 6, 357
+Pamela Beck, 6, 321
+Virginia Stamand, 4, 218
+Ricardo Simmons, 18, 221
+Horace Beltran, 17, 16
+Kylee Gentle, 12, 295
+Kathlene Fulton, 8, 155
+Nina Espinoza, 18, 279
+Richard Natale, 8, 222
+Steven Waldron, 6, 37
+Brenda Bell, 17, 1
+George Mayberry, 9, 339
+Robert Cheatwood, 8, 251
+Jennifer Haga, 18, 362
+Jacqueline Lewis, 3, 38
+Sheila Stamand, 9, 28
+Everett Engle, 14, 173
+Louise Young, 21, 93
+Wilson Pagan, 13, 172
+Patricia Danforth, 8, 343
+Tina Ohearn, 8, 323
+James Healey, 20, 82
+Anthony Pacheco, 21, 69
+Jonathan Hopkins, 15, 23
+Cynthia Tirk, 4, 179
+Frank Branscum, 3, 158
+Sherrie Johnson, 9, 332
+Barbara Johnson, 7, 163
+Donnie Davila, 10, 21
+Eleanor Roman, 13, 58
+Mildred Houck, 10, 95
+John Williamson, 3, 216
+Janice Wooldridge, 3, 199
+Neil Gimbel, 7, 282
+Luis Espinal, 8, 301
+Scott Chaney, 3, 277
+Ann Steir, 14, 320
+Thomas Weaver, 11, 3
+Robert Richard, 3, 127
+Gary Prince, 19, 8
+Julio Mclaren, 20, 352
+Bruce Shackelford, 8, 356
+Michael Styles, 3, 333
+Barbara Haley, 3, 80
+Wayne Romney, 18, 222
+David Jernigan, 4, 260
+Julie Downing, 19, 297
+Brian Hitchcock, 8, 205
+Ronnie Dugger, 17, 34
+Tammy Smith, 2, 72
+David Frazier, 20, 274
+Judy Eames, 19, 17
+George Hagler, 17, 162
+Masako Blaine, 20, 349
+Sergio Johnson, 8, 123
+Julius Ritter, 17, 142
+Cheryl Dodds, 7, 353
+William Drane, 5, 255
+William Hooper, 12, 36
+James Rivera, 12, 251
+June Ratcliff, 16, 174
+Bob Boyda, 16, 189
+Kaye Earley, 12, 208
+Matthew Cilley, 18, 69
+Brenda Ryan, 16, 161
+Jordan Hernandez, 17, 217
+Essie Spangler, 17, 38
+Elias Yerian, 18, 71
+Frances Dixon, 20, 339
+Dustin Barker, 11, 15
+Kelli Scheffler, 7, 70
+Laura Williams, 4, 159
+Michelle Burford, 2, 195
+Salvador Cheshire, 20, 46
+Therese Middleton, 19, 309
+Chloe Doll, 16, 70
+Amanda Anderson, 18, 290
+Emily Baima, 6, 236
+Ellen Mack, 19, 184
+Anthony Lee, 11, 148
+Shaun Berryhill, 12, 265
+Robert Milhorn, 17, 104
+Edward Geiger, 12, 342
+Frank Tatem, 19, 312
+Edward Joslyn, 13, 42
+Jeffrey Anderson, 1, 122
+Helen Ward, 18, 173
+Robert Noell, 6, 183
+Nicolas Hibbert, 17, 115
+Bernard Lindsey, 14, 120
+Laura Loureiro, 12, 135
+Michael Matthews, 3, 247
+Vincent Denny, 14, 195
+Eric Baker, 11, 67
+Richard Rodriquez, 15, 201
+Margaret Spoor, 3, 162
+Richard Axel, 21, 187
+Rachel Brown, 9, 78
+Karen Woody, 2, 352
+Daisy Gilmore, 15, 118
+Inez Stringfellow, 17, 113
+Milton Topel, 7, 308
+Lory George, 9, 121
+Marilyn Luna, 4, 14
+Lorraine Thomas, 14, 169
+Margaret Reynolds, 17, 106
+Virgil Arnold, 5, 199
+Mary Flanagan, 21, 157
+Heather Wickes, 6, 332
+Aileen Rutherford, 17, 90
+Rosemary Maldonado, 5, 319
+Trinidad Ramirez, 21, 23
+Mary Lacroix, 14, 325
+George Deluca, 14, 272
+Alberta Valdes, 5, 241
+Paul Zucco, 19, 339
+Robert Prindle, 2, 346
+Bart Thomas, 7, 58
+Ronald Rock, 5, 318
+Emmanuel Mills, 14, 245
+John Arnold, 15, 281
+Rachel Gaskill, 8, 297
+Velma James, 1, 36
+Michael Sorensen, 18, 155
+Sandra Mills, 19, 361
+Rosemary Little, 9, 154
+John Mullen, 20, 145
+Elizabeth Mock, 2, 295
+Patrick Hall, 8, 178
+Earl Diaz, 5, 58
+Lois Champion, 12, 234
+John Brewer, 16, 363
+Daphne Barnes, 19, 328
+Joe Caudel, 16, 340
+Robert Johnston, 5, 306
+Donald Alcorn, 4, 181
+Barbara Ventura, 2, 211
+Carl Oakley, 3, 111
+Yolanda Braund, 15, 36
+Miguel Hampshire, 1, 16
+Ann Washburn, 15, 59
+Wilda Anderson, 12, 232
+Janis Thomas, 6, 123
+Bryan Harrington, 18, 354
+Elizabeth Sheck, 16, 43
+Ryan Hayes, 14, 98
+Debra Stadler, 8, 24
+Ronald Carroll, 8, 272
+Gerald Morris, 14, 149
+Catherine Powell, 6, 195
+Roger Robinson, 20, 116
+Rolf Stanley, 5, 28
+Jesse Harlan, 4, 145
+Julia Coleman, 5, 44
+Michele Mahaffey, 14, 261
+Charles Calderin, 21, 172
+Joan Barrios, 9, 280
+Lynda Barone, 19, 260
+Ronald Segars, 18, 104
+Gary Mayer, 15, 207
+John Cain, 6, 251
+Marcel Caplinger, 8, 128
+Raymond Chesla, 18, 260
+Bob Hawkin, 13, 303
+Dennis Janusz, 14, 30
+Sharon Tannehill, 12, 193
+Vincenzo Martin, 18, 245
+David Wall, 18, 125
+Dorothy Norstrom, 21, 128
+Mark Evans, 13, 344
+Michael Tarnoff, 18, 165
+Rebecca Leavitt, 4, 317
+Harold Andrews, 2, 150
+Shelley Bauer, 5, 170
+Vicki Zuidema, 15, 356
+Irene Wade, 5, 143
+Ethel Stout, 13, 52
+Helen Fine, 6, 217
+Elizabeth Flanagan, 2, 126
+Howard Holmes, 1, 271
+Richard Fletcher, 16, 323
+Sarah Merrill, 2, 308
+Henry Frazier, 21, 161
+Robert Lipton, 16, 69
+Drew Heard, 16, 245
+Veronica Frierson, 2, 265
+Vincent Oconnor, 16, 364
+Judy Irwin, 11, 245
+Robin Lazzara, 19, 233
+Cecille Johnson, 3, 32
+Alma Broyles, 17, 203
+Jose Taylor, 10, 62
+John Leeper, 3, 287
+Thomas Berman, 10, 262
+Matthew Grimm, 20, 338
+Monique Roberts, 15, 121
+William Beckman, 17, 37
+Samuel Hartung, 5, 332
+Cynthia Marsh, 14, 204
+Richard Broadway, 3, 198
+Shirley Gonzalez, 18, 36
+Mohammad Sloan, 1, 335
+Lina Freund, 9, 156
+James Santander, 14, 90
+Jean Roy, 3, 299
+Lester Threatt, 12, 58
+Mark Andrade, 19, 70
+Eric Greer, 10, 225
+Debra Newson, 16, 84
+Louis Sandberg, 21, 177
+Susan Ward, 18, 44
+Jerry Knight, 10, 204
+Stacey Graham, 6, 125
+Susan Kelly, 20, 54
+Ronnie Allgood, 9, 224
+Joy Lunstrum, 18, 310
+Kristen Sumner, 14, 138
+Antoinette Higgins, 12, 318
+Brian Moses, 13, 310
+Bill Grau, 4, 266
+Lillian Sharick, 18, 152
+Richard Bloxom, 5, 234
+Florence Mauck, 16, 332
+Ruth Humphrey, 18, 59
+Sean Long, 13, 113
+Israel Nicholas, 3, 16
+Joseph Souders, 5, 158
+Douglas Davis, 13, 19
+Rachel Arreola, 8, 206
+Jacqueline Mackey, 8, 45
+Martha Quilliams, 12, 219
+Richard Taylor, 14, 11
+David Smith, 20, 49
+Betty Freeman, 6, 247
+Annmarie Miller, 10, 336
+John Vetter, 11, 6
+Carrie Quinones, 8, 55
+Michael Pereira, 19, 65
+Patricia Cheek, 14, 84
+Alicia Petit, 6, 44
+Mary Petrocco, 2, 41
+Brian Wyland, 17, 234
+Kenneth Taylor, 6, 42
+Michael Gavin, 6, 323
+Clayton Sims, 9, 140
+Emily Borrego, 4, 122
+Theresa Larsen, 13, 190
+Teresa Harris, 19, 119
+Deborah Elder, 7, 164
+Dale Lee, 15, 237
+Gerald Music, 5, 76
+Rhonda Kolesar, 3, 149
+Gordon Daniel, 20, 162
+Theodore Evans, 7, 62
+Patrick Hinger, 13, 278
+Janet Warren, 5, 357
+Deborah Ross, 1, 192
+Albert Payan, 19, 13
+Eric Hampton, 17, 156
+Amanda Muscarella, 16, 123
+Sandy Torres, 6, 138
+Timothy Crouch, 21, 96
+Gary Matthews, 21, 159
+David Hunter, 10, 73
+Jose Spiller, 20, 343
+Lindsay Dueber, 17, 223
+Joseph Tran, 19, 360
+Jon Perez, 16, 211
+Lois Gunn, 15, 300
+Darryl Drennan, 2, 83
+Michael Wilkins, 11, 60
+Paul Pruitt, 11, 154
+Helen Davis, 7, 93
+Jonathan Schuster, 12, 237
+Rafael Malone, 2, 226
+Joe Taylor, 2, 317
+Lucas Baker, 3, 229
+Isabel Jurist, 6, 1
+# Heap instructions (100)
+# Enqueues: 0 Dequeues: 100
+dequeue Thelma Howard
+dequeue Joey Lewis
+dequeue Lenard Cates
+dequeue Vincent Oconnor
+dequeue John Brewer
+dequeue Jennifer Haga
+dequeue Sandra Mills
+dequeue Barbara Wilke
+dequeue Joseph Tran
+dequeue Silas Lewis
+dequeue Karl Sperry
+dequeue Vicki Zuidema
+dequeue Lashawnda Curtis
+dequeue Ingrid Heon
+dequeue Janet Warren
+dequeue Bryan Harrington
+dequeue Bruce Shackelford
+dequeue Jc Norton
+dequeue Julio Mclaren
+dequeue Stephen Jones
+dequeue Cheryl Dodds
+dequeue David Ragland
+dequeue Masako Blaine
+dequeue Karen Woody
+dequeue Ned Mcinnis
+dequeue Michelle Clegg
+dequeue Heather Holtsclaw
+dequeue Jill Morgan
+dequeue Jose Spiller
+dequeue Robert Prindle
+dequeue Brian Johnson
+dequeue Mark Evans
+dequeue Patricia Danforth
+dequeue Edward Geiger
+dequeue Frances Dixon
+dequeue Paul Zucco
+dequeue Joe Caudel
+dequeue Matthew Grimm
+dequeue Shawn Parker
+dequeue George Mayberry
+dequeue Linda Lewis
+dequeue Annmarie Miller
+dequeue Joseph Paul
+dequeue Pat Wright
+dequeue Mohammad Sloan
+dequeue Florence Mauck
+dequeue Ted Austin
+dequeue Michael Styles
+dequeue Dorothy Brennan
+dequeue Sherrie Johnson
+dequeue Heather Wickes
+dequeue Samuel Hartung
+dequeue Daphne Barnes
+dequeue Mary Lacroix
+dequeue Angela Conklin
+dequeue Patricia Caldwell
+dequeue Steven Dover
+dequeue Hazel Rigby
+dequeue Richard Fletcher
+dequeue Glenn Kowalsky
+dequeue Christine Martinez
+dequeue Tina Ohearn
+dequeue Michael Gavin
+dequeue Leonard Gonsales
+dequeue Ann Steir
+dequeue Pamela Beck
+dequeue Shelton Frank
+dequeue Antoinette Higgins
+dequeue Rosemary Maldonado
+dequeue Phyllis Ipock
+dequeue Ronald Rock
+dequeue Rebecca Leavitt
+dequeue Joe Taylor
+dequeue Isabel Broker
+dequeue Patricia Semple
+dequeue William Pugmire
+dequeue John Rodriguez
+dequeue Frank Tatem
+dequeue Todd Stavnes
+dequeue Joy Lunstrum
+dequeue Therese Middleton
+dequeue Brian Moses
+dequeue Denise Wells
+dequeue Milton Topel
+dequeue Sarah Merrill
+dequeue Donna Kemmis
+dequeue Robert Johnston
+dequeue Sandra Stevens
+dequeue Bob Hawkin
+dequeue Joshua Walker
+dequeue Lois Gunn
+dequeue Luis Espinal
+dequeue Rachel Hallman
+dequeue Julie Downing
+dequeue Jean Roy
+dequeue Oscar Powers
+dequeue Rachel Gaskill
+dequeue David Farber
+dequeue Kylee Gentle
+dequeue John Duke

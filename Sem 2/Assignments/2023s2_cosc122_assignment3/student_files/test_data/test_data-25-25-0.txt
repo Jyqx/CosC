@@ -1,0 +1,54 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+25
+Cindy Silverman, 21, 273
+Joey Lewis, 13, 366
+Pete Ray, 10, 30
+Jose Brunetto, 8, 226
+Kenneth Salvo, 1, 228
+Daniel Secrease, 1, 287
+Anthony Villarreal, 20, 32
+Kim Justice, 6, 288
+Amy Vining, 5, 200
+Steven Dover, 10, 325
+Mikel Keenum, 17, 289
+Holly Washington, 3, 126
+Erin Gaughan, 10, 56
+June Polhemus, 15, 186
+Vincent Arnett, 2, 276
+Alexander Dixon, 6, 180
+Herbert Wiley, 15, 101
+Shirley Dini, 8, 215
+Kevin Throgmorton, 2, 242
+Gayla Olson, 20, 288
+Mildred Letlow, 6, 104
+Linda Dean, 17, 242
+Tommy Burton, 6, 206
+Catherine Starnes, 10, 288
+Ida Easterly, 5, 277
+# Heap instructions (25)
+# Enqueues: 25 Dequeues: 0
+enqueue Jason Steinmetz, 15, 25
+enqueue Andrew Landis, 17, 261
+enqueue Richard Merrow, 7, 75
+enqueue Rachel Hallman, 12, 300
+enqueue Stuart Camfield, 20, 356
+enqueue Bradley Mcnamee, 10, 267
+enqueue Charles Berland, 13, 197
+enqueue Joel Parent, 18, 340
+enqueue Brittany Johnson, 14, 279
+enqueue Ellen Eckenrode, 10, 241
+enqueue Wanda Thomas, 3, 345
+enqueue Oscar Powers, 16, 296
+enqueue Jackie Romney, 16, 211
+enqueue Jeremy Haden, 2, 272
+enqueue Nancy Durkin, 21, 326
+enqueue Cornell Feliciano, 2, 81
+enqueue Vincent Kozan, 17, 4
+enqueue Alfredo Benton, 13, 153
+enqueue Shannon Smith, 7, 118
+enqueue Tony Tieng, 21, 109
+enqueue Robert Kimball, 16, 165
+enqueue Michael Martin, 9, 240
+enqueue Danielle Morse, 2, 89
+enqueue Julie Hagan, 6, 57
+enqueue Patricia Pottinger, 16, 141

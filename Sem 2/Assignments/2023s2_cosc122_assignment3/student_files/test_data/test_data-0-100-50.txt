@@ -1,0 +1,154 @@
+# Patient data: name, disease_severity, days_since_diagnosis
+0
+# Heap instructions (150)
+# Enqueues: 100 Dequeues: 50
+enqueue Cindy Silverman, 21, 273
+enqueue Samuel Twitt, 1, 146
+dequeue Cindy Silverman
+dequeue Samuel Twitt
+enqueue Alvin Dills, 2, 213
+dequeue Alvin Dills
+enqueue Scott Bates, 19, 2
+dequeue Scott Bates
+enqueue Daniel Secrease, 1, 287
+enqueue Virginia Field, 2, 243
+enqueue Linda Richardson, 16, 128
+dequeue Daniel Secrease
+enqueue Matthew Halbert, 19, 123
+dequeue Virginia Field
+enqueue Yolanda Bessick, 17, 289
+dequeue Yolanda Bessick
+enqueue Terry Holmes, 19, 321
+dequeue Terry Holmes
+enqueue June Polhemus, 15, 186
+enqueue Bernice Taylor, 18, 75
+enqueue William Cruz, 4, 212
+dequeue William Cruz
+enqueue Shirley Dini, 8, 215
+enqueue Becky Travillian, 16, 247
+dequeue Becky Travillian
+dequeue Shirley Dini
+dequeue June Polhemus
+enqueue Sharon Gardner, 17, 154
+dequeue Sharon Gardner
+enqueue Stephanie Cox, 20, 252
+dequeue Stephanie Cox
+dequeue Linda Richardson
+dequeue Matthew Halbert
+dequeue Bernice Taylor
+enqueue Chester Parker, 20, 28
+enqueue Andrea West, 15, 25
+enqueue Andrew Landis, 17, 261
+dequeue Andrew Landis
+enqueue Joe Matton, 5, 49
+dequeue Joe Matton
+dequeue Chester Parker
+enqueue Janie Gill, 12, 7
+enqueue Mary Crisp, 10, 267
+enqueue Charles Berland, 13, 197
+dequeue Mary Crisp
+enqueue Clarence Folwell, 21, 8
+dequeue Charles Berland
+dequeue Andrea West
+dequeue Clarence Folwell
+dequeue Janie Gill
+enqueue Annie Ackies, 10, 229
+dequeue Annie Ackies
+enqueue Horace Styles, 17, 273
+enqueue Angie Winslow, 13, 351
+dequeue Angie Winslow
+dequeue Horace Styles
+enqueue Denise Wells, 2, 310
+enqueue Freda Fekete, 5, 354
+dequeue Freda Fekete
+dequeue Denise Wells
+enqueue Cornell Feliciano, 2, 81
+enqueue Vincent Kozan, 17, 4
+dequeue Cornell Feliciano
+enqueue Jacqueline Wiggins, 9, 160
+dequeue Jacqueline Wiggins
+enqueue Grover Thompson, 1, 342
+enqueue Walter Allen, 16, 253
+dequeue Grover Thompson
+dequeue Walter Allen
+enqueue Gerald Szeto, 9, 240
+dequeue Gerald Szeto
+dequeue Vincent Kozan
+enqueue Rachel Lofland, 2, 89
+enqueue Julie Hagan, 6, 57
+dequeue Rachel Lofland
+dequeue Julie Hagan
+enqueue Roger Maroney, 9, 51
+dequeue Roger Maroney
+enqueue Larry Izzi, 4, 49
+enqueue Ralph Hensley, 4, 119
+dequeue Ralph Hensley
+dequeue Larry Izzi
+enqueue Kristen Faw, 14, 136
+dequeue Kristen Faw
+enqueue Anthony Staples, 14, 261
+dequeue Anthony Staples
+enqueue Grace Hodo, 6, 301
+dequeue Grace Hodo
+enqueue Carol Waite, 20, 95
+dequeue Carol Waite
+enqueue Joe Romano, 17, 159
+dequeue Joe Romano
+enqueue Ida Water, 10, 72
+enqueue Kimberly Rosen, 8, 153
+enqueue Felipe Alvares, 8, 168
+dequeue Felipe Alvares
+enqueue Sherry Lewis, 17, 294
+dequeue Sherry Lewis
+dequeue Kimberly Rosen
+dequeue Ida Water
+enqueue Fred Merryman, 17, 48
+enqueue Michael Broten, 18, 154
+enqueue Tracey Bradley, 15, 249
+enqueue Christina Thompson, 2, 152
+enqueue James Mccollum, 17, 363
+enqueue Mary Wilson, 15, 263
+enqueue Liz Salcedo, 19, 142
+enqueue Janice Harrison, 14, 13
+enqueue Mario Beatty, 18, 39
+enqueue David Jolly, 10, 51
+enqueue Melissa Hemmer, 14, 85
+enqueue Robert Sharon, 21, 111
+enqueue Carl Porch, 5, 200
+enqueue Tiffany Veloz, 1, 210
+enqueue Rachel King, 13, 28
+enqueue Edward Johnson, 6, 364
+enqueue Candace Ahearn, 10, 99
+enqueue June Tidwell, 5, 297
+enqueue Benjamin Barber, 14, 324
+enqueue Charles Patterson, 15, 317
+enqueue Audrey Thompson, 2, 145
+enqueue Frank Davis, 11, 28
+enqueue Sarah Acosta, 11, 86
+enqueue Lin Breheny, 4, 52
+enqueue Manuel Perreault, 15, 52
+enqueue Archie Fraser, 1, 208
+enqueue Dorothy Bostwick, 12, 143
+enqueue Alice Kelly, 6, 225
+enqueue Janice Keister, 8, 73
+enqueue Lori Fraley, 12, 18
+enqueue Mary Lowe, 11, 170
+enqueue Dale Brixey, 4, 124
+enqueue Joyce Chaffee, 11, 186
+enqueue Rachael Tiefenauer, 1, 302
+enqueue Kevin Blaine, 12, 296
+enqueue Michael Cassella, 12, 245
+enqueue Jeff Galvez, 3, 197
+enqueue Amanda Elliott, 12, 42
+enqueue Iris Massaro, 3, 214
+enqueue Lisa Vargas, 5, 57
+enqueue Dustin Reno, 17, 98
+enqueue Harold Wood, 8, 21
+enqueue Richard Cooley, 16, 316
+enqueue Kenneth Carter, 9, 86
+enqueue Stephen Gann, 4, 227
+enqueue Russell Haney, 15, 175
+enqueue Thomas Dunn, 2, 111
+enqueue Matthew Graham, 12, 3
+enqueue Stella Haigh, 3, 147
+enqueue John Teel, 4, 290

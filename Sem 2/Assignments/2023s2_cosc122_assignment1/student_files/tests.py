@@ -477,16 +477,16 @@ def all_tests_suite():
     suite = unittest.TestSuite()
     test_loader = unittest.defaultTestLoader.loadTestsFromTestCase
 
-    suite.addTest(test_loader(TinyTestsSequential))
-    suite.addTest(test_loader(SmallTestsSequential))
-    suite.addTest(test_loader(LargeTestsSequential))
-    suite.addTest(test_loader(LargerTestsSequential))
-    # suite.addTest(test_loader(LargestTestsSequential)) # Based on the shorter tests time,
-    # suite.addTest(test_loader(HugeTestsSequential))    # how long will these tests take?
-    suite.addTest(test_loader(ExactTestsSequential))
+    # suite.addTest(test_loader(TinyTestsSequential))
+    # suite.addTest(test_loader(SmallTestsSequential))
+    # suite.addTest(test_loader(LargeTestsSequential))
+    # suite.addTest(test_loader(LargerTestsSequential))
+    # # suite.addTest(test_loader(LargestTestsSequential)) # Based on the shorter tests time,
+    # # suite.addTest(test_loader(HugeTestsSequential))    # how long will these tests take?
+    # suite.addTest(test_loader(ExactTestsSequential))
 
     # uncomment the next line when ready for binary testing
-    # suite.addTest(test_loader(TinyTestsBinary))
+    suite.addTest(test_loader(TinyTestsBinary))
     # suite.addTest(test_loader(SmallTestsBinary))
     # suite.addTest(test_loader(LargeTestsBinary))
     # suite.addTest(test_loader(LargerTestsBinary))
