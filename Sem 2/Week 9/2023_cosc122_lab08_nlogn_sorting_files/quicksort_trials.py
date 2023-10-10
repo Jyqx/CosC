@@ -53,21 +53,21 @@ def times_vs_size(list_of_ns, n_trials=50, pivot_type=LEFT_PIVOT):
 # initially [40, 80, 120 ... 760]
 # list_of_ns will be used as the x-axis on your graphs
 # and average time will be plotted on the y-axis
-list_of_ns = list(range(40, 800, 40))
-
 # some quick and dirty plotting
-n_trials = 50
-avg_times = times_vs_size(list_of_ns, n_trials, pivot_type=LEFT_PIVOT)
-axes = pyplot.axes()
-#axes.plot(list_of_ns, avg_times, marker='o', color='blue')
-axes.plot(list_of_ns, avg_times, marker='o', color='indigo')
-axes.set_title(f'Time vs. List size, average of {n_trials} trials')
-axes.set_xlabel('n')
-axes.set_ylabel('Average Time per sort')
-pyplot.show()
 
 
-# to add more lines to the plot simply make more calls to plot
-# eg,
-#axes.plot(list_of_ns, avg_times, marker='o', color='indigo')
-#axes.plot(list_of_ns, other_avg_times, marker='x', color='red')
+# n_trials = 100
+# avg_times = times_vs_size(test_list, n_trials, pivot_type=LEFT_PIVOT)
+# axes = pyplot.axes()
+
+# axes.plot(test_list, avg_times, marker='o', color='indigo')
+# axes.set_title(f'Time vs. List size, average of {test_list} trials')
+# axes.set_xlabel('n')
+# axes.set_ylabel('Average Time per sort')
+# pyplot.show()
+
+test_list = list(range(760))  # test_list is a sorted list
+# random.shuffle(test_list) # mixes items in to a random order
+times = (times_vs_size(test_list, n_trials=100, pivot_type=MO3_PIVOT))
+print(sum(times) / len(times))
+ 
