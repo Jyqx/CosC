@@ -49,9 +49,39 @@ def common_items(list_x, list_y):
     # [0, 2, 5, 7]
 
     # ---start student section---
-    pass
+    result = []
+    index_x = 0
+    index_y = 0
+
+    while index_x < len(list_x) and index_y < len(list_y):
+        value_x = list_x[index_x]
+        value_y = list_y[index_y]
+
+        if value_x == value_y:
+            # If the values match, add it to the result list and move both indices.
+            result.append(value_x)
+            index_x += 1
+            index_y += 1
+        elif value_x < value_y:
+            # If the value from list_x is smaller, move its index forward.
+            index_x += 1
+        else:
+            # If the value from list_y is smaller, move its index forward.
+            index_y += 1
+
+    return result
     # ===end student section===
 
 
 if __name__ == "__main__":
-    doctest.testmod()
+    unique6 = read_data("data/ordered_11.txt")
+    unique7 = read_data("data/ordered_12.txt")
+    alist = (common_items(unique6, unique7))
+    print(len(common_items(unique6, unique7)))
+    unique_list = list(set(alist))
+    print(len(unique_list))
+    # print(common_items([0, 1, 2, 3], [0, 1, 2, 3]))  # [0, 1, 2, 3]
+    # print(common_items([0, 1, 2, 3], [5, 6, 7, 8]))  # []
+    # print(common_items([], [5, 6, 7, 8]))  # []
+    # print(common_items([1, 2, 3, 4], []))  # []
+    # print(common_items([], []))  # []

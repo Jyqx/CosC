@@ -274,7 +274,7 @@ def pivot_index_mo3(values, left, right):
     # ===end student section===
 
 if __name__ == "__main__":
-    x = read_data("data/list2.txt")
+    x = read_data("data/list1.txt")
 
     # Sort the data
     x.sort()
