@@ -105,7 +105,14 @@ class Max_3_Heap(Heap):
         while it is larger than its parent.
         """
         # ---start student section---
-        pass
+        while index > 1:
+            parent_index = (index + 2) // 3
+
+            if self._items[index] <= self._items[parent_index]:
+                break
+
+            self._items[index], self._items[parent_index] = self._items[parent_index], self._items[index]
+            index = parent_index
         # ===end student section===
 
     # -------------------------------------------------
@@ -207,7 +214,37 @@ class Max_3_Heap(Heap):
         heap while it is smaller than any of its children.
         """
         # ---start student section---
-        pass
+        while True:
+            child1_index = 3 * index - 1
+            child2_index = 3 * index
+            child3_index = 3 * index + 1
+
+            largest_index = index
+
+            if (
+                child1_index < len(self._items) and
+                self._items[child1_index] > self._items[largest_index]
+            ):
+                largest_index = child1_index
+
+            if (
+                child2_index < len(self._items) and
+                self._items[child2_index] > self._items[largest_index]
+            ):
+                largest_index = child2_index
+
+            if (
+                child3_index < len(self._items) and
+                self._items[child3_index] > self._items[largest_index]
+            ):
+                largest_index = child3_index
+
+            if largest_index != index:
+                # Swap the item with the largest child if it's smaller.
+                self._items[index], self._items[largest_index] = self._items[largest_index], self._items[index]
+                index = largest_index
+            else:
+                break
         # ===end student section===
 
     # -------------------------------------------------
@@ -235,10 +272,32 @@ class Max_3_Heap(Heap):
 
 if __name__ == '__main__':
     os.environ['TERM'] = 'linux'  # Suppress ^[[?1034h
-    doctest.testmod()
+    # doctest.testmod()
 
-    my_heap = Max_3_Heap()
-    for item in [20, 18,13,15,11,12,16,10,9,11,13,2,9,10,1]:
-        my_heap.insert(item)
+    h = Max_3_Heap()
+    for item in [96, 94, 72, 84, 52, 82, 78, 34, 46, 70, 24, 42, 64, 30, 48, 10, 66, 44, 60, 54, 56, 26, 16]:
+        h.insert(item)
+    print(h)
+    print(h.pop_max())
+    print(h)
 
+def parent_index_3_heap(child_index):
+    """
+    Parent index of a child in a 3-heap.
+    """
+    if child_index == 1:
+        # The root node (index 1) has no parent.
+        return None
 
+    # Calculate the parent index based on the given child index.
+    parent_index = (child_index + 1) // 3
+
+    if parent_index >= 1:
+        return parent_index
+    else:
+        return None
+
+child_index = [2,3,6,7]  # Replace with the child index you want to find the parent for.
+for itme in child_index:
+    parent = parent_index_3_heap(itme)
+    print("Parent index:", parent)
